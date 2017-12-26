@@ -1,0 +1,1001 @@
+Questions,num_words,num_characters,num_misspelled,bin_start_interrogative,bin_end_qmark,num_interrogative,bin_start_small,avg_word_sentence,num_sentences,bin_url,readability_score,num_punctuations,bin_taboo,grammar_check,Average IDF,Entropy,Polarity,Subjectivity
+Which event must always occur for a chemical reaction to take place?(1) formation of a precipitate(2) formation of a gas(3) effective collisions between reacting particles(4) addition of a catalyst to the reaction system,37,188,0,0,0,0,0,18.5,2,0,10.60621622,9,0,1,-2.259765096,0.709889543,0.6,0.8
+Jack spent $100 on eight packs of cards how much did each pack cost,14,54,0,0,0,1,0,14,1,0,3.400714286,0,0,1,-4.537511538,0.036313545,0.05,0.15
+"As one moves farther and farther from the Sun, the distance between adjacent planets is?<br /> A. smaller<br /> B. greater<br /> C. constant",24,117,3,0,0,0,0,4.8,5,0,1.18375,11,0,0,-3.522062084,0.10377443,0,0.333333333
+What is the unit rate for meters per second if a car travels 238 meters in 17 seconds?,18,69,0,1,1,1,0,18,1,0,5.363333333,1,0,1,-4.295015258,0.052646668,0,0
+Which of the following is a producer? <br /> a. a crow that consumes a dead animal on the side of a road<br /> b. a fish that eats smaller fish for its food<br /> c. a giraffe that eats the leaves of trees<br /> d. a plant that has insect larvae feeding on its roots,55,211,4,0,0,0,0,9.166666667,6,0,-0.233212121,13,0,0,-4.117101549,0.107927387,-0.066666667,0.333333333
+A voltaic cell spontaneously converts chemical energy to<br /> (1) electrical energy (3) mechanical energy<br /> (2) geothermal energy (4) nuclear energy,22,132,2,0,0,0,0,22,1,0,14.83272727,12,0,0,-2.016538973,0.744209969,0.6,0.9
+"A 3.00-newton force causes a spring to stretch 60.0 centimeters. Calculate the spring constant of this spring. [Show all work, including the equation and substitution with units.]",30,153,0,0,0,0,0,5,6,0,3.678,9,0,1,-4.605170186,0.068866657,0,0.333333333
+The garage shown is a composite of more than one shape. Which of these would be a correct way to find its volume?  <br /><br /> A. add the volume of a rectangular prism to the volume of a triangular prism.<br /> B. add the volumes of a rectangular prism and a pyramid <br /> C. find the volume of a pyramid<br /> D. find the volume of a rectangular prism,69,283,5,0,0,0,0,8.625,8,0,0.698586957,17,0,0,-3.990856767,0.171315376,0.5,0.5
+"what is the greatest common factor of 27,36,72",10,39,0,1,0,1,1,10,1,0,0.997,2,0,0,-4.683131727,0.013630123,0.35,0.75
+Rachel's cell phone company charges $0.10 per minute. She used 350 minutes last month and paid $84. Write and solve a linear equation to find what her bill<br /> will be id she uses 300 minutes next month?,39,168,1,0,1,1,0,9.75,4,0,2.647307692,6,0,0,-3.719338662,0.225931154,0,0.033333333
+Please find the volume of the object shown. Use 3.14 as pi.  Round your answer to the nearest hundredth. ,20,85,0,0,0,0,0,4,5,0,-0.3545,4,0,1,-4.216512196,0.060589017,-0.2,0.4
+Moving 4.0 coulombs of charge through a circuit<br /> requires 48 joules of electric energy. What is the<br /> potential difference across this circuit?<br /> (1) 190 V (3) 12 V<br /> (2) 48 V (4) 4.0 V,40,165,4,0,0,1,0,8,5,0,-0.82725,20,0,0,-2.298768855,0.734798189,0,1
+A 750-newton person stands in an elevator that is<br /> accelerating downward. The upward force of the<br /> elevator floor on the person must be<br /> (1) equal to 0 N (3) equal to 750 N<br /> (2) less than 750 N (4) greater than 750 N,48,190,4,0,0,0,0,24,2,0,7.055,18,0,0,-2.345724586,0.747453023,0.083333333,0.266666667
+"A student constructed a series circuit consisting of a 12.0-volt battery, a 10.0-ohm lamp, and a<br /> resistor. The circuit does not contain a voltmeter or an ammeter. When the circuit is operating, the<br /> total current through the circuit is 0.50 ampere.<br /> Calculate the power consumed by the lamp. [Show all work, including the equation and substitution<br /> with the units.]",68,324,4,0,0,1,0,7.555555556,9,0,2.850130719,24,0,0,-4.979312823,0.085236271,0,0.575
+"At a certain location, a gravitational force with<br /> a magnitude of 350 newtons acts on a 70.-kilogram<br /> astronaut. What is the magnitude of the gravitational<br /> field strength at this location?<br /> (1) 0.20 kg/N (3) 9.8 m/s2<br /> (2) 5.0 N/kg (4) 25 000 Ní¢ä‰åŒ¢kg",56,231,6,0,0,1,0,8,7,0,-1.449642857,26,0,0,-2.376351243,0.711808916,0.214285714,0.571428571
+Earthí¢ä‰åä‹¢s tides are determined by the mooní¢ä‰åä‹¢s ________________ pull.<br /> a. rotational<br /> c. gravitational<br /> b. radial<br /> d. ecliptic,22,136,4,0,0,0,0,3.666666667,6,0,-0.970757576,13,0,0,-3.665814181,0.078179843,0,0
+Rosa put $750 into a savings account that earns 3% simple interest each year she plans to put no more money into this account how much money will be in the account in a year?,35,140,0,0,1,1,0,35,1,0,14.50628571,1,0,1,-4.305065594,0.087975171,-0.016666667,0.352380952
+Transverse waves are to radio waves as<br /> longitudinal waves are to<br /> (1) light waves (3) ultraviolet waves<br /> (2) microwaves (4) sound waves,25,127,3,0,0,0,0,25,1,0,11.794,14,0,0,-2.021021702,0.699312008,0.4,0.55
+The expression D over T can be used to find the average speed of an object that travels a distance D in time T what is a cars average speed if it travels 145 miles in 2.5 hours,39,139,0,0,0,1,0,19.5,2,0,4.986153846,1,0,1,-4.437663715,0.072333293,-0.15,0.4
+"what is 0,64 as a fraction in reduced form",10,34,0,1,0,1,1,10,1,0,-0.887,1,0,0,-4.892852258,0.011217982,0,0
+"A sound wave traveling eastward through air<br /> causes the air molecules to<br /> (1) vibrate east and west<br /> (2) vibrate north and south<br /> (3) move eastward, only<br /> (4) move northward, only",35,170,5,0,0,0,0,35,1,0,15.58285714,20,0,0,-2.203041463,0.701001669,0.2,0.7
+how to do balancing equations ,5,25,0,1,0,1,1,5,1,0,4.62,0,0,0,-5.403677882,0.003672008,0,0
+A molecule of an unsaturated hydrocarbon must have(1) at least on single carbon-carbon bond<br /> (2) at least one multiple carbon-carbon bond<br /> (3) two or more single carbon-carbon bonds<br /> (4) two or more multiple carbon-carbon bonds,43,205,3,0,0,0,0,43,1,0,20.2244186,18,0,0,-2.26103609,0.741667005,0.032142857,0.278571429
+"Explain, in terms of protons and neutrons, why U-235 and U-238 are different isotopes of Uranium.",18,82,0,0,0,1,0,18,1,0,7.718333333,5,0,1,-5.521460918,0.014404398,0,0.6
+24. Which energy conversion occurs in an operating electrolytic cell?(1) chemical energy to electrical energy<br /> (2) electrical energy to chemical energy<br /> (3) nuclear energy to thermal energy<br /> (4) thermal energy to nuclear energy,37,207,3,0,0,0,0,12.33333333,3,0,8.668558559,16,0,0,-2.266942201,0.800391945,0,0
+"The heating element in an automobile window<br /> has a resistance of 1.2 ohms when operated at<br /> 12 volts. Calculate the power dissipated in the<br /> heating element. [Show all work, including the<br /> equation and substitution with units.]",41,208,4,0,0,1,0,8.2,5,0,4.38195122,15,0,0,-4.806807532,0.068621279,0,0
+state Einsiein's equation of photoelectric effect and what conservation principle does Einstein's equation represent,14,103,1,0,0,1,1,14,1,0,20.22214286,0,0,0,-3.260098541,0.132129537,0,0
+"A 3.6-volt battery is used to operate a cell phone<br /> for 5.0 minutes. If the cell phone dissipates<br /> 0.064 watt of power during its operation, the<br /> current that passes through the phone is<br /> (1) 0.018 A (3) 19 A<br /> (2) 5.3 A (4) 56 A",56,204,5,0,0,0,0,8,7,0,-2.879464286,26,0,0,-2.307597635,0.723531742,0,0.4
+What is the wavelength of a 2.50-kilohertz sound<br /> wave traveling at 326 meters per second through<br /> air?<br /> (1) 0.130 m (3) 7.67 m<br /> (2) 1.30 m (4) 130. m,38,138,4,1,0,1,0,5.428571429,7,0,-4.957556391,23,0,0,-2.051227931,0.707932509,0,0
+A boy pushes his sister on a swing. What is the<br /> frequency of oscillation of his sister on the swing<br /> if the boy counts 90. complete swings in 300.<br /> seconds?<br /> (1) 0.30 Hz (3) 1.5 Hz<br /> (2) 2.0 Hz (4) 18 Hz,50,182,5,0,0,1,0,6.25,8,0,-3.9866,25,0,0,-2.341920098,0.71862652,0.1,0.4
+The wattí¢ä‰åŒ¢second is a unit of<br /> (1) power<br /> (2) energy<br /> (3) potential difference<br /> (4) electric field strength,22,112,4,0,0,0,0,22,1,0,7.767727273,16,0,0,-1.847574248,0.696018447,0,1
+the strength of the pulling force on the moon is 1/6 of that on earth whilst on Jupiter it is 2.5 times stronger what is the weight on the moon<br />,33,119,1,0,0,1,1,16.5,2,0,3.090909091,3,0,0,-5.078255482,0.030354288,0,0
+"The magnitude of the centripetal force acting on<br /> an object traveling in a horizontal, circular path<br /> will decrease if the<br /> (1) radius of the path is increased<br /> (2) mass of the object is increased<br /> (3) direction of motion of the object is reversed<br /> (4) speed of the object is increased",56,260,6,0,0,0,0,56,1,0,26.16696429,21,0,0,-2.330984568,0.732084071,0,0
+Fran has 7 sheets of paper for a colouring project. If she only uses 1/3 of a sheet of paper per drawing how many drawings can she make?,29,109,1,0,1,1,0,14.5,2,0,3.035862069,2,0,0,-4.509860006,0.056685895,0.25,0.75
+"Like plants, human beings have similarities and differences. God gave us talents which He wants us to use. What can you do best? How can you share this talent to others?",31,139,0,0,1,2,0,7.75,4,0,2.804354839,5,0,1,-4.96184513,0.043499951,0.4,0.166666667
+Chemical formula for hydroxide,4,27,0,0,0,0,0,4,1,0,12.3625,0,0,1,-5.11599581,0.00690496,0,0
+Why would a doctor not give antibiotics to a person with influenza,12,55,0,1,0,1,0,12,1,0,6.1575,0,0,1,-4.80769445,0.017593304,0,0
+Speed is the ratio of the distance an object moves to <br /> A. the amount of time needed to travel the distance. <br /> B. the direction the object moves. <br /> C. the displacement of the object. <br /> D. the motion of the object.,43,187,4,0,0,0,0,5.375,8,0,-0.450174419,16,0,0,-3.723144048,0.132592147,0,0
+for which value of x is the expression x + 2/2 X -1 undefined,14,48,0,0,0,0,1,14,1,0,0.709285714,1,0,0,-3.445497641,0.085203762,0,0
+Which statement is not always true?<br /> (1) The product of two irrational numbers is irrational.<br /> (2) The product of two rational numbers is rational.<br /> (3) The sum of two rational numbers is rational.<br /> (4) The sum of a rational number and an irrational number is<br /> irrational.,51,247,5,0,0,0,0,10.2,5,0,3.895294118,23,0,0,-2.318827399,0.775638015,0,0
+irrational equations 64^1/3 how to simplify?<br />,9,44,1,0,0,1,1,4.5,2,0,0.706666667,3,0,0,-5.349610661,0.007715589,0,0
+Following proper safety guidelines _______.<br /> a. minimizes the chance of accidents occurring in lab <br /> b. involves using a fire extinguisher <br /> c. prevents accidents from occurring in lab <br /> d. requires using a safety shower,36,201,4,0,0,0,0,6,6,0,4.7275,13,0,0,-4.072093953,0.113804672,0,0.1
+The velocity a rocket must reach to establish an orbit around Earth is called escape velocity.,16,79,0,0,0,0,0,16,1,0,9.53125,1,0,1,-5.228113108,0.022947578,0,0
+"An air track car with a mass of 0.75 kg and a velocity of 8.5 m/s to the right collides elastically with a 0.65kg car moving to the left with a velocity of 7.2m/s. If the collision is elastic, what is the speed and direction of each car after the collision?",57,207,2,0,1,1,0,9.5,6,0,-0.318947368,7,0,1,-5.088596836,0.057073175,0.142857143,0.267857143
+"If a scale factor is less than 1, then what does my figure get? (Geometry)",15,60,0,0,0,1,0,7.5,2,0,-0.096,4,0,1,-2.356220309,0.184746348,-0.166666667,0.066666667
+ What is the volume of a sphere with a 21 cm diameter ,12,41,0,1,0,1,0,12,1,0,0.6625,0,0,1,-5.259096653,0.010330912,0,0
+Write 16/75 as a % round your answer to the nearest tenth of a %,14,50,0,0,0,0,0,14,1,0,1.382142857,0,0,1,-4.305065594,0.03798476,-0.2,0.4
+"After the price of petroleum oil went up by 10%, a consumer reduced his oil consumption by the same percent. By what percent would his petroleum bill be changed? THE ANSWER IS NOT 10%.",34,151,0,0,0,1,0,11.33333333,3,0,4.323431373,4,0,1,-4.427244241,0.077416275,0,0.125
+reduce 18/32 to lowest terms,6,24,0,0,0,0,1,6,1,0,-0.375,0,0,0,-5.991464547,0.004304545,0,0
+What does eutrophication mean? A simple definition of it,9,48,1,1,0,1,0,4.5,2,0,5.416666667,1,0,0,-5.403677882,0.007358837,-0.15625,0.522321429
+"To increase the amount of electricity produced in the U.S., we could place what on top of all Wal-Mart stores?<br /><br /> Turbines<br /><br /> Biomass incinerators<br /><br /> Wind farms<br /><br /> Solar panels",37,178,9,0,0,1,0,9.25,4,0,2.162297297,21,0,0,-5.464302504,0.029083043,0.5,0.5
+An astronaut has a mass of 76.0 kg. What is the astronaut's stationary weight at a position 8960 kilometers above Earth's surface? Note: Earth's radius is 6380 km.,29,136,0,0,0,1,0,7.25,4,0,3.471206897,4,0,1,-3.681289285,0.142155951,0,0.1
+An instrument for observing very small objects is<br /> a. micrometer<br /> spectroscope<br /> microscope<br /> magnoscope,17,106,5,0,0,0,0,8.5,2,0,8.586470588,9,0,0,-6.422247463,0.005909803,-0.325,0.52
+"Which one of the following types of training involves 10 to 30 minutes of high-intensity exercise?<br /> A. Anaerobic<br /> B. Long, steady distance<br /> C. Medium range<br /> D. Interval",32,158,4,0,0,0,0,5.333333333,6,0,1.695729167,15,0,0,-3.641594181,0.139854634,0.038888889,0.333333333
+A pregnant woman needs about _____ grams of protein per day above prepregnancy needs.<br /> Answers:<br /> 25.<br /> 30.<br /> 35.<br /> 40.,23,117,6,0,0,0,0,4.6,5,0,-0.494782609,15,0,0,-4.264243599,0.075054962,0.166666667,0.3
+"What's the next number?<br /> 7594, 3649, 9253, ......",8,46,1,0,0,0,0,4,2,0,-0.00125,12,0,0,-3.170085661,0.100334932,0,0
+"Express with an exponent and the given base:<br /> 64, base 8",12,50,1,0,0,0,0,12,1,0,2.2325,3,0,0,-4.081922042,0.043675209,-0.8,1
+What the formula to find volume of a cylinder,9,37,0,1,0,1,0,9,1,0,2.433333333,0,0,1,-4.532849524,0.015150841,0,0
+if T(n) = 2n - 7 what is the 5th term,10,27,1,0,0,1,1,10,1,0,-5.597,3,0,0,-2.343407088,0.188996261,0,0
+simplify 0.3{x-2y}+0.5x-y,8,24,2,0,0,0,1,2.666666667,3,0,-10.08791667,6,0,0,-5.991464547,0.006547869,0,0
+"If 1/2 of 5 is 3, then what is 1/3 of 10?<br />",15,35,1,0,0,1,0,7.5,2,0,-8.888,4,0,0,-3.275446176,0.055784527,0,0
+What is the prime factorization of 26,7,31,0,1,0,1,0,7,1,0,2.928571429,0,0,1,-5.521460918,0.004955998,0,0
+Which factors of 72 are multiples of its prime factor?,10,45,0,0,1,0,0,10,1,0,4.294,1,0,1,-5.083205987,0.011917672,0,0
+What is the product of 3a^2b and -2ab,9,30,3,1,0,1,0,9,1,0,-2.276666667,1,0,1,-6.060457419,0.003035377,0,0
+what is the value of x in the equation 2x+7=1,12,36,1,1,0,1,1,12,1,0,-2.085,0,0,0,-3.473768074,0.037271006,0,0
+what decimal is greater 0.732 or 0.75,9,31,0,1,0,1,1,3,3,0,-4.753333333,2,0,0,-5.403677882,0.007197905,0.5,0.5
+what is the answer to 3b+b+6,8,23,1,1,0,1,1,8,1,0,-5.06625,0,0,0,-4.305065594,0.009052461,0,0
+is 5/12 greater than 0.44,7,21,0,0,0,0,1,3.5,2,0,-6.895714286,1,0,0,-5.298317367,0.005889461,0.5,0.5
+Use inverse operations to solve X - 5.6 = -1.7,10,37,0,0,0,0,0,3.333333333,3,0,-4.691333333,4,0,1,-3.684444857,0.06839543,0,0
+Factor out this coefficient of the variable. 1/2a-1/2=,11,47,1,0,0,0,0,5.5,2,0,-0.696363636,2,0,1,-5.203007187,0.008364593,0,0
+What is the gradient and y-intercept of 3y=4x+6,11,40,2,1,0,1,0,11,1,0,-0.087272727,1,0,1,-6.396929655,0.002289448,0,0
+What is the solution to the equation<br /><br /> n= -1<br /> n= 2<br /> n=5/3<br /> n= 5/2,22,72,5,1,0,1,0,22,1,0,0.274545455,11,0,0,-3.863232841,0.055836773,0,0
+which is a multiple of 8 and a factor of 32,11,33,0,0,0,0,1,11,1,0,-1.8,0,0,0,-4.422848629,0.017427403,0,0
+which number is a multiple of 8 and a factor of 32,12,39,0,0,0,0,1,12,1,0,-0.1225,0,0,0,-4.062845895,0.029227568,0,0
+ what is 72 % of 350 friends<br />,7,26,1,1,0,1,0,7,1,0,-3.127142857,2,0,0,-4.828313737,0.012010684,0,0
+what is 5 % of 220 files,6,18,0,1,0,1,1,6,1,0,-5.085,0,0,0,-4.250998372,0.018933314,0,0
+a baker make 180 bagle in 10 hours how many bagle in 12 hours what is the rate per hour <br />,21,73,3,0,0,2,1,21,1,0,4.77,2,0,0,-4.083632907,0.072700887,0.5,0.5
+Round 96.493 to the nearest tenth.,7,29,0,0,0,0,0,3.5,2,0,-1.512857143,2,0,1,-5.075173815,0.00977549,-0.2,0.4
+$7.50 a meal 6.5% tax,7,17,0,0,0,0,0,2.333333333,3,0,-11.51619048,2,0,1,-4.177726171,0.030469348,0,0
+what percent of 20 is 11,6,19,0,1,0,1,1,6,1,0,-3.515,0,0,0,-4.245167452,0.014965172,0,0
+%of 25 is 14.<br /><br /> what percent of 20 is 11?<br /><br /> 15 is,16,54,4,0,0,1,0,5.333333333,3,0,-7.282708333,10,0,0,-4.248495242,0.035159338,0,0
+%of 25 is 14.<br /><br /> what percent of 20 is 11?<br /><br /> 15 is what percent of 5,20,68,4,0,0,2,0,6.666666667,3,0,-5.615166667,10,0,0,-4.128246114,0.049870882,0,0
+2.<br /> What is the value of the function when t = 3? <br /> v=3/2t - 5/2,18,57,3,0,0,2,0,6,3,0,-6.916666667,7,0,0,-3.140758046,0.096785551,0,0
+Please help! Due tonight<br /><br /> f(4) if f(x) = 3x - 1,13,46,3,0,0,0,0,6.5,2,0,-6.223846154,10,0,0,-2.120784505,0.427930082,-0.125,0.375
+PLEASE HELP! DUE TONIGHT!<br /><br /> Find each function value for the given function rule.<br /><br /> a. f(7) if f(x) = 5x<br /><br /> b. f(9) if f(x) = x + 13<br /><br /> c. f(4) if f(x) = 3x - 1,44,156,10,0,0,0,0,6.285714286,7,0,-6.619188312,35,0,0,-2.090986186,1.255700942,-0.125,0.375
+the sum of a number g and 2<br />,9,25,1,0,0,0,1,9,1,0,-5.416666667,2,0,0,-3.158251203,0.047593719,0,0
+How to solve linear equations 12 = y + (-2),8,34,0,1,0,1,0,8,1,0,-0.35625,3,0,1,-2.329613765,0.192952705,0,0
+"Which is greater, 2 or -13?",6,22,0,0,1,0,0,6,1,0,-3.515,3,0,1,-3.154337304,0.034197643,0.5,0.5
+What is the difference between similar and congruentent,8,48,1,1,0,1,0,8,1,0,10.83,0,0,0,-5.44141821,0.005304465,0,0.4
+"While shopping you discover that your favorite department store has lowered the price on a new MP3 player that you wanted to buy. You rush into the store, only to find that they are sold out. What concept does this scenario illustrate?<br /> A. Laissez faire<br /> B. Law of Diminishing Returns<br /> C. Shortage<br /> D. Scarcity",58,273,6,0,0,1,0,7.25,8,0,2.740344828,16,0,0,-4.28412242,0.107826882,0.212121212,0.818181818
+What is another word for the central character of a short story?<br /> A. antagonist<br /> B. protagonist <br /> C. stock <br /> D. dynamic,24,114,4,1,0,1,0,4,6,0,-0.39375,13,0,0,-3.554931482,0.091112655,0,0.238888889
+name two equivalent fractions for each <br /> 2/4<br /> 1/3<br /> 1/4,15,57,3,0,0,0,1,15,1,0,0.2,6,0,0,-4.828313737,0.019989994,0,0
+What is the difference between similar and congruent,8,45,0,1,0,1,0,8,1,0,9.06375,0,0,1,-5.44141821,0.005304465,0,0.4
+which decimal is equivalent to negative 7/8,8,37,0,0,0,0,1,8,1,0,3.765,0,0,0,-5.896154367,0.004765735,-0.3,0.4
+What is 3456*43? are you happy?<br />,8,31,1,1,0,1,0,2.666666667,3,0,-5.377916667,4,0,0,-5.991464547,0.002178161,0,0
+"Under the _______ Amendment, you have the right to know the charges brought against you and to question witnesses who bring evidence against you. <br /> A. Second <br /> B. Sixth <br /> C. Fifth <br /> D. First",35,171,4,0,0,1,0,5.833333333,6,0,1.134095238,14,0,0,-3.711636441,0.107860418,0.178571429,0.28968254
+"When all parts of a circuit are composed of conducting materials, the circuit is said to be<br /> A. closed.<br /> B. shorted.<br /> C. parallel.<br /> D. open.",29,132,4,1,0,1,0,3.625,8,0,-1.589568966,17,0,0,-3.682744466,0.085801477,0,0.5
+The distance from Jason's house to school is 0.5 kilometers. What is this distance in meters?,17,78,0,0,1,1,0,5.666666667,3,0,2.182745098,3,0,1,-3.140232698,0.126012583,0,0
+what would you think JROTC will be like 100 years from today,12,49,1,1,0,1,1,12,1,0,3.8025,0,0,0,-4.310370646,0.033031978,0,0
+Jenna bought 5 pounds of apples for $6.85. What is the unit price per pound of apples?,18,70,0,0,1,1,0,6,3,0,-1.16,3,0,1,-4.245167452,0.057174952,0,0
+It took 20 minutes to print out a 250 page report.at this speed how many pages could this printer produce in 30 minutes,24,97,0,0,0,1,0,12,2,0,3.41,1,0,1,-4.598525643,0.052149353,0.5,0.5
+Solve for y:-<br /><br /> y + 17 = 38<br /><br /> Thanks! :P,12,47,4,0,0,0,0,6,2,0,-7.0475,10,0,0,-3.442019376,0.095883518,0.5,0.6
+Answer this:-<br /><br /> l + a + i + b + a = <br /><br /> l = 2<br /> a = 4<br /> i = 1.5<br /> b = 1.5<br /><br /> Thanks so much! :P ,30,98,9,0,0,0,0,7.5,4,0,-8.888,22,0,0,-2.889122538,0.366880335,0.4,0.466666667
+What is 6 to the tenth power,7,22,0,1,0,1,0,7,1,0,-3.127142857,0,0,1,-4.572380363,0.011543531,0,0
+A recipe for chicken soup calls for 4 cups of water fir 9 servings. How many servings can be made with 12 pints of water?,25,97,0,0,1,1,0,12.5,2,0,2.718,2,0,1,-4.342805922,0.067453647,-0.05,0.725
+"In order for biological evolution to occur, the ______ of an organism must change and be passed on to offspring.<br /> blood<br /> DNA<br /> cells<br /> bone structure",28,139,4,0,0,0,0,14,2,0,5.5875,10,0,0,-5.094016903,0.034810236,0,0
+what is the perimeter or the parallelogram?<br />,8,42,1,1,0,1,1,4,2,0,2.9425,3,0,0,-6.502290171,0.001402919,0,0
+What is the area of JKL? ,6,19,1,1,0,1,0,3,2,0,-5.8,1,0,1,-5.403677882,0.003591468,0,0
+Jerry has a string of lights. Give a fraction that represents each point on the string compared to the whole. ,20,90,0,0,0,0,0,6.666666667,3,0,2.627333333,2,0,1,-5.278514739,0.019891062,0.2,0.4
+At the local aquarium there are 10 dolphins 8 penguins and 4 whales what is the ratio of penguins to whales,21,87,0,0,0,1,0,21,1,0,8.582857143,0,0,1,-4.262225435,0.048355725,0,0
+a package of 6 pairs of socks cost $35.34 what is the unit price for the pairs of socks,20,69,0,0,0,1,1,10,2,0,-0.6515,1,0,0,-4.569452103,0.039099157,0,0
+Brody is organizing his action figures on a shelf. He wants to divid them equally among 4 shelves there are 37 action figures Brody says he will have2 left over find and correct his mistake<br />,36,160,3,0,0,0,0,18,2,0,7.98,3,0,0,-4.9088526,0.051955138,0.08,0.11
+You and two friends got jobs at stores in the mall. You earn $117.60 for 14 hours of work. Ty earns $148.50 in 18 hours. Kim earns $137.60 in 16 hours. Who has the highest pay rate in dollars per hour?,44,161,0,0,1,1,0,5.5,8,0,-2.623181818,8,0,1,-4.406319327,0.123028107,0,0
+Garrett is 64 inches how many centimeters tall is he round your answer to the nearest tenth of a centimeter. 1 in.=2.54cm,24,100,1,0,0,1,0,6,4,0,0.41,3,0,1,-4.139985843,0.064846717,0.15,0.45
+Use inverse operations to solve X - 5.6 = -1.7,10,37,0,0,0,0,0,3.333333333,3,0,-4.691333333,4,0,1,-3.684444857,0.06839543,0,0
+Convert 1.7 Kg to cg,6,16,0,0,0,0,0,3,2,0,-8.155,1,0,1,-5.65499231,0.005850168,0,0
+How many meters are in 2.7 km?,8,24,0,1,1,1,0,4,2,0,-6.4775,2,0,1,-3.9633163,0.02459194,0.5,0.5
+"How many centimeters are in 2.4 km?<br /> a. 240<br /> b. 2400<br /> c. 24,000<br /> d. 240,000",22,77,4,1,0,1,0,3.142857143,7,0,-7.65538961,16,0,0,-3.343872315,0.091840341,0.5,0.5
+An 8- pound bag of apples costs $17.50.What is the unit price?,14,51,0,0,1,1,0,4.666666667,3,0,-3.620952381,4,0,0,-4.480007043,0.034694642,0,0
+how many # of pi do you know,7,21,0,1,0,1,1,7,1,0,-4.472857143,0,0,0,-4.059943136,0.022613494,0.5,0.5
+What are some deep meaningful quotes? Im looking for everything from happy to sad,14,68,1,1,0,1,0,7,2,0,4.610714286,1,0,0,-5.691359955,0.010935484,0.2,0.725
+Which store gives you the best deal?<br /> Metromarket<br /> 18cans of soda for $9<br /> Wal-Town<br /> 10cana of soda for $7.50<br /> ShopStop<br /> 14cans of soda for $7.00,34,144,12,0,0,0,0,8.5,4,0,-0.695,16,0,0,-4.379923584,0.078194194,1,0.3
+12.38 in expanded form,5,19,0,0,0,0,0,2.5,2,0,-3.224,1,0,1,-5.010635294,0.007452176,0,0
+what fraction is equal to 3/5,7,24,0,1,0,1,1,7,1,0,-2.454285714,0,0,0,-4.870873352,0.008667029,0,0.25
+which religion believes in mecca,5,28,0,0,0,0,1,5,1,0,7.446,0,0,0,-6.214608098,0.002711363,0,0
+Jeremy has a 7-foot-long boards. He needs to cut pieces that are 10 inches long from the boards. How many 10-inch pieces can he cut from the board? ,31,120,0,0,0,1,0,7.75,4,0,-0.234354839,6,0,1,-4.645992181,0.049664645,0.225,0.45
+Round each number to the nearest tenth 26.73 + 89.42<br />,12,48,1,0,0,0,0,4,3,0,-2.945,4,0,0,-4.268697949,0.0328113,-0.2,0.4
+What is 1000=blank 3(exponent),6,27,0,1,0,1,0,6,1,0,0.41,2,0,1,-1.817692851,0.168838169,0,0
+A new vaccine was developed and then tested on<br /> a large sample of individuals. This new vaccine<br /> will be considered effective if it helps prepare<br /> the body to fight future invasion by<br /> (1) inhibiting the response of red blood cells<br /> (2) stimulating the reproduction of microbes<br /> (3) inhibiting the action of immune cells<br /> (4) stimulating the production of antibodies,66,336,7,0,0,0,0,33,2,0,16.90727273,23,0,0,-2.567201893,0.724925515,0.160876623,0.332832792
+Article on computer advantages and disadvantages<br />,7,48,1,0,0,0,0,7,1,0,12.34857143,2,0,0,-6.348139491,0.003201865,0,0
+What is verbal irony? the opposite of what is true is what happens saying the opposite of what is meant a character takes an opposite point of view a character in the story represents the author,36,159,0,1,0,4,0,18,2,0,8.241666667,1,0,0,-5.263631809,0.034407674,0.0875,0.1625
+The setting directly affects the tone of a story.,9,41,0,0,0,0,0,9,1,0,4.003333333,1,0,1,-5.626821434,0.007346885,0.1,0.4
+300 words on a true hero in a unifying force in diverse society,13,51,0,0,0,0,0,13,1,0,3.547692308,0,0,1,-4.509860006,0.031976752,0.35,0.65
+How do you say football in Spanish<br />,8,33,1,1,0,1,0,8,1,0,0.2325,2,0,0,-5.233778845,0.00631068,0,0
+Description about a fake super hero??,6,32,0,0,1,0,0,6,1,0,5.12,2,0,1,-5.298317367,0.007637247,-0.083333333,0.833333333
+marshallow writing template,3,25,1,0,0,0,1,3,1,0,19.32,0,0,0,-5.80914299,0.003814043,0,0
+how do you know 13 is the greatest prime number of 52,12,42,0,1,0,1,1,12,1,0,1.055,0,0,0,-4.355709326,0.026692144,1,1
+"what's the least common multiple of 4,10 and 12",10,39,0,0,0,0,1,10,1,0,1.468,1,0,0,-2.969414965,0.121202888,-0.2,0.3
+"Math homework help?<br /><br /> Pooters and Dooters were walking across a bridge one day, minding their own business.  They knew that a train was due to come across that bridge soon, but they thought they could make it.  It was a nice sunny day, and there was a great view from the bridge, so they walked very slowly, enjoying the view and savoring the warmth of the spring day.<br /><br /> They were one-third of the way across the bridge, when the sound of a train whistle brought them instantly back to reality.  Looking back over their shoulders, they saw a huge locomotive pulling tons of boxcars coming directly at them at 24 miles per hour!  Using all their powers of mathematical reasoning, Pooters and Dooters immediately figured that they could run directly ahead and get to the far edge of the bridge at the exact same instant as the train.  But they also knew that they could run back toward the train and get to the near end of the bridge just as the train got there.  Basically, they kn",183,813,8,0,0,1,0,20.33333333,9,0,8.889289617,26,0,0,-5.158555424,0.207823297,0.213888889,0.459259259
+what strategy does Percy use to beat Areas,8,35,0,1,0,1,1,8,1,0,3.17625,0,0,0,-5.083205987,0.010802859,0,0
+the least common denominator of 3/10 and 4/5,10,37,0,0,0,0,1,10,1,0,0.055,0,0,0,-5.149897361,0.011203968,-0.3,0.45
+Least common denominator of 4/5 and 11/2,9,34,0,0,0,0,0,9,1,0,-0.183333333,0,0,0,-5.149897361,0.011203968,-0.3,0.45
+The least common denominator of 9/8 and 1/12,10,37,0,0,0,0,0,10,1,0,0.055,0,0,1,-5.184988681,0.010782053,-0.3,0.45
+What principle is directly reflected in the division of a government into three branches?,14,76,0,1,1,1,0,14,1,0,10.80214286,1,0,1,-5.486369598,0.011805844,0.1,0.4
+3x+2=6<br /> solve for x<br /> Show all work ,11,36,3,0,0,0,0,11,1,0,-3.940909091,4,0,0,-3.705008836,0.038171999,0,0
+Which colors does a black T-shirt absorb?,8,35,0,0,1,0,0,8,1,0,1.99875,2,0,1,-6.907755279,0.001962009,-0.166666667,0.433333333
+What is the result when the expression (6x-3) is subtracted from (-3x+2)?,14,62,2,1,1,2,0,14,1,0,3.737142857,7,0,1,-1.823594193,0.29364147,0,0
+if 3d-8=-2 find the value of d-6,10,26,1,0,0,0,1,10,1,0,-6.068,3,0,0,-4.509860006,0.015196194,0,0
+What is - 9/3 + -51/17,6,17,0,1,0,1,0,6,1,0,-9.01,2,0,1,-4.150914914,0.020566997,0,0
+Any tips for writing a good science fair hypothesis and procedure (in point form format) that is clear and concise? ,20,96,0,0,0,0,0,10,2,0,5.4715,3,0,1,-2.887518689,0.167460008,0.4,0.620833333
+How did the native Americans help the pilgrims,8,39,0,1,0,1,0,8,1,0,5.53125,0,0,1,-4.268697949,0.01723406,0,0
+Describe how three common types of precipitation form.,8,47,0,0,0,1,0,8,1,0,9.6525,1,0,1,-4.621977304,0.021801548,-0.3,0.5
+How did the European nations help the Continental Army?,9,47,0,1,1,1,0,9,1,0,7.143333333,1,0,1,-4.422848629,0.018964418,0,0
+"How many miles is 7,598 feet?",7,24,0,1,1,1,0,7,1,0,-3.127142857,2,0,1,-4.135166557,0.020869122,0.5,0.5
+how does the water cycle effect weather,7,33,0,1,0,1,1,7,1,0,4.274285714,0,0,0,-5.203007187,0.008685954,0,0
+Can someone show me the steps to solving 1/3 / 1/8. Thanks ,13,47,0,0,0,0,0,6.5,2,0,-2.600769231,1,0,1,-4.979863635,0.021065631,0.2,0.2
+ I need answers ASAP!!!Why is the order of operations important when you write a situation that can be modeled by a given expression,24,109,0,0,0,2,0,12,2,0,5.3725,3,0,0,-4.61430267,0.039191279,0.4,1
+-3=8x-4y. the equation is Y=,7,24,2,0,0,0,0,3.5,2,0,-6.895714286,3,0,0,-4.342805922,0.012678323,0,0
+What's the answer to 9 5/12 subtract 3 22/25,11,36,0,0,0,0,0,11,1,0,-1.371818182,0,0,1,-2.898605563,0.143856864,0,0
+"A scientist designed and conducted an experiment based on a hypothesis, and then formed a conclusion from her results. Next, she collected and analyzed more data and formed another conclusion. Which statement best justifies the fact that she skipped the hypothesis and experimental design steps of the scientific method?<br /><br /> The scientist must have realized that she performed one of the steps incorrectly.<br /> The scientist was unhappy with the first data set and started the experiment over.<br /> The scientist was repeating the experiment to improve the validity of her data.<br /> The scientist was planning to form a hypothesis after completing the experiment.",106,571,5,0,0,0,0,15.14285714,7,0,10.44680593,19,0,0,-5.20816627,0.110800435,0.208333333,0.405555556
+Find the discount. regular price=$168;discount rate=30 percent,10,56,0,0,0,0,0,5,2,0,5.091,2,0,0,-4.366153286,0.042179254,0,0.076923077
+how is cooking like science,5,23,0,1,0,1,1,5,1,0,2.736,0,0,0,-4.292795501,0.014281124,0,0
+Write a short paragraph on why should recess be free time. 5TH GRADE STANDARD. ,14,65,0,0,0,1,0,4.666666667,3,0,2.098333333,2,0,1,-5.010635294,0.021944455,0.133333333,0.366666667
+a wood stove burns 4 same sized logs in 2 hours how many logs does the stove burn in 8 hours<br />,22,77,1,0,0,1,1,22,1,0,5.412727273,2,0,0,-3.849719122,0.086996774,0.25,0.3125
+I have two separate pairs of equal sides. My equal sides are next to each other. My four sides cannot be equal. What am I?,25,98,0,0,1,1,0,6.25,4,0,-0.5954,4,0,1,-4.661259653,0.037999717,-0.025,0.225
+Which company developped Java?,4,27,1,0,1,0,0,4,1,0,11.185,1,0,0,-6.214608098,0.002668663,0,0
+Make the follwing sentence simple!!!!There was no universally accepted form of currency which could be used anywhere in the Maya region.,22,116,1,0,0,0,0,11,2,0,7.834090909,5,0,0,-4.877584786,0.035597896,0,0
+I need a template for the best way to conclude an essay with LOTS of points in only 7-8 sentences. ,21,79,0,0,0,0,0,10.5,2,0,1.09,2,0,1,-4.595219855,0.035632809,0.5,0.65
+How can I work out 30% of (blank) is 60?,10,31,0,1,1,1,0,10,1,0,-3.713,3,0,1,-2.191810687,0.16581374,0,0
+25 points if correct. elation : to carry ::<br /> a. exhilarated : to stretch<br /> b. contrite : to bend<br /> c. coherent : to place<br /> d. exonerated : out of,27,131,4,0,0,0,0,4.5,6,0,-0.514444444,13,0,0,-3.215310759,0.230991696,0.5,0.7
+what are to 2 answers that are equal to 32 in multiplycation,12,49,1,1,0,1,1,12,1,0,3.8025,0,0,0,-3.540459449,0.04071358,0,0.25
+Booker T. Washington believed that African American accommodation to segregation should be accompanied by,14,92,0,0,0,0,0,7,2,0,12.685,1,0,1,-6.422247463,0.005965003,0,0
+Give an example of an energy conversion. Make sure to discuss which forms of energy are involved,17,80,0,0,0,0,0,8.5,2,0,4.707647059,1,0,1,-4.406319327,0.042073046,0.5,0.888888889
+"Celia bought 12 apples, ate two of them, and sold the rest at 20 cents more per apple than she paid. Her total profit was $1.00. How much did she sell each apple for? ",35,133,0,0,0,1,0,7,5,0,-0.974,6,0,1,-4.378034613,0.085496251,0.233333333,0.483333333
+What is the greatest common factor of 56and 92?,9,39,1,1,1,1,0,9,1,0,2.956666667,1,0,1,-4.879607032,0.014120625,0.35,0.75
+what is the function of a nucleus?<br />,8,33,1,1,0,1,1,4,2,0,-2.35625,3,0,0,-4.305065594,0.009758521,0,0
+An animals genetic makeup can influence its behavior true or false,11,56,0,0,0,0,0,11,1,0,8.048181818,0,0,0,-5.003517826,0.017827992,-0.025,0.625
+What are the five pillars of Islam? ,7,29,0,1,0,1,0,3.5,2,0,-0.84,1,0,1,-5.926926026,0.003392128,0,0
+Which empire was the world's biggest exporter of guns in the 17th century?<br /> A. Yuan dynasty<br /> B. Songhai Empire<br /> C. Ottoman Empire<br /> D. Byzantine Empire,29,142,4,0,0,0,0,4.833333333,6,0,1.288390805,13,0,0,-3.296837366,0.189244433,0,0
+Which of these people might have performed trephination in the Inca Empire?<br /> A. A farmer<br /> B. A lawyer<br /> C. A politician<br /> D. A doctor,28,124,5,0,0,0,0,4.666666667,6,0,-1.097738095,13,0,0,-3.593569274,0.08651014,0,0
+Who were the Boers? <br /> A. Africans who followed traditional beliefs rather than Christianity <br /> B. Indian soldiers who served the British East India Company <br /> C. Dutch farmers who settled around Cape Town <br /> D. Muslim traders who brought goods to Mediterranean ports,44,236,4,1,0,5,0,7.333333333,6,0,5.679621212,13,0,0,-4.425829257,0.090944603,0,0.375
+Which provision of the Bill of Rights was<br /> influenced by the trial of John Peter Zenger?<br /> (1) right to bear arms<br /> (2) right to an attorney<br /> (3) freedom of religion<br /> (4) freedom of the press,40,175,5,0,0,0,0,20,2,0,6.35025,19,0,0,-2.175193198,0.693017652,0.285714286,0.535714286
+What are some facts about webmasters?,6,32,1,1,1,1,0,6,1,0,5.905,1,0,1,-6.502290171,0.001402919,0,0
+What is the Soviet Union ,5,20,0,1,0,1,0,5,1,0,-0.09,0,0,1,-6.214608098,0.001824834,0,0
+He did not have a leg to stand on what does that idiom mean?,14,47,0,0,1,1,0,14,1,0,1.045714286,1,0,1,-5.896154367,0.004653012,-0.3125,0.6875
+two adjectives or descriptive phrases of James Madison,8,47,0,0,0,0,1,8,1,0,10.24125,0,0,0,-5.088596836,0.012813145,0,0
+what is the definition of states of matter,8,35,0,1,0,1,1,8,1,0,3.17625,0,0,0,-5.233778845,0.00631068,0,0
+"Who were the first people to reach the South Pole?<br /> A. Roald Amundsen's party, in 1911<br /> B. Robert Falcon Scott and Ernest Shakleton<br /> C. Robert Edwin Peary, Matthew Henson and four Inuits, in 1909<br /> D. Edward Wilson and the British Discovery expedition",46,225,6,1,0,1,0,7.666666667,6,0,3.393550725,16,0,0,-3.716764658,0.203765818,0.125,0.166666667
+"order 3/8,3/4,1/2,5/6 from least to greatest",13,39,0,0,0,0,1,13,1,0,-3.336153846,3,0,0,-5.11599581,0.009427023,0.35,0.7
+How to describe a dragons teeth ?<br /> make it as describe as possible.<br /> need it for a story plz help !!!!,21,90,3,1,0,1,0,7,3,0,-0.435714286,10,0,0,-4.160484365,0.05227036,0,0
+<br /> what are the body parts of a dragon and how to describe them?<br /> give at least 1 adjective describing it.<br /> the best will be the brainieist!!!!!,29,129,4,0,0,2,0,9.666666667,3,0,1.756091954,13,0,0,-4.199705078,0.052092531,0.35,0.35
+"Is it plagiarism/copying to do a science fair project that is similar to one that has been done already, if you modify certain aspects and you do not know the results?",32,137,0,0,1,0,0,32,1,0,14.293125,2,0,1,-4.940105143,0.03339742,0.304761905,0.623809524
+What is the most common rock on earth,8,30,0,1,0,1,0,8,1,0,0.2325,0,0,1,-4.710530702,0.010245981,0.1,0.5
+essay on discovering the hero with in myself ,8,37,0,0,0,0,1,8,1,0,4.35375,0,0,0,-4.342805922,0.013793572,0,0
+Why would Africa need a solar cooker or oven?,9,37,0,1,1,1,0,9,1,0,1.91,1,0,1,-4.540631665,0.021932264,0,0
+Explain how Passive Transport works <br />,6,36,1,0,0,1,0,6,1,0,7.475,2,0,0,-5.349610661,0.007438162,0,0
+Why did artisans organize medieval craft guilds,7,41,0,1,0,1,0,7,1,0,9.657142857,0,0,1,-6.907755279,0.002452511,0,0
+Characters traits can be discovered by analyzing __________.<br /> hyperbole<br /> imagery<br /> characterization<br /> syntax,15,111,4,0,0,0,0,7.5,2,0,9.952,9,0,0,-6.271766512,0.007640161,0,0
+A material that only conducts electric current under certain conditions is a(n)<br /> a. conductor.<br /> b. insulator.<br /> c. semiconductor.<br /> d. vacuum tube.,26,141,4,0,0,0,0,3.25,8,0,1.752307692,18,0,0,-2.721895608,0.231377702,0.051488095,0.492857143
+Simplify the expression 3x + 3x,5,26,2,0,0,0,0,5,1,0,4.62,0,0,1,-4.374058465,0.022032484,0,0
+CHECK MY ENGLISH WORK?,4,19,0,0,1,0,0,4,1,0,1.765,1,0,1,-4.870873352,0.008118334,0,0
+can you use a calculator to determine if a number is rational or irrational ,14,62,0,0,0,0,1,14,1,0,6.428571429,0,0,0,-4.292795501,0.027641423,0,0
+what are 2 answers that can equal 49 in multiplication,10,45,0,1,0,1,1,10,1,0,4.765,0,0,0,-3.561366134,0.039684347,0,0.25
+His flight covered about 3610 miles in 33.5 hours. Find the unit rate in miles per hour,18,71,0,0,0,0,0,6,3,0,-0.375,2,0,1,-4.436834871,0.050159463,0,0
+"What is the best/easiest/safest method to make a 1 cm hole in a plastic pop bottle without any specialized tools? I have xacto knives, awl, screwdrivers and other basic household tools. ",33,155,1,1,0,1,0,11,3,0,5.336363636,4,0,0,-4.868587636,0.046580661,-0.0625,0.25
+Which term best describes the relationship between the orcas and crabeater seals? <br /> a. mutualism<br /> b. parasitism<br /> c. competition<br /> d. predation,24,137,7,0,0,0,0,4,6,0,4.12,13,0,0,-3.640822159,0.089934467,1,0.3
+An enveloped virus is dependent on the envelope for its ability to infect a host cell. Which virus most likely uses this mechanism?<br /> HIV<br /> polio<br /> rabies<br /> Ebola,31,148,4,0,0,0,0,10.33333333,3,0,4.096021505,10,0,0,-5.169484495,0.033703478,0.25,0.75
+"Identify a structure, in organisms that do not have kidneys, that is adapted to regulate water balance.",17,87,0,0,0,0,0,17,1,0,10.34294118,3,0,1,-5.65499231,0.011400741,0,0
+The lungs contain elastic muscle tissue to permit inhalation.,9,53,0,0,0,0,0,9,1,0,10.28333333,1,0,1,-6.214608098,0.006237241,0,0
+how do i say you're welcome in Korean ,8,30,0,1,0,1,1,8,1,0,0.2325,0,0,0,-3.057607677,0.084168057,0.8,0.9
+2 times what equals 28,5,18,0,0,0,1,0,5,1,0,-1.974,0,0,1,-3.381394754,0.037068801,0,0
+Vince is driving 4 miles per hour below the speed limit and brian speed limit is 8 miles oer hour what is the relationship between their speeds,27,117,2,0,0,1,0,27,1,0,12.48,0,0,0,-4.393861092,0.069605986,0,0
+What's the answer to 4/16+9/16,8,26,0,0,0,0,0,8,1,0,-3.88875,0,0,1,-2.612740021,0.112257659,0,0
+"what is the nth term to: 0,6,14,24,36,50",12,34,0,1,0,1,1,12,1,0,-4.44,5,0,0,-3.899600485,0.02393384,0,0
+What is the solution to the equation<br /><br /> n= -1<br /> n= 2<br /> n=5/3<br /> n= 5/2,22,72,5,1,0,1,0,22,1,0,0.274545455,11,0,0,-3.863232841,0.055836773,0,0
+"Hunterí¢ä‰åä‹¢s velocity was 4.5 m/s. At the end of his race, his velocity was the same. Which best describes his movement? <br /> A. His movement stopped. <br /> B. His acceleration is zero. <br /> C. His time was constant. <br /> D. His acceleration was positive.            ",47,218,4,0,0,0,0,3.615384615,13,0,-1.183158756,21,0,0,-3.823554357,0.124986186,0.306818182,0.32594697
+A steroid hormone approaches its target cell. Which will happen first?<br /> The hormone will enter the nucleus<br /> The hormone will pass through the plasma membrane.<br /> The hormone and its receptor will interact with the DNA<br /> The hormone and its receptor will enter the cellí¢ä‰åä‹¢s nucleus            ,50,254,4,0,0,0,0,12.5,4,0,6.5802,11,0,0,-5.025969658,0.056525037,0,0
+what geographical feature are shared by all four ancient chinese empires,11,62,1,1,0,1,1,11,1,0,10.61727273,0,0,0,-5.59556889,0.010709701,0,0
+"To make sure your reader remembers the point of your essay, which of the following is most important? <br /> A. The order in which you present your ideas <br /> B. The introduction <br /> C. Choosing an interesting subject <br /> D. The ending",42,198,4,0,0,0,0,7,6,0,2.255714286,14,0,0,-3.706817155,0.123274626,0.247619048,0.474603175
+a true hero is a unifying force in a diverse society essay,12,47,0,0,0,0,1,12,1,0,3.0175,0,0,0,-4.258545578,0.035015299,0.35,0.65
+Karangan kepentingan memilih rakan sebaya yang baik,7,45,6,0,0,0,0,7,1,0,12.34857143,0,0,0,-5.675611598,0.009885222,0,0
+Karangan kepentingan memilih rakan sebaya yang baik,7,45,6,0,0,0,0,7,1,0,12.34857143,0,0,0,-5.675611598,0.009885222,0,0
+The aquarium holds 150 liters of water. How many milliliters is this?,12,58,0,0,1,1,0,6,2,0,3.55,2,0,1,-4.648972809,0.022544366,0.5,0.5
+"If a pier is 200 meters long and each board is 80 centimeters wide, how many boards are in the pier?",21,80,0,0,1,1,0,21,1,0,6.564285714,2,0,1,-4.632821717,0.037122927,0.116666667,0.433333333
+  Name the operation who would do first -4 (3)(-8) 7,11,41,0,0,0,1,0,11,1,0,-0.943636364,6,0,0,-2.010537563,0.338680479,0.25,0.333333333
+Please help with these math questions,6,32,0,0,0,0,0,6,1,0,6.69,0,0,1,-3.669076827,0.032049806,0,0
+x=2 is the solution to which of the following equations or inequalities below,14,65,0,0,0,0,1,14,1,0,7.101428571,0,0,0,-4.374058465,0.020394629,0,0.1
+"which uses less electricity in an hour, a blender or a popcorn popper",13,57,0,0,0,0,1,13,1,0,5.359230769,1,0,0,-4.902421709,0.019742856,-0.166666667,0.066666667
+"What is the value of 1st quartile in the data set below? Scores on a math quiz: 65, 90, 100, 72, 88, 55, 73<br />",25,89,1,1,0,1,0,12.5,2,0,-0.4848,9,0,0,-4.753090316,0.046485538,0,0
+please i need help on #7,6,19,0,0,0,0,1,6,1,0,-4.3,0,0,0,-3.575550769,0.044282229,0,0
+this question is related to the scatter graph can someone please help me on this question ,16,74,0,0,0,0,1,16,1,0,8.35375,0,0,0,-4.045554398,0.045864617,0,0.4
+What aretwo different ways to use the disributive property to find the product of 127 and 32,17,76,2,1,0,1,0,17,1,0,8.126470588,0,0,0,-4.815891217,0.029064757,0,0.6
+What makes a planet living? explain your answer by comparing earth with mars                ,13,64,0,1,0,1,0,6.5,2,0,4.645384615,1,0,0,-4.860062436,0.022686354,0,0
+"The novel, as it is known today, originated in the _____ century.<br /> eighteenth<br /> seventeenth<br /> nineteenth",17,100,3,0,0,0,0,8.5,2,0,5.815882353,9,0,0,-5.494061944,0.014884589,0,0
+what is 40 divided by 9 with remainder,8,31,0,1,0,1,1,8,1,0,0.82125,0,0,0,-4.710530702,0.013292373,0,0
+Who first invented the lightbulb,5,28,1,1,0,1,0,5,1,0,7.446,0,0,0,-4.710530702,0.00940131,0.25,0.333333333
+"How are the biomes in France important to it? Btw, I'm not asking what the biomes are, I'm asking why they are important. So please don't tell me what they are, I already know that.",35,147,3,1,0,4,0,11.66666667,3,0,3.377904762,6,0,0,-3.508411466,0.148429618,0.4,1
+"Is a city block centimeters, meters, or kilometers?",8,44,0,0,1,0,0,8,1,0,6.70875,3,0,1,-4.906275279,0.013539367,0,0
+Is the series diary of a wimpy kid realistic fiction?,10,44,0,0,1,0,0,10,1,0,3.823,1,0,1,-6.753604599,0.003364928,0.166666667,0.333333333
+People who are physically disabled are able to use the Internet due to: (Points : 1)<br /> web Accessibility Standards.<br /> closed Caption options.<br /> braille translation.<br /> color schemes.,29,168,4,0,0,1,0,7.25,4,0,6.232241379,14,0,0,-3.103995549,0.238624446,-0.135,0.48
+Which equation shows conservation of mass and charge?<br /> (1) NH4Br ==&gt; NH3 + Br2<br /> (2) 2Mg + Fe3+ ==&gt;Mg2+ + 3Fe<br /> (3) H2SO4 + LiOH ==&gt; Li2SO4 + H2O<br /> (4) Cu + 2Ag+ ==&gt; Cu2+ + 2Ag,35,165,18,0,0,0,0,17.5,2,0,3.064857143,21,0,0,-2.674439601,0.857011578,0,0
+"As the elements of Group 17 are considered in order of increasing atomic number, there is an increase in<br /> (1) atomic radius<br /> (2) electronegativity<br /> (3) first ionization energy<br /> (4) number of electrons in the first shell",40,200,5,0,0,0,0,40,1,0,19.64725,17,0,0,-2.195033431,0.743766014,0.25,0.333333333
+her friend writes down 4 number and ask maria to choose yhe prime number which number should maria choose ,19,87,1,0,0,0,1,19,1,0,9.636842105,0,0,0,-4.034625328,0.072391493,-0.155555556,0.288888889
+Wich process producers only identical offspring,6,42,1,0,0,0,0,6,1,0,14.54,0,0,0,-5.80914299,0.00628547,0,1
+The capsid of a virus is the<br /> a. protective outer coat.<br /> c. nucleus.<br /> b. cell membrane.<br /> d. cell wall and membrane complex.,26,118,5,0,0,0,0,3.25,8,0,-2.051923077,16,0,0,-3.560360603,0.109029365,-0.3,0.4
+Which of the following diseases is caused by a virus?<br /> A. African sleeping sickness<br /> B. common cold<br /> C. tuberculosis<br /> D. athleteí¢ä‰åä‹¢s foot,27,137,4,0,0,0,0,4.5,6,0,0.357777778,13,0,0,-3.622556811,0.099214313,-0.1,0.2
+what enzyme is used to open up the dna molecule before replication can take place,15,67,1,1,0,1,1,15,1,0,7.108,0,0,0,-5.137049219,0.018145036,0,0.5
+"My cousin, along with two friends, ARE/IS arriving today.",10,49,0,0,0,0,0,10,1,0,4.765,3,0,1,-5.003517826,0.016769891,0,0
+800multiplied by 0 -dash<br />,5,26,2,0,0,0,0,5,1,0,1.794,3,0,0,-5.298317367,0.005707804,0,0
+"Ms. Diego had $40.72 in her purse, and she thought she would have $2.37 left after paying for the meat. Explain why this amount is incorrect.",28,116,0,0,0,1,0,5.6,5,0,-0.462857143,6,0,1,-4.474141924,0.056306456,0,0
+An animals genetic makeup can influence its behavior true or false,11,56,0,0,0,0,0,11,1,0,8.048181818,0,0,0,-5.003517826,0.017827992,-0.025,0.625
+"Which explains the basis of the Biuret test?<br /><br /> Sudan III dye binds to lipids and changes color.<br /><br /> Iodine fits into the coils of starch polymers and changes color.<br /><br /> A blue dye binds to protein and changes color.<br /><br /> Under base conditions, copper ions bind to the amino groups of proteins and change color.<br />",61,289,10,0,0,0,0,10.16666667,6,0,3.41989071,24,0,0,-5.55891848,0.05333249,-0.4,0.55
+The bottom of Onondaga Lake in upstate New<br /> York contains large amounts of pollutants. One<br /> proposal to clean the lake bottom requires that<br /> the pollutants be removed and stored nearby.<br /> People who live near the proposed storage sites<br /> are opposed to this plan. The officials who must<br /> decide on the proposal will examine both the<br /> benefits and risks of the plan. The decision made<br /> by the officials will most likely involve<br /> (1) increased industrialization<br /> (2) direct harvesting<br /> (3) an increase in finite resources<br /> (4) consideration of trade-offs,100,512,12,0,0,2,0,20,5,0,10.3773,37,0,0,-2.896324927,0.743097857,0.202473717,0.56122449
+savanna makes 18 gift baskets to sell in her store she puts 4 peaches in 10 of the baskets and 2 peaches in the remaining 8 baskets how many peaches does savannah place in the gift baskets,37,152,1,0,0,1,1,37,1,0,16.41918919,0,0,0,-4.121671075,0.114111534,0.5,0.5
+Which one of the following acts is an example of body language? <br /> A. Rolling of the eyes<br /> B. Employing the peripheral route of persuasion<br /> C. Showing prejudice<br /> D. Acting on an attitude,36,169,4,0,0,0,0,6,6,0,1.456666667,13,0,0,-3.765040815,0.113340004,0,0.05
+Which of the following was formed due to customs and traditions?<br /> a. equality for all<br /> b. political parties<br /> c. the Bill of Rights<br /> d. the executive branch,31,145,4,0,0,0,0,5.166666667,6,0,0.601075269,13,0,0,-3.630610546,0.098554113,-0.041666667,0.191666667
+Help please.From the passage and the question 1 to 3 thanks.:-) ,12,53,0,0,0,0,0,4,3,0,-0.59,4,0,0,-2.575707014,0.181861654,0.35,0.6
+"38 When a sample of a gas is heated in a sealed, rigid container from 200. K to 400. K, the pressure exerted by the gas is<br /> (1) decreased by a factor of 2.(2) increased by a factor of 2.<br /> (3) decreased by a factor of 200.(4) increased by a factor of 200.",57,210,2,0,0,1,0,9.5,6,0,-1.145263158,20,0,0,-2.34615208,0.792587047,-0.4,0.7
+Write the multiple of 5 starting from 100,8,34,0,0,0,0,0,8,1,0,2.5875,0,0,1,-4.17338777,0.026073548,0,0.05
+35 Given the word equation:<br /> sodium chlorate ==&gt; sodium chloride + oxygen<br /> Which type of chemical reaction is represented by this equation?<br /> (1) double replacement (3) decomposition<br /> (2) single replacement (4) synthesis,35,207,4,0,0,0,0,17.5,2,0,11.54285714,18,0,0,-2.365300715,0.780374155,-0.035714286,0.107142857
+Given the equation representing a reaction at equilibrium:<br /> H2(g) + I2(g) + heat--&gt; 2HI(g)<br /> Which change favors the reverse reaction?<br /> (1) decreasing the concentration of HI(g)<br /> (2) decreasing the temperature<br /> (3) increasing the concentration of I2(g)<br /> (4) increasing the pressure,50,268,10,0,0,0,0,25,2,0,12.1708,34,0,0,-2.071473372,1.50797735,0,0
+34 Which electron configuration represents the electrons of a sulfur atom in an excited state?<br /> (1) 2-6-6 (3) 2-8-4<br /> (2) 2-7-7 (4) 2-8-6,33,122,2,0,0,0,0,16.5,2,0,0.95,21,0,0,-2.03408584,0.683486191,0.375,0.75
+"53 Explain, in terms of electrons, why the radius of a potassium atom is larger than the radius of a potassium ion in the ground state.",26,110,0,0,0,1,0,26,1,0,10.95346154,3,0,1,-5.378360074,0.024291055,0,0.5
+Which of the following nations currently possess nuclear weapons? <br /> France<br /> United States<br /> South Africa<br /> Iraq<br /> Japan<br /> North Korea,24,135,6,0,0,0,0,12,2,0,7.335,13,0,0,-5.072510698,0.033532389,0,0.25
+how do u work out scale factor,7,24,0,1,0,1,1,7,1,0,-1.781428571,0,0,0,-4.402229342,0.017468782,0,0
+a giraffe runs 27 miles in one hour at this rate how far does a giraffe go on 3 hours ,20,66,0,0,0,1,1,20,1,0,4.113,0,0,0,-4.050327677,0.065911814,0.1,1
+A youth chorus has 30 members.There are 14 boys in the chorus.What is the ratio of boys to girls in simplest form?<br /><br /> A.7/15<br /> B.8/15<br /> C.7/8<br /> D.8/7,41,140,5,0,0,1,0,5.125,8,0,-5.771402439,17,0,0,-5.273624754,0.03135932,0,0
+What is a pilgrim?.........,4,24,0,1,0,1,0,4,1,0,-2.945,10,0,1,-6.907755279,0.000490502,0,0
+"What is the relationship between the 4s in 8,444?",10,41,1,1,1,1,0,10,1,0,1.939,2,0,1,-6.396929655,0.002289448,0,0
+the answer of 8x + 2x ,5,16,2,0,0,0,1,5,1,0,-4.8,0,0,0,-4.150914914,0.020710021,0,0
+whats a function of the cell membrane<br /><br />,9,41,2,0,0,0,1,9,1,0,1.386666667,4,0,0,-4.166915255,0.02160777,0,0
+what is the earliest skill that people developed,8,41,0,1,0,1,1,8,1,0,6.70875,0,0,0,-5.349610661,0.007328516,0.1,0.3
+Which development is most closely associated with early inca achievements?<br />,11,70,2,0,0,0,0,5.5,2,0,9.58,3,0,0,-6.214608098,0.005448613,0.3,0.4
+"Which of the following are not affected by an authorí¢ä‰åä‹¢s choice of genre?<br /> purpose, organization, choice of details",20,107,1,0,0,0,0,10,2,0,5.4715,5,0,0,-4.870873352,0.02327049,0,0.1
+Theo's mom bought an eight pack of juice at the store for $4. Find the unit price for the juice boxes.,21,82,0,0,0,0,0,10.5,2,0,1.538571429,2,0,0,-3.300022082,0.171369517,0,0
+What is the holy trinity?,5,21,0,1,1,1,0,5,1,0,-0.09,1,0,1,-6.907755279,0.000981005,0,0
+"In a given linear equation, the value of the independent variable<br /> decreases at a constant rate while the value of the dependent<br /> variable increases at a constant rate. The slope of this line is<br /> (1) positive (3) zero<br /> (2) negative (4) undefined",46,220,4,0,0,0,0,23,2,0,10.34347826,18,0,0,-2.269208932,0.733704408,-0.014545455,0.347424242
+"Who was known for his large empire, rebuilt capital, and the engineering wonder known as the Hanging Gardens?",18,92,0,1,1,1,0,18,1,0,10.85833333,3,0,1,-5.744604469,0.013342514,0.214285714,0.428571429
+"Biologist Lynn Margulis proposed the endosymbiotic theory, which states that different prokaryotic organisms joined in symbiosis eventually become eukaryotic cells. Which two plant cell organelles can be viewed as evidence to support her theory?<br /> A cell wall and vesicle<br /> B chloroplasts and vacuole<br /> C mitochondria and chloroplasts<br /> D mitochondria and Golgi apparatus",56,332,11,0,0,0,0,18.66666667,3,0,14.56529762,11,0,0,-4.290765043,0.145863267,0,0.6
+What country did Japan defeat in its FIRST foreign war during the Meiji period?,14,66,0,1,1,1,0,14,1,0,7.437857143,1,0,1,-5.203007187,0.016530609,0.0625,0.229166667
+What is 9 times 1/3 to the 2 power,10,26,0,1,0,1,0,10,1,0,-4.655,0,0,1,-3.429596856,0.046504654,0,0
+What sporting event was the first ever to be broadcast on American commercial radio?,14,71,0,1,1,1,0,14,1,0,9.12,1,0,1,-5.298317367,0.015066074,0.083333333,0.111111111
+"What was the Sugar Act? Also, what were the Townshend Acts? What were the Writs of Assistance? What were the Quartering Acts? <br /> Define each act please",27,128,2,1,0,4,0,5.4,5,0,2.203333333,7,0,0,-5.187969309,0.024396888,0,0
+What is the sum of 6 feet 10 inches and 8 feet 9 inches?,14,43,0,1,1,1,0,14,1,0,-0.3,1,0,1,-4.284698291,0.043270958,0,0
+Which of the following is characteristic of an epic hero?<br /> A. An epic hero must have at least one parent that is a god.<br /> B. An epic hero must have no human frailties and flaws.<br /> C. An epic hero must be more courageous than the typical man.<br /> D. An epic hero must be able to vanquish all of his enemies.,64,258,4,0,0,0,0,7.111111111,9,0,-0.432725694,17,0,0,-3.992603492,0.169798592,0.080555556,0.390972222
+what are two intergers that are also whole numbers,9,42,1,1,0,1,1,9,1,0,5.05,0,0,0,-4.66704559,0.016582375,0.2,0.4
+What is the discount rate for $50 headphones that are on sale for $42,14,56,0,1,0,1,0,14,1,0,3.737142857,0,0,1,-4.089357021,0.043082468,0,0
+_______ are on chromosomes in the nucleus of a cell. <br /> A. Genes<br /> B. Mutations<br /> C. Traits<br /> D. Alleles,21,98,4,0,0,0,0,3.5,6,0,-3.082857143,13,0,0,-3.358137892,0.09146095,0,0
+Which organelle supplies the cell with energy?<br /> ribosome<br /> cytoplasm<br /> nucleus<br /> mitochondrion,15,97,5,0,0,0,0,7.5,2,0,8.696,9,0,0,-4.580477573,0.028252947,0,0
+Choose the definition of: Genetic<br /> A. unit of space <br /> B. Unit of heredity <br /> C. Unit of measure <br /> D. developed muscles,24,111,4,0,0,0,0,4.8,5,0,-0.5825,12,0,0,-3.47838702,0.117521427,0.1,0.3
+How is homeostasis important to the survival of organisms?,9,50,0,1,1,1,0,9,1,0,8.713333333,1,0,1,-5.585999439,0.006055254,0.4,1
+A biologist is in the process of classifying a newly discovered fungus. The fungus is a decomposer and has saclike structures. To which group does the organism most likely belong?<br /> a. fungi that are rusts<br /> b. fungi that are associated with bread mold<br /> c. fungi that makes blue cheese<br /> d. fungi that are autotrophic decomposers,59,288,7,0,0,0,0,7.375,8,0,3.73190678,15,0,0,-4.340156913,0.107249122,0.159090909,0.513636364
+Which type of bond forms protein chains?<br /> A. Actinide<br /> B. Beta sheet<br /> C. Lanthanide<br /> D. Peptide,20,96,4,0,0,0,0,3.333333333,6,0,-1.158833333,13,0,0,-3.627470826,0.082666888,0,0
+Which two cell structures work together in the<br /> process of protein synthesis?<br /> (1) nucleus and chloroplast<br /> (2) ribosome and vacuole<br /> (3) nucleus and ribosome<br /> (4) mitochondrion and cell membrane<br />,35,192,7,0,0,0,0,17.5,2,0,9.524285714,21,0,0,-2.13970416,0.731601361,0,0
+The study of the whole economy is called _____.<br /> microeconomics<br /> macroeconomics<br /> Gross Domestic Product <br /><br /> The time from one economic peak to another economic peak is called the _____.<br /> aggregate<br /> net exports<br /> economic cycle,39,223,8,0,0,0,0,13,3,0,7.653846154,18,0,0,-5.144166687,0.051587291,0.114285714,0.157142857
+"Which two features indicate that a cell is a plant cell and not an animal cell?<br /><br /> a. central vacuole, mitochondria<br /><br /> b. cell membrane, large size<br /><br /> c. ribosomes, green color<br /><br /> d. chloroplasts, cell wall",41,202,9,0,0,0,0,6.833333333,6,0,1.401056911,25,0,0,-3.768487474,0.154149775,0.004761905,0.326190476
+Metamorphic rock forms from other rock when it is subjected to significant changes in which of the following? Select all that apply.<br /> A. heat<br /> B. pressure<br /> C. deposition<br /> D. chemical environment,35,180,4,0,0,1,0,5,7,0,2.870571429,14,0,0,-3.757032342,0.108545311,0.083333333,0.45
+Which feature is found in prokaryotic cells but not in eukaryotic cells?<br /><br /> a. cytoplasm <br /> b. nucleus <br /> c. plasma membrane <br /> d. nucleoid,26,132,8,0,0,0,0,4.333333333,6,0,1.025897436,15,0,0,-3.556502574,0.100832299,0,0
+"Which feature is shared by protists, fungi, plants, and animals but is lacking in bacteria?<br /> A. DNA<br /> B. a nucleus<br /> C. reproduction<br /> D. cell membrane",29,140,5,0,0,0,0,4.833333333,6,0,0.476321839,16,0,0,-3.64709792,0.107936026,0,0
+Binary fission is a process through which<br /> A. all cells divide.<br /> B. eukaryotic cells divide.<br /> C. prokaryotic cells divide.<br /> D. cellular DNA is cut in half.,30,146,6,0,0,0,0,3.75,8,0,0.227,16,0,0,-3.744516534,0.112298149,-0.166666667,0.166666667
+A new combination of hereditary material is produced in offspring through _____.<br /> asexual reproduction<br /> sexual reproduction,17,116,2,0,0,0,0,8.5,2,0,11.63411765,5,0,0,-5.21130599,0.023627942,0.318181818,0.643939394
+Which organelles are involved in energy conversion?<br /> A. mitochondria and chloroplasts<br /> B. mitochondria and ribosomes<br /> C. smooth and rough endoplasmic reticulum<br /> D. Golgi apparatus and chloroplasts,30,187,8,0,0,0,0,5,6,0,7.76,13,0,0,-3.841071269,0.099054689,0.15,0.45
+The purpose of the cuticle in plants is to<br /> A. minimize water loss.<br /> B. support plant functions.<br /> C. provide support.<br /> D. transport water.,27,132,4,0,0,0,0,3.375,8,0,-0.204722222,16,0,0,-3.755019257,0.094733009,0,0
+"___________ is the watchdog responsible for keeping the public informed about the acts of its officials, including the President.<br /> A. Congress <br /> B. The media <br /> C. Trade unions <br /> D. The military",33,177,4,0,0,0,0,5.5,6,0,2.443636364,14,0,0,-3.951008452,0.086292894,0.033333333,0.238888889
+"Find the simple interest paid to the nearest cent for each loan amount, interest rate, and time.<br /><br /> $4,500, 9%, 3.5 years _____<br /> please I need help ",30,133,3,0,0,0,0,10,3,0,0.84,13,0,0,-4.132194786,0.11260816,0,0.357142857
+if I have 24 inches of fabric and i cut off 2.25 inches but add 0.375 what will be the length ,23,73,0,0,0,1,1,7.666666667,3,0,-3.057101449,2,0,0,-5.320790222,0.017614313,0,0
+What is the mass and weight of a 10kg object on earth?,12,43,1,1,1,1,0,12,1,0,1.055,1,0,1,-4.755993076,0.016048084,0,0
+Rachel Carsoní¢ä‰åä‹¢s warning in Silent Spring was focused on _______.<br /> a. overgrazing by livestock<br /> b. global warming<br /> c. the misuse of pesticides<br /> d. fish stock declines,30,163,4,0,0,0,0,5,6,0,1.637,13,0,0,-4.008166866,0.086282932,0,0.05
+ what is 4 and 2/3 + 7/9,8,17,0,1,0,1,0,8,1,0,-9.1875,0,0,0,-3.481865285,0.036546595,0,0
+What form is the underlined verb in the sentence?<br /> Grandpa taught me how to throw a baseball.<br /> a. past<br /> b. present participle<br /> c. past participle<br /> d. present,32,151,5,1,0,2,0,4.571428571,7,0,-0.009910714,16,0,0,-3.783190134,0.098633201,-0.083333333,0.083333333
+Why did the mujahedeen receive US support even though they were against some American ideals?,15,79,1,1,1,1,0,15,1,0,10.562,1,0,0,-5.942674383,0.009066855,0,0
+"Which is a valid distinction between Roman Catholicism and Eastern Orthodoxy?<br /> A. The Catholic Church has a single leader in the pope; the Eastern Orthodox Church follows the teachings of its founder, Constantine I.<br /> B. The Catholic Church has a single leader in the pope; the Eastern Orthodox Church is led by a council of five patriarchs.<br /> C. The Catholic Church has a single leader in the pope; the Eastern Orthodox Church has no single leader.<br /> D. The Catholic Church has a single leader in the pope; the Eastern Orthodox Church has a single leader in the patriarch.",102,489,4,0,0,0,0,11.33333333,9,0,5.616372549,22,0,0,-4.445022487,0.213822016,-0.080102041,0.291836735
+Which condition is a risk to unborn babies whose mother's smoke?<br /> A. decreased oxygen<br /> B. viral infection<br /> C. bacterial infection<br /> D. lymph cancer,27,140,4,0,0,0,0,4.5,6,0,2.276666667,13,0,0,-3.322848415,0.182449247,-0.4,0.7
+People who travel to a different country and settle there are called<br /> A.immigrants.<br /> B.mercenaries.<br /> C.cavaliers.<br /> D.loyalists.,24,128,4,0,0,1,0,3,8,0,1.265,16,0,0,-5.599422459,0.014905617,0,0.6
+what percent is 25 of 100?<br />,7,26,1,1,0,1,1,3.5,2,0,-4.877142857,3,0,0,-4.292795501,0.014692596,0,0
+charles Smith wants to move to cottonwood arizona,8,42,2,0,0,0,1,8,1,0,7.2975,0,0,0,-5.926926026,0.006784257,0.2,0.1
+Who is Marian Anderson's music teacher ,6,33,0,1,0,1,0,6,1,0,7.475,0,0,0,-3.079113882,0.081710695,0,0
+Greta bought three 15-pounds bags of dry dog food.Her dog eats 10 ounces of dry dog food each day.After how many days will Greta need to buy more dog food?<br />,34,131,1,0,0,1,0,8.5,4,0,-0.002352941,6,0,0,-4.754982464,0.069342021,0.216666667,0.55
+which process increases genetic variation among whale offspring,8,56,0,0,0,0,1,8,1,0,15.54,0,0,0,-5.675611598,0.010125401,0,0
+Why did the U.S enter World War II??,9,29,0,1,1,1,0,4.5,2,0,-5.573333333,3,0,0,-5.426150738,0.009089195,0,0
+The French and Indian War:<br /><br /> Benjamin Franklin proposed the ________ which was the ______________. (Description),15,106,2,0,0,0,0,7.5,2,0,5.556,7,0,0,-2.693161589,0.173227231,0,0
+13 = 5m - 2<br /> help please,6,22,2,0,0,0,0,6,1,0,-5.085,3,0,0,-3.101092789,0.089353569,0,0
+The amount of precipitation on a given day is an example of _____.<br /> A. climate<br /> B. latitude<br /> C. rain fall<br /> D. weather,25,112,4,0,0,0,0,4.166666667,6,0,-2.390666667,13,0,0,-3.583826678,0.097267956,0,0
+Who discovered America?,3,21,0,1,1,1,0,3,1,0,11.47,1,0,1,-5.80914299,0.002616887,0,0
+The French and Indian War:<br /><br /> Britian imposed the Proclamation if 1763 on the colonists which prohibited ___________.,18,108,3,0,0,0,0,18,1,0,10.85833333,5,0,0,-4.75177366,0.030225733,0,0
+Which statement BEST explains the similarities between the philosophies of John Locke and Jean Jacques Rousseau?,16,97,0,0,1,0,0,16,1,0,14.83,1,0,1,-5.318520074,0.018466944,1,0.3
+How are bones classified?,4,22,0,1,1,1,0,4,1,0,5.2975,1,0,1,-6.502290171,0.001402919,0,0
+"which uses less electricity in an hour, a blender or a popcorn popper",13,57,0,0,0,0,1,13,1,0,5.359230769,1,0,0,-4.902421709,0.019742856,-0.166666667,0.066666667
+What finally convince japanse Emperor Hirohito to surrender and bring an ed to the world war II???,17,82,1,1,1,1,0,17,1,0,8.957647059,3,0,0,-6.127596721,0.010468339,0,1
+"In the following sentence, which word is the adverb?<br /><br /> The children were playing outside.<br />",17,89,3,0,0,0,0,5.666666667,3,0,2.736862745,9,0,0,-4.248495242,0.032898737,0,0.1
+"In the following sentence, which word is the adverb?<br /><br /> The children were playing outside.<br />",17,89,3,0,0,0,0,5.666666667,3,0,2.736862745,9,0,0,-4.248495242,0.032898737,0,0.1
+What element is sometimes found in toothpaste<br />,8,44,1,1,0,1,0,8,1,0,6.70875,2,0,0,-5.80914299,0.005049039,0,0
+a two dimensional figure made from two or more geometry figures,11,53,0,0,0,0,1,11,1,0,6.763636364,0,0,0,-4.399318132,0.029521932,0.5,0.5
+Which elemt is used in light bulbs as a filament,10,39,1,0,0,0,0,10,1,0,1.939,0,0,0,-5.339139361,0.009318368,0.4,0.7
+Does anyone here use PA.? My last question got deleted.,10,46,0,0,0,0,0,5,2,0,1.323,3,0,1,-4.828313737,0.020180853,0,0.066666667
+"Between 1830 and 1860, laws in slave states<br /> a. made it easy to free slaves.<br /> b. made it easy for slaves to escape.<br /> c. made it difficult to free slaves.<br /> d. ignored the issue of slavery.",40,168,4,0,0,0,0,5,8,0,-1.62075,17,0,0,-4.118264746,0.098712257,0.233333333,0.853333333
+Show how: There are 5 apples. Troy cuts each apple in half. Then he cuts those 2 pieces into 4 slices. What is the total number of apple slices?,29,116,0,0,1,2,0,7.25,4,0,0.222931034,4,0,1,-3.742032061,0.119472954,-0.083333333,0.458333333
+dose a popcorn popper uses more electricity than a coffee maker,11,53,0,0,0,0,1,11,1,0,6.763636364,0,0,0,-5.387929525,0.012455084,0.5,0.5
+"A horizontal 20.-newton force is applied to a 5.0-kilogram box to push it across a rough,<br /> horizontal floor at a constant velocity of 3.0 meters per second to the right.<br /><br /> Calculate the coefficient of kinetic friction between the box and the floor. [Show all work, including<br /> the equation and substitution with units]",60,282,4,0,0,0,0,10,6,0,3.9015,19,0,0,-4.617748968,0.114193372,0,0.166666667
+How much total energy is dissipated in 10. seconds<br /> in a 4.0-ohm resistor with a current of<br /> 0.50 ampere?<br /> (1) 2.5 J (3) 10. J<br /> (2) 5.0 J (4) 20. J,40,133,4,1,0,1,0,4.444444444,9,0,-6.961777778,25,0,0,-2.184085468,0.755695363,0,0.575
+"A horizontal 20.-newton force is applied to a 5.0-kilogram box to push it across a rough,<br /> horizontal floor at a constant velocity of 3.0 meters per second to the right.<br /><br /> Calculate the weight of the box. [Show all work, including the equation and substitution with units.]",53,240,3,0,0,0,0,7.571428571,7,0,1.817789757,18,0,0,-4.532047921,0.112179587,0,0.166666667
+The current in a wire is 4.0 amperes. The time<br /> required for 2.5 í€äóî 10^19 electrons to pass a certain<br /> point in the wire is<br /> (1) 1.0 s (3) 0.50 s<br /> (2) 0.25 s (4) 4.0 s,47,150,4,0,0,0,0,5.875,8,0,-6.767606383,23,0,0,-2.16601665,0.739478822,0,0.4
+"A vertical spring has a spring constant of<br /> 100. newtons per meter. When an object is<br /> attached to the bottom of the spring, the spring<br /> changes from its unstretched length of 0.50 meter<br /> to a length of 0.65 meter. The magnitude of the<br /> weight of the attached object is<br /> (1) 1.1 N (3) 50. N<br /> (2) 15 N (4) 65 N",71,277,8,0,0,1,0,8.875,8,0,-1.071373239,30,0,0,-2.545081373,0.778394777,0,0.333333333
+The individuals you are most likely to influence with your persuasive <br /> presentation are referred to as your<br /> a.  Target audience<br /> b.  leading audience <br /> C. Gene,29,149,4,0,0,0,0,7.25,4,0,3.958448276,11,0,0,-3.704383641,0.083237281,0.25,0.75
+what is 1 1/2 times 3?,7,17,0,1,1,1,1,7,1,0,-7.837142857,1,0,0,-2.946942109,0.058714921,0,0
+Estimate 19.164í‰Œæ-í‰Œæ9.53  by first rounding each number to the nearest tenth.,14,70,0,0,0,0,0,4.666666667,3,0,0.416190476,4,0,0,-4.446946181,0.027795459,0.25,0.333333333
+Please help! Due tonight!<br /><br /> Find each function value for the given function rule.<br /><br />  f(9) if f(x) = x + 13,24,102,4,0,0,0,0,6,4,0,-2.53375,15,0,0,-2.429902069,0.441967795,-0.125,0.375
+10 = z/2 + 7<br /> Help please..??,7,27,1,0,1,0,0,7,1,0,-6.491428571,6,0,0,-3.304589343,0.077414832,0,0
+"how do you write  527,519 in expanded from using exponents ",11,48,0,1,0,1,1,11,1,0,4.194545455,1,0,0,-4.803621125,0.014997406,0,0
+Marco has a jug with 37 1/2 ounces of juice.  He wants to use some small cups  to pass out sample of the juice. Each cup can hold 2 1/2 ounces of juice. How many cups can Marco fill with juice samples,44,157,0,0,0,1,0,11,4,0,0.340909091,3,0,0,-4.429537617,0.096286622,0.15,0.333333333
+write an inequality statement using greater than an less than to compare 0.008 and 0.01,17,73,0,0,0,0,1,5.666666667,3,0,1.074509804,2,0,0,-4.774246516,0.027940449,0.166666667,0.283333333
+Who was the first woman to be appointed to the cabinet?<br /> a. Harriet Ford<br /> c. Susan B Anthony<br /> b. Frances T Perkins<br /> d. Clara Barton,29,123,4,1,0,1,0,4.833333333,6,0,-1.797471264,13,0,0,-3.391247051,0.12611738,0.25,0.333333333
+Solve to find the value of x.   40-x/3 = 4+x ,12,33,0,0,0,0,0,6,2,0,-7.44,2,0,0,-3.525789259,0.061468203,0,0
+Solar power is a renewable resource because _______.<br /> a. it is continually replenished<br /> b. using the resource consumes it<br /> c. it can be found everywhere on earth<br /> d. all of the above,35,167,4,0,0,0,0,5.833333333,6,0,0.730380952,13,0,0,-3.760733558,0.094007814,0,0.1
+The term mint as used in the text referred to coining money.<br /> a.  True<br /> b.  False,18,72,2,0,0,0,0,4.5,4,0,-2.695,7,0,0,-3.705008836,0.066978956,-0.4,0.6
+"PLEASE HELP ME! In the figure shown, the measure of angle 6 is 141í‰Œ_. What is the measure of angle 5?",21,83,0,0,1,1,0,7,3,0,-1.108571429,4,0,1,-4.096164399,0.060413951,0,0
+x = ?<br /><br /> 17 - x = 13 <br /><br /> Solve for x.<br /><br /> Thanks in advance. ,16,66,6,0,0,0,1,4,4,0,-7.06625,16,0,0,-3.232606018,0.126501648,0.2,0.2
+what are proportion?,3,18,0,1,1,1,1,3,1,0,6.76,1,0,0,-6.907755279,0.000490502,0,0
+"what is the next term in the pattern 0.3, 0.5, 0.7, 0.9, ...?",16,49,0,1,1,1,1,3.2,5,0,-8.938125,12,0,0,-5.521460918,0.01147067,0,0
+10 (s-4) = -127  <br /> What does s stand for?  Plsssss help!!!!!!!!,12,54,2,0,0,1,0,6,2,0,-3.9075,15,0,0,-2.314882621,0.19374315,0,0
+26 divided by 3 draw a quick picture to help,10,35,0,0,0,0,0,10,1,0,0.055,0,0,0,-3.753799,0.048119092,0.333333333,0.5
+Round each number to the nearest tenth 483.51 í¢ä‰åäóì 246.17?<br />,12,58,1,0,0,0,0,3,4,0,-2.66,5,0,0,-4.590985551,0.024825748,-0.2,0.4
+Earth Science Help?! Please help me do #18. Picture inside :),10,51,0,0,0,0,0,3.333333333,3,0,1.431666667,4,0,0,-2.824073423,0.156074363,0.5,1
+"Mark the statement if it accurately describes Isaac Newtoní¢ä‰åä‹¢s achievements. <br /> a. He was a professor of mathematics at Cambridge University.<br /> b. In his book, Mathematical Principles of Natural Philosophy, Newton laid out three laws of motion that are still the basis for studying how things move.<br /> c. As Newton went on developing his ideas in astronomy, mathematics, and physics, he became very unpopular and was often ridiculed for his works.",74,390,3,0,0,1,0,10.57142857,7,0,6.832876448,18,0,0,-4.587821548,0.119051994,0.175,0.333333333
+"Hz.Mohammed ,what year were you born ?",7,32,1,0,1,1,0,3.5,2,0,-0.167142857,3,0,0,-5.521460918,0.00474681,0,0
+"One way in which The Epic of Gilgamesh, The<br /> Odyssey, and The Mahí‰Œ¿ abhí‰Œ¿<br /> arata are similar is that<br /> they are<br /> (1) sets of written legal principles that spell out<br /> the rights of citizens<br /> (2) stories that are tied to monotheistic religious<br /> beliefs<br /> (3) paintings that depict heroes and cultural<br /> values<br /> (4) works of literature that give historians<br /> information about early civilizations",73,376,14,0,0,0,0,73,1,0,36.03917808,32,0,0,-2.593234527,0.718979013,0.1,0.325
+Writing style includes all of the following EXCEPT<br /> A. word choice.<br /> B. sentence structure.<br /> C. syntax.<br /> D. theme.,22,113,4,0,0,0,0,2.75,8,0,-0.144545455,16,0,0,-3.45898948,0.111198144,0,0.1
+"Simplify.[2 í€äóî (10 + 5)] - 5<br /> A. 12.5 <br /> B. 20 <br /> C. 25 <br /> D. 120 <br /><br /><br /> Compare. <br /> Use &gt;, <br /> B. = <br /> C.",29,115,10,0,0,0,0,3.222222222,9,0,-9.91164751,36,0,0,-2.640211842,0.454960814,0,0
+A store is having a sale to celebrate President's Day. Every item in the store is advertised as one-fifth off the original price. If an item is marked with a sale price of $140 what was its original price?<br /><br />       Im having trouble with this question. Can someone please show the answer and explain??,56,250,3,0,1,1,0,11.2,5,0,4.019285714,11,0,0,-3.768062317,0.209226754,0.1625,0.575
+PLEASEEEE HELLLPP: A team mom ordered 100 pizzas for $1255. Cheese pizzas cost $11.50 each and pepperoni pizzas cost $13.00 each.   Identify and define your variables. Write a sistem of equations.,33,164,3,0,0,0,0,5.5,6,0,3.3,6,0,0,-4.422848629,0.100493075,0,0
+how do you work out this problem! 3í€äóî-2y=7,10,38,1,1,0,1,1,5,2,0,-4.8,2,0,0,-4.639071738,0.010387422,0,0
+Name the setc or sets to which each number belongs?<br /> 1). -í¢Êç100<br /> 2).  í¢Êç79,16,76,3,0,0,0,0,4,4,0,-4.1225,10,0,0,-2.34625204,0.226335074,0,0
+How does the book marley &amp; me connect in any way to history or to literature? Does the character remind you of a famous person? Does the plot remind you of another novel? Does the novel make any allusions? (You dont have to answer everything)<br />,46,207,3,1,0,1,0,9.2,5,0,3.238695652,9,0,0,-3.345573478,0.202895268,0.2,0.55
+" PLEASE HELP AS SOON AS U CAN PLEAAAAAASEE!!!!!!!Jana is taking pledges for a bike-a-thon fundraiser. Ivan pledged $4.25,plus $1.25 for each mile that Jana bikes. Vicky pledged $5.75,plus &amp;0.75 for each mile that Jana bikes. (Part A)- write expression for the number of dollars Ivan pledged and the number of dollars Vicky pledged. Use M for the number of miles that Jana bikes. (Part B)- Add the two expressions from Part A to find the combined amount that Ivan and Vicky pledged in terms of M. (Part C)-Find an expression equivalent to the one from part Part B by factoring out the greatest common factor from the two terms.",120,521,3,0,0,0,0,10,12,0,2.60625,32,0,0,-3.136840801,0.844669148,0.35,0.75
+The regular price of an item is $65. The item is on sale with a discount  of $8.What is the discount rate,23,83,0,0,0,1,0,7.666666667,3,0,-1.41884058,2,0,0,-4.298911728,0.054193596,0,0.076923077
+"In asexual reproduction, two parents each pass copies of all of their cells to their offspring. <br /> a. True<br /> b. False",22,103,2,0,0,0,0,5.5,4,0,1.230454545,8,0,0,-3.67443877,0.077336911,-0.4,0.6
+is 3/8 equivalent  to 2/6,7,20,0,0,0,0,1,7,1,0,-5.818571429,0,0,0,-6.060457419,0.003035377,0,0
+"I have a 6 year old rescue dog that has bad separation anxiety.  She barks,tears things up, chews on the door handles and breaks out of herkennel when we leave the house.  We have tried to give her toys to play with but she will not play with anything.  Can you please tell me what I can do to get her over her separation anxiety before I run out of money fixing things. ",74,295,1,0,0,2,0,14.8,5,0,4.364459459,6,0,0,-5.045615013,0.078467101,-0.3,0.433333333
+The SECOND nation to test an atomic bomb was __________.Select one of the options below as your answer:<br /> a.  Great Britain<br /> b.  China<br /> c.  France<br /> d.  the Soviet Union,33,151,4,0,0,0,0,5.5,6,0,-1.124545455,13,0,0,-3.643268943,0.129518274,0.4,0.375
+Yuri has a rope 12m long. he cuts it into pieces that are each 2m long. what fraction of the rope is one piece ,24,87,2,0,0,1,0,8,3,0,-0.74875,2,0,0,-4.81795095,0.035273811,-0.05,0.4
+Which is the best definition of í¢ä‰åñsupremacyí¢ä‰åŒ?<br /> highest authority<br /> limitless power<br /> superior judgment<br /> greater aptitude,19,131,4,0,0,0,0,9.5,2,0,9.101052632,9,0,0,-5.280298861,0.021349029,0.733333333,0.566666667
+Describe wind farms. why are they useful?,7,35,0,0,1,1,0,3.5,2,0,2.524285714,2,0,0,-5.460836296,0.006726057,0.3,0
+what is the flow of energy in cells? ,8,29,0,1,0,1,1,4,2,0,-2.945,1,0,0,-4.036075654,0.017798828,0,0
+what is the quotient of 11/12 í€Œ‡ 5/7 ?<br /><br />,11,42,2,1,0,1,1,5.5,2,0,-6.262727273,5,0,0,-6.502290171,0.00277995,0,0
+how to describe a dragons teeth ? <br /> make it as describe as possible.<br /> need it for a story plz help !!!!,21,90,3,1,0,1,1,7,3,0,-0.435714286,10,0,0,-4.160484365,0.05227036,0,0
+if 1/3 of flour is used to make 5 dinner rolls how many rolls can you make with 5 and 2/3 cups of flour?,26,81,0,0,1,1,1,26,1,0,5.7,1,0,0,-4.153185062,0.073496459,0.5,0.5
+Juan likes to cook.  the secret ingredient consist of 2/3 cup milk and 1/6 cup honey mustard how many cups in the secret ingredient?,26,108,0,0,1,1,0,13,2,0,3.91,2,0,0,-5.263631809,0.031823331,-0.1,0.633333333
+"Divergent boundaries, normal faults and slope are land features which result from stretching the Earthí¢ä‰åä‹¢s crust. Reverse fault jagged cliffs and convergent boundaries are features which result from folding the Earthí¢ä‰åä‹¢s crust.<br /> a. True<br /> b. False",40,229,2,0,0,0,0,8,5,0,6.3555,9,0,0,-4.569803042,0.074432652,-0.125,0.625
+Each batch of Miss Garcia taffy makes 14 pieces of taffy . If Sandy needs eight dozen piece of taffy how many batches does she have to make,27,112,0,0,0,1,0,13.5,2,0,4.683333333,1,0,0,-4.970283999,0.04202507,0.5,0.5
+Elena and Billie make 752 brownies then give them to their 9 friends to share. How many will they have left over? what impact did the remainder have on this answer?,31,134,0,0,1,2,0,10.33333333,3,0,3.640215054,3,0,0,-4.563205987,0.050002966,0.25,0.25
+which is a quantitative method of data collection?,8,43,0,0,1,0,1,8,1,0,7.2975,1,0,0,-5.729100283,0.005428254,0,0
+Matematyka z plusem str 131 cw 31 pomoíƒŒ_e ktoíƒäó_?,10,45,5,0,1,0,0,10,1,0,0.055,1,0,0,-6.540030499,0.006076291,0,0
+What is Masa made of? Plz Help I need To Know This Thanks :),13,47,2,1,0,1,0,6.5,2,0,-2.238461538,2,0,0,-2.724857319,0.137224631,0.35,0.6
+Not every state has created a statutory right to appeal a criminal conviction. (Points : 2)<br /> a.  True<br /> b.  False,21,99,2,0,0,0,0,5.25,4,0,0.707857143,9,0,0,-2.629354554,0.261097019,-0.171428571,0.561904762
+can someone please help me on this question  zoom out to see the scatter graph ,15,63,0,0,0,0,1,15,1,0,5.852,0,0,0,-4.127384416,0.042149275,0,0
+what is this increase í‰Œ£80 by 20%,7,29,0,1,0,1,1,7,1,0,-1.781428571,0,0,0,-4.362224007,0.01755106,0,0
+Carrie is buying bulk candy for a high school fundraiser. She buys 1000 candy bars for $350. What is the unit cost per candy bar?<br /> a.  $.30<br /> b.  $.35<br /> c.  $.45<br /> d.  $1.35,38,150,5,0,0,1,0,3.166666667,12,0,-4.725087719,19,0,0,-3.747719954,0.18996365,0.16,0.54
+Which term do historians use to describe the historical period between the beginning of the 16th century and the 21st century?<br /> a.  Industrial era<br /> b.  Classical era<br /> c.  Modern era<br /> d.  Postclassical era,37,184,5,0,0,0,0,6.166666667,6,0,2.911981982,13,0,0,-4.009478342,0.105810248,0.05,0.075
+"I have a 6 year old rescue dog that has bad separation anxiety.  She barks,tears things up, chews on the door handles and breaks out of herkennel when we leave the house.  We have tried to give her toys to play with but she will not play with anything.  Can you please tell me what I can do to get her over her separation anxiety before I run out of money fixing things. ",74,295,1,0,0,2,0,14.8,5,0,4.364459459,6,0,0,-5.045615013,0.078467101,-0.3,0.433333333
+there are 12 boys and 18 girls in Mr. Ruiz class the students must form lab groups each group must have the same number of boys to girls. what is the greatest number of groups Mr. Ruiz can make if every student must be in a group,47,183,0,0,0,1,1,11.75,4,0,2.483297872,3,0,0,-4.470250868,0.11025005,0.5,0.5625
+"It was only after the _______ _______ that people started gathering in larger groups and formed more complex institutions. Was it the: Industrial<br /> Revolution, Agricultural Revolution, or the Iron age? ",29,175,1,0,0,0,0,9.666666667,3,0,8.252643678,6,0,0,-4.881156219,0.043553965,0.05,0.6
+How might a young Egyptian rise in social status?,9,41,0,1,1,1,0,9,1,0,4.003333333,1,0,1,-6.060457419,0.006103491,0.066666667,0.233333333
+"Jeff and his family are driving to visit his grandmother. They have driven about 30 miles, which is about 2/3  of the way. How much further do they have to go?",32,128,0,0,1,1,0,10.66666667,3,0,2.007395833,4,0,0,-4.787491743,0.036584334,0,0.5
+you have driven 30 miles and thats only 2/3 of the way how much further do you have to go'<br />,22,76,2,0,0,1,1,22,1,0,4.984545455,2,0,0,-3.099074625,0.132821861,0,0.75
+"Which of the following statement is FALSE? <br /> a. Plathí¢ä‰åä‹¢s work is mostly upbeat and cheerful in tone and mood.<br /> b. Plath became known for her style of writing confessional poetry, which often dealt with shocking subject matters.<br /> c. After her death, Plath received a Pulitzer Prize for her work.<br /> d. Plathí¢ä‰åä‹¢s work is often autobiographical in nature.",63,320,4,0,0,0,0,7,9,0,3.078095238,19,0,0,-4.28723607,0.139744498,-0.095238095,0.504761905
+"Which sentence uses a verb that agrees with its subject? <br /><br /> a. Is the boys coming over later to play basketball? <br /> b. Has he ever been there before? <br /> c. Were she happy to see you? <br /> d. Does the Miller sisters sing, too?",46,196,5,0,1,0,0,5.111111111,9,0,-1.365531401,20,0,0,-3.850092048,0.105806377,0.211111111,0.444444444
+All of the following are part of the digestive system except the __________.<br /> Select one of the options below as your answer:<br /> a. stomach<br /> b. esophagus<br /> c. intestines<br /> d. heart,34,167,5,0,0,0,0,5.666666667,6,0,0.243333333,15,0,0,-3.500692778,0.141315297,0,0.1
+One purpose of a summary is to .<br /> a. save the reader time. B Include your own opinion on the topic.<br /> c. change technical terms of everyday language.<br /> d.  correct errors in the original,36,162,3,0,0,0,0,4.5,8,0,-0.078333333,13,0,0,-3.853257696,0.111233947,0.19375,0.6125
+fran has 7 sheets of paper for coloring projects if she only uses one third of a sheet of paper per drawing how many drawings can she make?,28,112,1,0,1,1,1,28,1,0,11.24178571,1,0,0,-4.382026635,0.067252622,0.166666667,0.5
+What is a procrariote and a eucariote ,7,31,2,1,0,1,0,7,1,0,2.928571429,0,0,0,-6.907755279,0.000981005,0,0
+"If you see a diseased plant, it is most likely in the _____ stage of its life cycle.<br /> a.  adult<br /> B: death<br /> C: growth<br /> D: beginning",29,120,4,0,0,0,0,9.666666667,3,0,-0.842528736,11,0,0,-3.418403383,0.15170905,-0.033333333,0.75
+how many chromosomes are in each body cell of the female rabbit?,12,53,0,1,1,1,1,12,1,0,4.98,1,0,0,-4.166915255,0.030567767,0.25,0.333333333
+"To force a bill out of committee, a/an _______ petition must be signed by a majority of the representatives. <br /> A. release<br /> B. amendment<br /> C. discharge<br /> D. calendar",31,151,4,0,0,0,0,5.166666667,6,0,0.145268817,14,0,0,-3.819557778,0.094075896,0,0
+Which individual called for an Open Door Policy with China?<br /> a. Henry Cabot Lodge<br /> b. John Hay<br /> c. Alfred Thayer Mohan<br /> d. Woodrow Wilson,28,130,5,0,0,0,0,4.666666667,6,0,-0.088452381,13,0,0,-4.029806041,0.083969282,0,0.45
+Which of the following is thought to be engulfed by prokaryotes eventually leading to the development of animal cells?<br /> A. mitochondria<br /> b.  chloroplasts <br /> C. aerobic bacteria<br /> d.  cyanobacteria,32,180,7,0,0,0,0,5.333333333,6,0,5.228229167,13,0,0,-3.711636441,0.105841076,0,0.1
+is 8 bigger  than 7.4,6,16,0,0,0,0,1,3,2,0,-8.155,1,0,0,-5.010635294,0.007235996,0,0.5
+What is the answer to this equation 2.79 í€äóî 10-4?,11,43,0,1,1,1,0,5.5,2,0,-3.693636364,3,0,1,-3.912023005,0.032093771,0,0
+Round each number to the nearest ten 343.42 í¢ä‰åäóì 39.87 ,11,49,0,0,0,0,0,3.666666667,3,0,-2.897575758,2,0,0,-4.679278158,0.022556659,-0.1,0.2
+Davis knows that the area of his square shaped bag is 81 ft squared. what is the length of any side of the bag?,24,88,0,0,1,1,0,12,2,0,1.4475,2,0,0,-5.585999439,0.018683933,0,0
+7 x 7 x 7 x 7  in exponential form?,10,25,0,0,1,0,0,10,1,0,-5.126,1,0,0,-3.40788637,0.089521607,0,0
+Please help! Due tonight!<br /><br /> Find each function value for the given function rule.<br /><br />  f(9) if f(x) = x + 13,24,102,4,0,0,0,0,6,4,0,-2.53375,15,0,0,-2.429902069,0.441967795,-0.125,0.375
+An antibaryon composed of two antiup quarks<br /> and one antidown quark would have a charge of<br /> (1) +1e (3) 0e<br /> (2) í¢Êäó»1e (4) í¢Êäó»3e,27,124,10,0,0,0,0,27,1,0,8.118888889,14,0,0,-2.049136192,0.707776924,0,0
+What is the wavelength of a 256-hertz sound<br /> wave in air at STP?<br /> (1) 1.17 í€äóî 10^6 m (3) 0.773 m<br /> (2) 1.29 m (4) 8.53 í€äóî 10^í¢ä‰åäóì7 m,37,125,4,1,0,1,0,6.166666667,6,0,-7.908288288,20,0,0,-2.050032116,0.707695316,0,0
+"to decrease an amount by 42% , multiply by ???? ",8,38,0,0,0,0,1,4,2,0,-0.59,5,0,0,-4.990832667,0.012660843,0,0
+What is the y-intercept of the line? y = -3x<br /> a. -3<br /> b. 0<br /> c. 1<br /> d. 3,22,68,5,1,0,1,0,3.666666667,6,0,-9.534393939,16,0,0,-2.854232711,0.151199369,0,0
+What is the LCD of 5/12    and -9/16   ?,10,27,0,1,1,1,0,10,1,0,-5.597,2,0,0,-6.396929655,0.002289448,0,0
+"Gomes found the masses of three rocks for a science project.The first rock had a mass of 19.29 grams,the second rock had a mass of 25.3 grams,and the third rock had a mass of 46.3 grams.How much greater was the mass of the third rock than the combined mass of the other two rocks?",61,227,1,0,1,1,0,10.16666667,6,0,0.563005464,8,0,0,-4.796565039,0.093627745,0.104166667,0.201388889
+what is 4.32 over 100 like as a fraction. what is it simplified?,14,52,0,1,1,2,1,4.666666667,3,0,-2.611666667,3,0,0,-4.585367559,0.018141405,0,0
+"What is the slope-intercept form of the function that contains the point (í¢ä‰åäóì1, 5) and has a slope of í¢ä‰åäóì4?",21,98,0,1,1,1,0,21,1,0,6.34,5,0,1,-2.611088493,0.174890829,0,0
+"What is ""I have a cat?"" in French?",8,27,0,1,1,1,0,4,2,0,-5.88875,2,0,0,-3.33120501,0.039615851,0,0
+"a grocery store has 48 cartons of eggs .if there are 12 eggs in each carton, how many ounces of peanut butter are there in 1 serving?",27,107,0,0,1,1,1,13.5,2,0,3.462222222,3,0,0,-4.315703992,0.0585235,0.5,0.5
+"Coley bought 10 books which cost $2m each. If she gave the cashier a fifty dollar bill, how much change would she receive? <br /><br /> Possible answers:<br /> A) 20m<br /> B) 30m<br /> C) 50-20m<br /> D) 20m-50",41,172,12,0,0,1,0,13.66666667,3,0,1.830894309,21,0,0,-2.596724752,0.471668347,0.1,0.6
+write an addition story problem. Have a classmate solve your problem. ,11,59,0,0,0,0,1,3.666666667,3,0,4.80969697,2,0,0,-4.634157723,0.025071649,0,0
+"There are 30 students in a class, including 16 boys. Write each ratio. A. Girls to boys.  B.  Boys to Girls.  C. Girls to all students  D. Boys to all students ",31,125,0,0,0,0,0,3.444444444,9,0,-2.083261649,9,0,0,-3.715908127,0.126027125,0,0
+"In ""The Highwayman,"" how does Bess warn the highwayman of danger? <br /> a. by firing the gun into the air<br /> b. by running away from the British troops<br /> c. by shouting out to him as he rides up the road<br /> d. by sacrificing her own life",49,199,4,0,0,1,0,8.166666667,6,0,-0.140748299,14,0,0,-3.812393164,0.123765435,0.3,0.5
+"There are 16 red cars in a parking lot , 20 blue and 12 silver. If there are 240 cars parked in the lot ,how many blue cars are parked in the lot?",32,114,0,0,1,1,0,16,2,0,2.760625,4,0,0,-4.828313737,0.051386253,0.125,0.175
+there are 25 servings in a 30.2 ounce jar of peanut butter. how many ounces of peanut butter are there in 1 serving?,24,94,0,0,1,1,1,8,3,0,0.42875,3,0,0,-4.236262674,0.058676403,0.5,0.5
+"what digit is in the Hundred Thousand Place? 645,892 ",10,44,0,1,0,1,1,5,2,0,0.852,2,0,0,-5.744604469,0.006626845,0,0
+"west deposited $15,000 in a savings account earning 2.5% interest .what was the total interest earned at the end of 8 years ?",24,103,0,0,1,1,1,8,3,0,1.60625,4,0,0,-4.592747666,0.056578908,0,0.75
+samantha has 8 balloons. jacob has 1/2 as many balloons as samantha how many does jabob have?,18,77,4,0,1,1,1,9,2,0,2.433333333,2,0,0,-4.342805922,0.04249128,0.5,0.5
+write an addition story problem. Have a classmate solve your problem. ,11,59,0,0,0,0,1,3.666666667,3,0,4.80969697,2,0,0,-4.634157723,0.025071649,0,0
+"How are proteins, lipids, and polysaccharides similar?<br /> A) They contain the same atoms and types of bonds between atoms.<br /> B) They are natural polymers composed of repeating monomeric units.<br /> C) They are formed during exergonic metabolic reactions in a cell.<br /> D) They have characteristics similar to the elements making them up.            ",55,293,6,1,0,1,0,9.166666667,6,0,6.275151515,19,0,0,-2.714571418,0.422153071,0.033333333,0.308333333
+Hi  in laungage arts we are doing an advertisement and I'm doing a advertisement for a 12 year olds room.Any ideas of how it should look.,27,111,1,0,0,1,0,13.5,2,0,4.334444444,2,0,0,-3.463072785,0.12516272,0,0
+This method of communication became vitally important by the end of the nineteenth century because of its use in coordinating rail travel.<br /> A)<br /> telegraph <br /> B)<br /> telephone <br /> C)<br /> television <br /> D)<br /> Pony Express,39,204,8,0,0,0,0,19.5,2,0,9.454615385,21,0,0,-2.462039669,0.411327079,0.4,1
+Which statement below BEST summarizes the role of the DNA molecule in cells?<br /> A)<br /> guides cell division <br /> B)<br /> protects cells from infection <br /> C)<br /> provides the instructions for making proteins <br /> D)<br /> regulates the chemical processes that provide the cell with energy,48,253,8,0,0,0,0,24,2,0,12.55,21,0,0,-2.624882408,0.457703486,1,0.3
+Which sentence uses a verb that agrees with its compound subject? <br /> a. Steven or the cousins has cleaned the garage.<br /> b. A hat or mittens are in that gift bag.<br /> c. The Mitchells or Mr. Goodman have a new car.<br /> d. A ladybug and a spider was crawling on the porch.,55,227,5,0,0,0,0,5.5,10,0,-1.124545455,18,0,0,-4.145216893,0.11132518,-0.015151515,0.393939394
+Which of the following is theí‰Œæbestí‰Œæreason for a home inspector to have a set procedure for the inspection process?í‰Œæ<br /><br /> í‰Œæí‰Œæí‰Œæí‰ŒæA.í‰ŒæIt prevents omissions and oversights during the inspection.B.í‰ŒæIt keeps the inspector in control of the client.C.í‰ŒæIt helps the inspector gain assignments from real estate attorneys.D.í‰ŒæIt helps the inspector complete more inspections and make more money.,65,365,2,0,0,0,0,7.222222222,9,0,4.35434188,13,0,0,-5.34610803,0.052865078,0.26,0.36
+6 The atomic mass of magnesium is the weighted average of the atomic masses of<br /> (1) all of the artificially produced isotopes of Mg<br /> (2) all of the naturally occurring isotopes of Mg<br /> (3) the two most abundant mtif1cially produced isotopes of Mg<br /> (4) the two most abundant naturally occurring isotopes of Mg,57,271,5,0,0,0,0,57,1,0,27.81052632,16,0,0,-2.458362095,0.739056717,0.20625,0.6375
+Which of the following best states the purpose of a topic sentence?<br /> A) present a fact <br /> B)add a minor supporting detail <br /> C) express a paragraphí¢ä‰åä‹¢s key point <br /> D) restate a compositioní¢ä‰åä‹¢s main idea,40,191,4,0,0,0,0,20,2,0,7.1745,13,0,0,-2.545637046,0.435938648,0.195238095,0.311904762
+"Consider a rabbit, which of the following is true regarding its DNA? <br /> A) All of its cells contain the same DNA.<br /> B) Each cell type contains its own unique DNA.<br /> C) Rabbit brain cells and kidney cells express the same DNA genes.<br /> D) Rabbit DNA uses a different molecular backbone than mouse DNA.",57,258,4,0,0,0,0,11.4,5,0,3.771052632,18,0,0,-2.795971082,0.491741108,0.189285714,0.514285714
+"The prefix ""cardio"" refers to _____.<br /> aerobic<br /> with oxygen<br /> anaerobic<br /> heart",14,82,5,0,0,0,0,7,2,0,2.928571429,9,0,0,-4.110473944,0.04800646,0,0
+Which statement is true about the meaning of the equation 2=5x2/5<br /><br /><br /><br /> A.The fraction 2/5 is1/2 the size of 5.<br /><br /><br /> B.The fraction2/5 is1/5 the size of 5.<br /><br /><br /> C.The number 5 is 2 times the size of 2/5<br /><br /><br /> D.The number 2 is 5 times the size of 2/5.<br />,72,254,18,0,0,0,0,9,8,0,-4.042916667,35,0,0,-3.903724203,0.183747247,0.35,0.65
+A 1.0 í€äóî 10^3-kilogram car travels at a constant<br /> speed of 20. meters per second around a<br /> horizontal circular track. The diameter of the<br /> track is 1.0 í€äóî 10^2 meters. The magnitude of the<br /> carí¢ä‰åä‹¢s centripetal acceleration is<br /> (1) 0.20 m/s2 (3) 8.0 m/s2<br /> (2) 2.0 m/s2 (4) 4.0 m/s2,68,266,10,0,0,0,0,6.8,10,0,-3.761470588,30,0,0,-2.505926017,0.818510003,0,0
+One angle is 36í‰ŒÁ. What is the measure of its complement?<br /><br /> A) 54í‰ŒÁ<br /><br /> B) 64í‰ŒÁ<br /><br /> C) 144í‰ŒÁ<br /><br /> D) 324í‰ŒÁ,27,123,8,0,0,1,0,9,3,0,-4.195555556,22,0,0,-2.048459804,0.39866917,0,0
+"""that pile of dirty laundry is a science experiment and mother complained is a science experiment""this metopor or simile also what is the meaning",25,122,1,0,0,1,0,25,1,0,13.678,0,0,0,-4.384696863,0.057114972,-0.45,0.5
+"write a curencies to each of the asian countries <br /><br /> pakistan , india ,china. kazakhstan bangladesh<br />",17,96,9,0,0,0,1,8.5,2,0,6.092941176,9,0,0,-5.549631795,0.013498359,0,0
+When to use í¢ä‰åñthatí¢ä‰åŒ and when to use í¢ä‰åñwhichí¢ä‰åŒ?,9,59,0,1,1,2,0,9,1,0,-1.23,1,0,0,-4.268697949,0.018662705,0,0
+"Sebastian swam laps every day in the community swimming pool. he swam 45 minutes each day, 5 days a week, for 12 weeks. in that time, he swam 1,800 laps. what was his average rate in laps per hour?",40,159,0,0,1,1,0,10,4,0,1.35025,8,0,0,-4.727772508,0.082847348,-0.15,0.4
+"ben can type 153 words in 3 minutes. at this rate,how many words can he type in 10 minutes?",20,73,1,0,1,1,1,10,2,0,0.055,3,0,0,-3.928830124,0.072923736,0.5,0.5
+"The quotation ""Sit!"" is a fragment.<br /> a. True<br /> b. False",12,53,2,0,0,0,0,2.4,5,0,-4.1375,8,0,0,-3.132124898,0.090975721,-0.4,0.6
+7 times 10 times 4 times 1  plus  (2  times 1/10) plus (5 times 1/100),17,53,0,0,0,0,0,17,1,0,0.091764706,4,0,0,-2.296812314,0.427084227,0,0
+"What adjective form or position is the italicized word or phrase?<br />A warm, humid breeze is blowing.<br />í‰Œæa.)í‰Œæcompound <br />í‰Œæb.)í‰Œæcoordinate <br />í‰Œæc.)í‰Œæattributive",27,164,4,1,0,1,0,4.5,6,0,1.578888889,17,0,0,-2.672039764,0.252304175,0.6,0.6
+"In parallelogram WXYZ, W and  X  are adjacent. The measure of X is three times the measure of W.  What equation gives the exact measure of W?<br /><br />",29,122,3,0,0,1,0,7.25,4,0,0.385344828,8,0,0,-4.104394898,0.084166484,0.25,0.25
+"If carbon dioxide is completely removed from a plants environment, what would you expect to happen to the plants production of high energy sugars?<br /> a.  the same number of sugars will be produced but without carbon dioxide<br /> b.  Carbon dioxide does not affect the production of high energy sugars in plants<br /> c.  more sugars will be produced<br /> d.  no sugars will be produced",67,320,4,0,0,1,0,11.16666667,6,0,5.383482587,14,0,0,-4.126017362,0.164798581,0.184,0.421
+What is the literary term for the character who is the í¢ä‰åñopponentí¢ä‰åŒ or the í¢ä‰åñbad guyí¢ä‰åŒ? <br /> A. protagonist <br /> B. stock character <br /> C. antagonist <br /> D. archetype,29,164,4,1,0,2,0,4.833333333,6,0,0.313908046,13,0,0,-3.695052313,0.084329999,0.1,0.1
+"If a motor lifts a 400.-kilogram mass a vertical<br /> distance of 10. meters in 8.0 seconds, the<br /> minimum power generated by the motor is<br /> (1) 3.2 í€äóî 10^2 W (3) 4.9 í€äóî 10^3 W<br /> (2) 5.0 í€äóî 10^2 W (4) 3.2 í€äóî 10^4 W",54,192,4,0,0,0,0,6.75,8,0,-5.931111111,25,0,0,-2.460911144,0.7893779,0,0
+What is the approximate diameter of an inflated<br /> basketball?<br /> (1) 2 í€äóî 10^í¢ä‰åäóì2 m (3) 2 í€äóî 10^0 m<br /> (2) 2 í€äóî 10^í¢ä‰åäóì1 m (4) 2 í€äóî 10^1 m,32,138,3,1,0,1,0,16,2,0,-1.655,15,0,0,-1.980760426,0.840902038,-0.4,0.6
+Use distributive property to rewrite 9(10+x)<br /><br />   A. 19+9x<br />   B. 90+9x<br />   C. 90+x<br />   D. 10+9x,25,91,8,0,0,0,0,5,5,0,-6.684,16,0,0,-2.582676996,0.232159633,0,0
+The work of a student to solve the equation 2(6y í¢Êäó» 3) = 20 + 6y is shown below:<br /><br /> Step 1: 2(6y í¢Êäó» 3) = 20 + 6y<br /> Step 2: 8y í¢Êäó» 5 = 20 + 6y<br /> Step 3: 2y í¢Êäó» 5 = 20<br /> Step 4: 2y = 25<br /> Step 5: y = 12.5<br /><br /> In which step did the student first make an error and what is the correct step?<br /><br /> Step 2: 8y-5=10+3y<br /> Step 2: 12y-6=20+6y<br /> Step 3: 6y-3=2(18+3y)<br /> Step 3: 2(6y-3)=18+3y,99,356,29,0,0,1,0,33,3,0,6.868787879,40,0,0,-2.681253374,1.472334547,0.25,0.333333333
+Vladimir Lenin and the Bolshevik party had the support of all the following people EXCEPT the:<br /> a.  proletariat<br /> b.  army<br /> c.  tsar<br /> d.  peasant farmer,29,139,5,0,0,0,0,5.8,5,0,1.284482759,12,0,0,-3.575550769,0.120568643,0,0.1
+"Can a person be exposed to HIV by hugging or shaking hands with an infected person?<br /> a.  yes, because the virus can be transmitted through sweat<br /> b.  no, because none of the bodily fluids that carry the virus are on the surface of the skin<br /> c.  no, not if the skin is completely covered<br /> d.  yes, so you can't ever be too safe",67,276,4,0,0,0,0,11.16666667,6,0,2.079452736,17,0,0,-3.699255682,0.201223647,0.2,0.333333333
+"An electric dryer consumes 6.0 í€äóî 10^6 joules of<br /> electrical energy when operating at 220 volts for<br /> 1.8 í€äóî 103 seconds. During operation, the dryer<br /> draws a current of<br /> (1) 10. A (3) 9.0 í€äóî 102 A<br /> (2) 15 A (4) 3.3 í€äóî 103 A",51,211,5,0,0,1,0,7.285714286,7,0,-3.010672269,25,0,0,-2.418557269,0.780419879,0,0.4
+How is cooking like science? ( be specific ) ( 8 sentences ) <br /> Thanks!!!!&lt;3,13,68,2,1,0,1,0,4.333333333,3,0,0.301282051,12,0,0,-2.205458382,0.355209694,0,0.125
+Dawn  Lingua bought three yards of cloth  to make some curtains  . The cloth was on sale for $2.25 per yard. How much did Dawn pay for the cloth if the sales tax was 5% ?,35,132,0,0,1,1,0,8.75,4,0,-0.099,4,0,0,-4.449721647,0.087991476,0.2,0.2
+"Is the group of words a simple sentence, a compound sentence, or a run-on sentence?    Eagles soar through the sky and nest in high trees.    A. compound sentence    B. simple sentence    C. run-on sentence",36,161,0,0,0,0,0,6,6,0,1.456666667,9,0,0,-3.822930462,0.13829176,0.053333333,0.418095238
+Xylem and phloem together make up<br /> a.  nutrients.<br /> b.  tracheids.<br /> c.  vessels.<br /> d.  vascular tissue,19,98,5,0,0,0,0,2.375,8,0,-0.658815789,15,0,0,-3.521825369,0.083490794,0,0
+How is cooking like science? ( be specific ) ( 8 sentences ) <br /> Thanks!!!!&lt;3,13,68,2,1,0,1,0,4.333333333,3,0,0.301282051,12,0,0,-2.205458382,0.355209694,0,0.125
+Which Spanish conqueror defeated the Inca Empire?  <br /><br /><br /><br />  A.<br /> Cortí€Œ©s<br /><br />  B.<br /> Pizarro<br /><br />  C.<br /> Moctezuma<br /><br />  D.<br /> Las Casas,31,154,16,0,0,0,0,5.166666667,6,0,-3.197311828,33,0,0,-3.643268943,0.080760994,0,0
+"During puberty, an adolescent will<br /> a.  undergo growth spurts in height and weight.<br /> b.  develop primary and secondary sexual characteristics.<br /> c.  both a and b<br /> d.  neither a nor b",34,164,4,0,0,0,0,4.857142857,7,0,1.085336134,15,0,0,-3.4637379,0.126261353,0.2,0.544444444
+A virus is referred to as a particle rather than a cell because structurally it is a A) RNA core in a carbohydrate envelope.  B) nucleus surrounded by a protein coat.  C) plasmid of DNA surrounded by a capsid.  D) RNA or DNA core surrounded by a protein coat.,49,208,1,0,0,0,0,12.25,4,0,3.919489796,8,0,0,-2.704556312,0.428505493,0,0
+ideas for essay about the following prompt<br /> Should schools monitor studentsí¢ä‰åä‹¢ social media posts?<br /> I am on the the side that said yes they should,27,135,2,0,0,0,1,13.5,2,0,6.253333333,5,0,0,-4.887737158,0.033927161,0.016666667,0.083333333
+Which energy transformation occurs in an<br /> operating electric motor?<br /> (1) electrical í¢äóæäó» mechanical<br /> (2) mechanical í¢äóæäó» electrical<br /> (3) chemical í¢äóæäó» electrical<br /> (4) electrical í¢äóæäó» chemical,26,203,5,0,0,0,0,13,2,0,11.69961538,19,0,0,-2.174191878,0.733660069,0,0
+Which of the following is a way that trees have been negatively impacted by human use?<br /> a.  deforestation<br /> b.  pollution<br /> c.  reduction<br /> d.  all of the above,31,143,4,0,0,0,0,5.166666667,6,0,0.297204301,13,0,0,-3.42651519,0.103843337,-0.075,0.175
+im 12 and 5'2. i started my period at 11. my mom is 5'1 and dad is 5'9. can i grow taller and can you give a predicted height? thanks!,30,105,4,0,0,0,1,6,5,0,-2.73,5,0,0,-3.653715542,0.133782807,0.25,0.2
+ The clear and present danger principal stated by the Supreme Court in Schneck versus United States 1919 had the effect of?<br />  A prohibiting the president from implementing a military draft <br />  B preventing the wartime interment of citizens <br />  C  Restricting in the formation of defense alliances <br /> D  limiting freedom of speech during wartime <br />,57,302,6,0,0,0,0,28.5,2,0,16.45263158,11,0,0,-4.492958195,0.100037337,4.63E-18,0.161111111
+One atom of silicon can properly be combined in a compound with<br /> a.  three atoms of hydrogen.<br /> b.  four atoms of calcium.<br /> c.  two atoms of oxygen.<br /> d.  one atom of chlorine.,36,155,4,0,0,0,0,4.5,8,0,-1.5175,16,0,0,-3.757158295,0.131870068,0,0.1
+"In musical language, mezzo forte (mf) signals that the music's volume should be<br /> a.  medium soft.<br /> b.  soft.<br /> c.  very loud.<br /> d.  medium loud.",28,131,5,0,0,0,0,3.5,8,0,-1.512857143,19,0,0,-2.675721314,0.328242396,0.1,0.366666667
+A _________________ is when the courts allow people who have all been harmed to pool grievances and sue for damages on behalf of the group.<br /> a.  small claims court<br /> c.  class action law suit<br /> b.  binding arbitration<br /> d.  federal trial,43,207,4,0,0,2,0,7.166666667,6,0,1.102868217,13,0,0,-4.205276123,0.098538925,-0.075,0.25
+"The three types of seismic waves produced by an earthquake are primary, secondary, and<br /> a.  surface.<br /> b.  elastic.<br /> c.  sedimentary.<br /> d.  atmospheric.",26,141,4,0,0,0,0,3.25,8,0,1.752307692,18,0,0,-3.717866991,0.090678153,0.033333333,0.266666667
+"A distance of 1.0 í€äóî 10^í¢Êäó»2 meter separates successive<br /> crests of a periodic wave produced in a shallow<br /> tank of water. If a crest passes a point in the tank<br /> every 4.0 í€äóî 10^í¢Êäó»1 second, what is the speed of this<br /> wave?<br /> (1) 2.5 í€äóî 10^í¢Êäó»4 m/s (3) 2.5 í€äóî 10^í¢Êäó»2 m/s<br /> (2) 4.0 í€äóî 10^í¢Êäó»3 m/s (4) 4.0 í€äóî 10^í¢Êäó»1 m/s",78,320,6,0,0,1,0,8.666666667,9,0,-4.838589744,29,0,0,-2.642951695,0.85237248,0,0
+"Pluto orbits the Sun at an average distance of 5.91 í€äóî 10^12 meters. Plutoí¢ä‰åä‹¢s diameter is 2.30 í€äóî 10^6<br /> meters and its mass is 1.31 í€äóî 10^22 kilograms.<br /> Charon orbits Pluto with their centers separated by a distance of 1.96 í€äóî 10^7 meters. Charon has<br /> a diameter of 1.21 í€äóî 10^6 meters and a mass of 1.55 í€äóî 10^21 kilograms.<br /><br /> Calculate the magnitude of the gravitational force of attraction that Pluto exerts on Charon. [Show all<br /> work, including the equation and substitution with units.]",97,455,6,0,0,0,0,7.461538462,13,0,0.65520222,27,0,0,-4.574079599,0.203925574,-0.15,0.4
+A line has a slope of   and a y-intercept of í¢Êäó»5.<br /><br /> Which equations represent the line?<br /><br /> Choose all answers that are correct.<br /><br />  A.-2+3y=-15<br /><br /><br />  B.y=2/3x-5<br /><br /><br />  C.6y=4x-30<br /><br /><br />  D.(y+3)=2/3(x-3)<br />,59,231,20,0,0,0,0,7.375,8,0,-5.68809322,49,0,0,-2.58893472,0.31372034,0,0
+"What one word in Spanish can be mistaken in 3 ways as ""the Pope"", ""Potato"", or ""Dad""",17,68,0,1,0,1,0,17,1,0,3.693529412,2,0,0,-3.256231611,0.161600297,0,0
+Find the equation that is equivalent to the quadratic equation shown. Explain why<br /> xí‰Œ_ - 6x - 27 = 0 <br /> A.) x(x - 3) = 27<br /> B.) (x - 6)í‰Œ_ = 63<br /> C.) (x - 3)í‰Œ_ = 36<br /> D.) (x - 3)í‰Œ_ = 28,39,164,6,0,0,1,0,6.5,6,0,-5.499230769,33,0,0,-2.143774956,1.344301621,0,0
+"When a teacher shines light on a photocell<br /> attached to a fan, the blades of the fan turn. The<br /> brighter the light shone on the photocell, the<br /> faster the blades turn. Which energy conversion<br /> is illustrated by this demonstration?<br /> (1) light í¢äóæäó» thermal í¢äóæäó» mechanical<br /> (2) light í¢äóæäó» nuclear í¢äóæäó» thermal<br /> (3) light í¢äóæäó» electrical í¢äóæäó» mechanical<br /> (4) light í¢äóæäó» mechanical í¢äóæäó» chemical",63,393,8,1,0,1,0,15.75,4,0,8.27547619,29,0,0,-2.695342821,0.773657858,0.4,0.7
+ In Anne of Green Gables Why does Mrs. Lynde advise Marilla to go along with Anne's plan about school?                   A.    Mrs. Lynde thinks Anne is a bad influence on the other students.                    B.    Mrs. Lynde thinks Mr. Phillips was in the wrong.                    C.    Mrs. Lynde thinks Mr. Phillips will cool off in time.                    D.    Mrs. Lynde thinks Marilla needs to teach Anne a lesson.                                                  ,64,274,2,0,0,1,0,3.764705882,17,0,-0.560459559,16,0,0,-3.984593698,0.239967384,-0.235,0.578333333
+A radio operating at 3.0 volts and a constant<br /> temperature draws a current of 1.8 í€äóî 10^í¢Êäó»4 ampere.<br /> What is the resistance of the radio circuit?<br /> (1) 1.7 í€äóî 10^4 í_Œ© (3) 5.4 í€äóî 10^í¢Êäó»4 í_Œ©<br /> (2) 3.0 í€äóî 10^1 í_Œ© (4) 6.0 í€äóî 10^í¢Êäó»5 í_Œ©,52,236,4,0,0,1,0,5.777777778,9,0,-5.769764957,24,0,0,-2.48863452,0.785040377,0,0.4
+"The coordinates of a point on a coordinate grid are (í¢Êäó»1, 5). The point is reflected across the x-axis to obtain a new point. The coordinates of the reflected point are (4 points)<br />  (1, í¢Êäó»5)<br />  (í¢Êäó»1, 5)<br />  (1, 5)<br />  (í¢Êäó»1, í¢Êäó»5)",46,220,4,0,0,0,0,15.33333333,3,0,1.902536232,28,0,0,-2.075030233,1.002575754,0.136363636,0.454545455
+"A projectile is launched at an angle above the<br /> ground. The horizontal component of the<br /> projectileí¢ä‰åä‹¢s velocity, vx, is initially 40. meters per<br /> second. The vertical component of the projectileí¢ä‰åä‹¢s<br /> velocity, vy, is initially 30. meters per second.<br /> What are the components of the projectileí¢ä‰åä‹¢s<br /> velocity after 2.0 seconds of flight? [Neglect<br /> friction.]<br /> (1) vx = 40. m/s and v<br /> y = 10. m/s<br /> (2) vx = 40. m/s and v<br /> y = 30. m/s<br /> (3) vx = 20. m/s and v<br /> y = 10. m/s<br /> (4) vx = 20. m/s and v<br /> y = 30. m/s",116,484,21,0,0,1,0,6.823529412,17,0,-3.03556288,60,0,0,-2.845766161,1.079899699,0,0.025
+A sound argument is both __________ and __________.<br /> valid . . . false <br /> logical . . . invalid <br /> logical . . . valid <br /> valid . . . true,18,121,4,0,0,0,0,1.285714286,14,0,-0.90047619,21,0,0,-5.187969309,0.025987167,0.17,0.43
+Happy new years everyone. Hope ya'll have a great 2016!!!,10,48,1,0,0,0,0,5,2,0,1.794,4,0,0,-3.212080782,0.115436765,0.645454545,0.734848485
+he said to me that are you doing,8,25,0,0,0,0,1,8,1,0,-2.71125,0,0,0,-5.521460918,0.001687658,0,0
+What what what what what what what what what what what what why when what's when when who what when?,20,81,0,1,1,19,0,20,1,0,7.41,1,0,0,-2.270602047,0.103205198,0,0
+What did the first I phone look like<br />,9,34,1,1,0,1,0,9,1,0,-0.706666667,2,0,0,-4.166915255,0.021382597,0.25,0.333333333
+What is the acceleration of a train whose speed increases from 7m/s to 17m/s in 120s,18,69,3,1,0,1,0,18,1,0,5.101666667,0,0,1,-5.460836296,0.013630147,0,0
+Article on homework should be abolished<br />,7,39,1,0,0,0,0,7,1,0,6.292857143,2,0,0,-6.060457419,0.003107389,0,0
+who was gogan prakarshi. what did he preach patol babu.,10,46,4,1,0,2,1,5,2,0,1.794,2,0,0,-6.907755279,0.002452511,0,0
+"I need some help guys;)<br /> What's the next number?<br /> 7594, 3649, 9253, ......",14,70,2,0,0,0,0,7,2,0,-0.435714286,16,0,0,-2.760095658,0.2124122,0,0
+í»äó_íÖŒ_ í»äóçí»Ê íÖŒÈíÖŒ_íÖŒ±í»æí»Œ íÖŒ_í»äó_í»äó_íÖŒ_íÖŒ_í»äó_í»äóç íÖŒ_í»äó_íÖŒÇíÖŒ±í»äó_í»æí»äóç,0,101,0,0,0,0,0,0,1,0,0,0,0,0,-6.725433722,0.002874426,0,0
+sebuah akuarium berbentuk kubus akuarium itu diisi air setinggi setengah dari tinggi akuarium jika air itu yang diisikan sebanyak 32.000cmí‰Œ_ panjang rusuk akuarium adlh.... cm <br /> jwbnya tolong cpt ya ,31,175,25,0,0,0,1,10.33333333,3,0,8.502150538,7,0,0,-5.868331862,0.034533461,0,0
+"What is the reflection image of P (0, 0) after two reflections, first across x = -3 and then across y = -3?<br />",22,90,1,1,0,1,0,11,2,0,0.769090909,9,0,0,-2.775888277,0.247724548,0.25,0.333333333
+What is the major implementation of physical chemistry?,8,48,0,1,1,1,0,8,1,0,10.24125,1,0,1,-6.502290171,0.002805838,0.03125,0.321428571
+Which process is an example of a chemical change?,9,41,0,0,1,0,0,9,1,0,4.003333333,1,0,1,-4.605170186,0.014998078,0,0
+"jakie znacie rodzaje agar.io <br /> np., buuble.am , agarz, itp.",11,54,9,0,0,0,1,2.75,4,0,-1.215,9,0,0,-6.907755279,0.003924018,0,0
+express volume of cube as monomial   4r3s,7,33,1,0,0,0,1,7,1,0,4.274285714,0,0,0,-5.298317367,0.009740283,0,0
+express the volume of cube as nomomial (4r3)  5,9,38,2,0,0,0,1,9,1,0,1.91,2,0,0,-2.33175647,0.163689746,0,0
+who can think my name i will only take five answer and my name is relly hard i  am Ashley sister,21,75,1,1,0,1,1,21,1,0,5.891428571,0,0,0,-4.84089252,0.02942401,-0.145833333,0.770833333
+who thinks can find out my name i an Ashley sister and my name is relly hard,17,60,1,1,0,1,1,17,1,0,3.693529412,0,0,0,-4.797542079,0.024350646,-0.291666667,0.541666667
+Which statement best describes the nucleus of an aluminum atom,10,53,0,0,0,0,0,10,1,0,8.533,0,0,0,-4.509860006,0.023887992,1,0.3
+changes in an ecosystem over a long period of time are shown in a diagram below. These changes will most likely lead to a,24,98,0,0,0,0,1,12,2,0,3.60625,1,0,0,-4.828313737,0.029733841,0.15,0.633333333
+who can find out my name and it  is not Ashley,11,35,0,1,0,1,1,11,1,0,-0.943636364,0,0,0,-4.342805922,0.013636208,0,0
+which statement best states a theme in the passage,9,42,0,0,0,0,1,9,1,0,5.05,0,0,0,-4.528209145,0.01961375,1,0.3
+I need help with the story bulding a vivarium and the answeres ,12,51,2,0,0,0,0,12,1,0,4.5875,0,0,0,-4.156219966,0.02997115,0,0
+which statement best states a theme in the passage magic Elizabeth,11,56,0,0,0,0,1,11,1,0,8.048181818,0,0,0,-4.828313737,0.020594754,0.75,0.65
+what a sentence for bread basket,6,27,0,1,0,1,1,6,1,0,2.765,0,0,0,-4.710530702,0.00940131,0,0
+Halk arasí‹Œ±nda yanlí‹Œ±íƒŸ olarak kullaní‹Œ±lan kelimelerin tespiti ve doí‹Ÿrularí‹Œ± ,12,81,11,0,0,0,0,12,1,0,6.9425,0,0,0,-6.789972243,0.004345933,0,0
+dani uses the table to help her convert measurements when she is sewin,13,58,2,0,0,1,1,13,1,0,6.083846154,0,0,0,-4.471638793,0.026091252,0,0
+i have s  you have x what word do we have <br /><br />,13,40,2,0,0,1,1,13,1,0,-2.611538462,4,0,0,-3.11226609,0.02610686,0,0
+Is the number a multiple of 4 and a factor of 80? ,12,38,0,0,0,0,0,6,2,0,-3.9075,1,0,1,-3.540459449,0.044193012,0,0
+Toplamlari ve farklarí‹Œ± eíƒŸit olan iki doí‹Ÿal sayí‹Œ±dan kí€Œ_í€Œ_í€Œ_í‹Ÿí€Œ_ kaí€Œ_tir ,14,85,9,0,0,0,0,14,1,0,0.709285714,0,0,0,-6.540030499,0.006076291,0,0
+give me 3 email from girls<br />,7,26,1,0,0,0,1,7,1,0,-2.454285714,2,0,0,-3.540459449,0.033556025,0,0
+"can anybody help me to write essay about  100 year ago past, present and future about jrotc",17,74,1,0,0,0,1,17,1,0,7.295294118,1,0,0,-4.371176619,0.047472846,-0.083333333,0.125
+"Would it be faster for you to travel from planet to planet within a solar system, from star to star within a galaxy, or from galaxy to galaxy within the <br />  universe? Explain.",33,145,1,0,0,0,0,16.5,2,0,6.516363636,6,0,0,-5.275060504,0.033973307,0,0
+"without graphing, is the system independent, dependent, or inconsistent?",9,64,0,0,1,0,1,9,1,0,14.47,4,0,0,-5.866301404,0.007339922,0,0.125
+How much money would Julie earn for working 16 hours,10,43,0,1,0,1,0,10,1,0,3.823,0,0,1,-4.568356213,0.029429161,0.2,0.2
+can someone be my friend<br />,6,25,1,0,0,0,1,6,1,0,-1.16,2,0,0,-4.828313737,0.00609838,0,0
+Anais bought 2 1/2 yards of ribbon. She had 1 foot 6 inches of ribbon left after trimming some curtains. How many inches of ribbon did Anais use to trim the curtains?,33,135,2,0,1,1,0,11,3,0,2.767272727,3,0,0,-4.046915869,0.111257829,0.25,0.25
+"If f(x) = 2x^2   1, what is f(x) when x = 3?",13,31,1,0,1,2,0,13,1,0,-6.959230769,6,0,0,-1.935959818,0.449853675,0,0
+Which of the following is a linear function?   y = 3x2  y = 1 over 3x  y = x3   5  2 over 3x = y í¢Êäó» 1,22,73,4,0,0,0,0,11,2,0,-2.870454545,1,0,0,-3.102482644,0.201955431,0,0.1
+what does deez nuts mean ,5,20,1,1,0,1,1,5,1,0,-0.09,0,0,0,-5.80914299,0.003740595,-0.3125,0.6875
+A primary God of european crusaders fighting in the Middle East was to ,13,58,1,0,0,0,0,13,1,0,6.083846154,0,0,0,-6.020452084,0.00750641,0.133333333,0.166666667
+How do you put Google pictures as my wallpaper?,9,39,0,1,1,1,0,9,1,0,2.956666667,1,0,1,-6.502290171,0.00277995,0,0
+How do you solve this equation ___ H2+ ___ O2 -___H2 O1<br />,11,49,5,1,0,1,0,11,1,0,-0.943636364,3,0,0,-4.860062436,0.02150753,0,0
+Sadiir took a math test and got 10 incorrect and 40 incorrect answers. What was the percentage of correct answers?,20,95,1,0,1,1,0,10,2,0,5.4715,2,0,0,-4.710530702,0.042125907,0,0
+HDR giddy Dave shred dogged ninja ,6,28,1,0,0,0,0,6,1,0,3.55,0,0,1,-6.907755279,0.002943014,0,0
+How did Elitha and her husband persuade Eliza to move in with them and keep Elitha company?,17,75,2,1,1,1,0,17,1,0,7.572352941,1,0,0,-6.042757841,0.008307539,0,0
+which of the following  is not one of the three ways to express a ratio,15,56,0,0,0,0,1,15,1,0,3.654,0,0,0,-3.920391255,0.038575132,0,0.1
+I'm not going out to the game and the first time I get to the game and I love you so much for the next two years of my life and death of a good day for a while ago I was a little bit more like a little too much for a while ago I was a great day for a while to figure out what to do it all the way you are the same time as well as a whole lot better then the other side of my friends. A little too late to work out the window of a new phone is so cute when you have no idea what to say that I don't think I that the government two years of my friends to be the first half of the year and the first half of the day before I get a follow back on my way home from work to be the first half of the year and the other hand I ,169,550,0,0,0,3,0,84.5,2,0,36.12053254,1,0,0,-4.24790718,0.315744923,0.100852273,0.386174242
+Butts are soooooooooo biiiiiiiiiiiggggggggggg,4,42,2,0,0,0,0,4,1,0,30.025,0,0,0,-6.907755279,0.001471507,0,0
+"According to the article why was leonardo da vinci a perfect example of a""Renaissance Man"" ?",16,77,3,0,1,1,0,16,1,0,8.35375,1,0,0,-3.796262215,0.067506234,1,1
+what is 7-0 and I don't know what the answer is,12,37,0,1,0,2,1,12,1,0,-1.3,1,0,0,-2.724615218,0.118871883,0,0
+what school do you guys go to I go to Farnsworth middle School,13,50,1,1,0,1,1,13,1,0,3.185384615,0,0,0,-5.025024032,0.017869567,0,0
+what is the spelling of xenophobia,6,29,0,1,0,1,1,6,1,0,4.335,0,0,0,-6.907755279,0.000981005,0,0
+Simplify: a^2b^2c^2(2ab 3ac 2bc),8,29,5,0,0,0,0,8,1,0,-3.88875,2,0,1,-2.305088223,0.167360251,0,0
+can anyone say mean words about me,7,28,0,0,0,0,1,7,1,0,0.91,0,0,0,-4.998212774,0.010624179,-0.3125,0.6875
+"In the equation x^2   10x   24 = (x   a)(x   b), b is an integer. Find algebraically all possible<br />    values of b.",23,87,2,0,0,0,0,11.5,2,0,-0.321304348,9,0,0,-2.125540593,0.499741762,-0.75,1
+"What information does the quote in question 3 provide about the plot?Why is it significant to the play?<br /><br /> ""I see my dear and perfect mother's face on his own wizened cheeks and brow.""",36,159,2,1,0,2,0,9,4,0,2.433333333,7,0,0,-4.149152799,0.08357467,0.658333333,0.958333333
+íçíŒÁíŒ_ íŒËíŒ_íŒ_íïŒíïäó_íïÍ: íïäó_íï¨ÍíŒ_íŒÁíŒ_íŒ_íŒ_íŒµ íŒ±íï¨ÍíŒÇíï¨ÍíïäóÁíŒµíŒµ íïäóçíŒµíŒéíŒ_íŒ_íŒµíŒ_íŒÁ íŒ_ íŒ_íŒ_íŒ_íïäóæíŒµ 21 íŒ_íŒµíŒ_íŒÁ,1,176,0,0,0,0,0,1,1,0,-11.51,0,0,0,-4.767689115,0.026281487,0,0
+why does yosa buson spend five nights thinking about a badger,11,51,2,1,0,1,1,11,1,0,5.907272727,0,0,0,-6.145615227,0.006551293,0,0
+Which best describes the current model of the Atom?,9,43,0,0,1,0,0,9,1,0,5.05,1,0,1,-4.605170186,0.018427593,0.5,0.35
+the committee of correspondence was intimidated by,7,44,0,0,0,0,1,7,1,0,11.67571429,0,0,0,-6.620073207,0.001893421,0,0
+Could i please hav sumones email of whom can look at my artwork and tell me how to improve it? I will send an email to them just to ask HOW i can improve and on WHAT? Please lemme know ASAP,41,149,2,0,0,4,0,13.66666667,3,0,2.290406504,2,0,0,-4.820987697,0.048239887,0,0
+what reasons does Henry give for speaking his mind,9,42,0,1,0,1,1,9,1,0,5.05,0,0,0,-5.626821434,0.007110723,0,0
+What does 4 as a percentage ,6,22,0,1,0,1,0,6,1,0,-1.16,0,0,1,-3.146555163,0.024656575,0,0
+balancing redox equations.,3,24,1,0,0,0,1,3,1,0,16.18,1,0,0,-5.703782475,0.00416251,0,0
+Which word does not contain a reference to the male gender,11,48,0,0,0,0,0,11,1,0,4.622727273,0,0,0,-5.259096653,0.00978087,0,0.1
+Does Harry styles like Kendall ,5,26,0,0,0,0,0,5,1,0,5.562,0,0,0,-4.92675381,0.010033466,0,0
+what does hola mean and I do not know,9,29,1,1,0,1,1,9,1,0,-1.753333333,0,0,0,-4.787491743,0.009325238,-0.3125,0.6875
+"Identify the sentence that uses punctuation correctly. *<br />   You should still go since the fee is more reasonable than other vacation costs.<br />  You should still go, since the fee is more reasonable than other vacation costs.<br />  Since the fee is more reasonable than other vacation costs you should still go.<br />  You should still go. Since the fee is more reasonable than other vacation costs.<br /> In the following sentence, identify the adjective clause: The Hindenburg, which was a magnificent zeppelin, left Frankfurt, Germany, for a two-day flight to the United States. *<br />   For a two-day flight to the United States.<br />  The Hindenburg left Frankfurt, Germany.<br />  Which was a magnificent zeppelin,<br />  None of the above.<br /> In the following sentence, which noun or pronoun is the adjective clause modifying? In 1912, the Titanic was crossing the North Atlantic, where icebergs were a constant threat. *<br />   Titanic<br />  North Atlantic<br />  Icebergs<br /",159,827,14,0,0,1,0,12.23076923,13,0,7.109724238,52,0,0,-4.951811601,0.218932488,0.226315789,0.443859649
+historical events that contributed to Army JROTC<br />,8,47,2,0,0,0,1,8,1,0,8.475,2,0,0,-6.119297919,0.004932223,0,0
+Mention barriers  of communication?,4,31,0,0,1,0,0,4,1,0,15.895,1,0,0,-6.214608098,0.002668663,0,0
+Hitun (f.2g)(x) jika f(x)=1-2x dan g(x)=x (kuadrat) -x,15,47,6,0,0,0,0,7.5,2,0,-7.632,13,0,0,-1.7902823,0.790556782,0,0
+is fnaf a real place? also what's your roblox username if u hve 1,14,52,4,0,0,0,1,7,2,0,-0.772142857,1,0,0,-3.196061147,0.139286572,0.2,0.3
+"Pe o tabla sunt desenate 20 de cercuri albe, 21 rosii si 22 verzi. Se sterg doua cercuri de culori diferite si se deseneaza in loc un cerc de a treia culoare. Se repeta operatia de mai multe ori. Precizati cularea ultimului cerc ramas pe tabla.<br />",47,204,37,0,0,0,0,9.4,5,0,2.911702128,7,0,0,-5.085459086,0.094666655,0,0
+The role i can play in my community to upholds children's rights.,12,54,0,0,0,0,0,12,1,0,5.3725,1,0,0,-3.043522937,0.109936793,0,0
+vethdyjfukrufuhdtdyhethdthdthathtsg,1,35,1,0,0,0,1,1,1,0,143.92,0,0,0,-6.907755279,0.000490502,0,0
+the right and responsibilities of a citizen,7,37,0,0,0,0,1,7,1,0,6.965714286,0,0,0,-5.521460918,0.00474681,0.285714286,0.535714286
+ What is an example of a secondhand effect of alcohol?<br />,11,49,1,1,0,1,0,5.5,2,0,0.588181818,3,0,0,-5.521460918,0.006558257,-0.1,0.3
+Which of the following is a sign that a game day tailgate party might be getting out of control?,19,78,0,0,1,0,0,19,1,0,7.157894737,1,0,1,-4.6623286,0.028858102,-0.2,0.25
+"íŒ¢íŒµíŒéíŒ_ íŒ_íŒÁíïŒíïŒíŒ_íŒ_ 0,3 íŒ_íŒ_ íŒ±íïä‰åíŒ_íïÊíŒµíŒ_íŒ_ íŒ_íŒµíïä‰åíïäó_íŒŸíŒ_íŒÁíŒéíïÍíŒ_íŒ_ íŒ_íŒ_íŒŸíŒ‡ íïŒ íŒ_íŒÁíïäóçíŒÁíŒéíïÍíŒ_íŒ_íŒ_ íïŒíŒ_íŒ_íïä‰åíŒ_íïŒíïäó_íïÍíï_ 12íŒ_/íïŒ.íŒ_íŒµíïä‰åíŒµíŒ‡ 4íïŒ íŒ_íŒ_íŒ_ íŒÇíŒ_íïŒíïäó_íŒŸíŒ_íŒéíŒ_ íŒ‡íŒµíŒ_íŒéíŒŸ íŒŸíŒ_íŒµíïŒ íïŒíŒ_íŒ_íïä‰åíŒ_íïŒíïäó_íïÍ ,íŒ_ 4íïä‰åíŒÁíŒ‡íŒÁ íŒ±íŒ_íŒéíïÍíïÊíŒµ ,íïäóçíŒµíŒ_ íŒ_íŒÁíïäóçíŒÁíŒéíïÍíŒ_íŒÁíïŒ .íŒíŒÁíŒ_íŒÇíŒŸíïäó_íŒµ íïŒíŒŸíŒéíï¨Í íïŒíŒ_íŒËíïä‰åíŒ_íïäó_íŒŸíŒ_íŒéíŒµíŒ_íŒŸíïŒ íŒ_íŒ_íŒ‡íŒÇíï¨Ííïäó_íŒÁ,íïŒíïäóçíŒŸíïäó_íŒÁíïŒ íŒµíŒµ íŒËíŒ_íïŒíïäó_íŒ_íïŒíŒ_íŒ_íŒ_íŒ_.",5,678,0,0,0,0,0,1.666666667,3,0,-14.94466667,7,0,0,-6.713599265,0.016171075,0,0
+schí€Œ©ma des  chromosomes sexuel d'un garcon daltonien et d'un garcon ayant une vision normal,15,80,9,0,0,0,1,15,1,0,9.934,0,0,0,-3.674860533,0.112011776,0.15,0.65
+41.200 meter kuadrat+300 dam kuadrat +3 hektare =...are,10,48,3,0,0,0,0,3.333333333,3,0,-0.452333333,4,0,0,-6.27914662,0.006662581,0,0
+What does the fox say?<br />,6,23,1,1,0,1,0,3,2,0,-5.015,3,0,0,-5.203007187,0.004256308,0,0
+koi btay ga k thucydides ka political view strategic thoughts mai???????????????????????,11,78,6,0,1,0,1,11,1,0,7.62,23,0,0,-6.086774727,0.010876867,0,0.1
+how do cyclones cause destruction in places near sea,9,44,0,1,0,1,1,9,1,0,6.096666667,0,0,0,-6.214608098,0.005380025,0.1,0.4
+Bir sí‹Œ±ní‹Œ±ftaki í€Œ_í‹Ÿrenciler í€Œ_í€Œ_er í€Œ_í€Œ_er veya dí€Œ_rder dí€Œ_rder oturtabilmektedir buna gí€Œ_re mevcudu 100 ' e kadar olan sí‹Œ±ní‹Œ±f mevcutlarí‹Œ±ní‹Œ± bulunuz ,28,161,16,0,0,0,0,28,1,0,9.559642857,0,0,0,-4.08259567,0.101913016,0,0
+How many stripes does a tiger have?,7,29,0,1,1,1,0,7,1,0,0.91,1,0,1,-4.156219966,0.014578452,0.5,0.5
+bla bla bla means? b bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,6,87,4,0,0,0,1,3,2,0,47.58,1,0,0,-3.436824559,0.047963259,0,0
+"Subliniazí‹¨Í ,í€Œ¬n seriile de cuvinte de mai jos ,literele diferite care transcriu acel as sunet .Scrie ,í€Œ¬n cí‹¨Ísuíšäó_a ,sunetul transcris prin litere diferite.       a.calculator.Q uatar.kosovar .kurd",31,177,22,0,0,0,0,4.428571429,7,0,2.966866359,10,0,0,-5.491902116,0.037402294,0,0
+Va rog ajutatima dau 15 pct la coroana.<br />,9,37,5,0,0,0,0,4.5,2,0,-1.91,3,0,0,-5.137049219,0.017556422,0,0
+í»äó_íÖŒ_ í»äóçí»æ íÖŒ_íÖŒ_íÖŒµí»äó_íÖŒ© íÖŒ_í»äó_í»äó_íÖŒ_íÖŒ±íÖŒÂ íÖŸ,0,69,0,0,0,0,0,0,1,0,0,0,0,0,-6.725433722,0.002874426,0,0
+"I am good helper ( íïŒ íïäó_íŒ_íïä‰åíŒ_íïÊíŒŸíŒ_ íŒËíŒ_íŒ_íŒ_íïäóÁíŒ_íŒŸíŒ_ ? íŒçíŒ_íïäóçíŒŸíŒ_íŒµíŒ_íŒŸíŒµ. 3-íŒ_íŒéíŒÁíïŒíïŒ. íŸíŒµíïä‰åíŒµíŒ_íŒµíïŒíïäó_íŒŸ íŒ_íŒÁ íŒÁíŒ_íŒ_íŒé. íïŒíŒ‡  íŒ¿ íïäó_íŒ_íïä‰åíŒ_íïÊíŒŸíŒ_ íŒËíŒ_íŒ_íŒ_íïäóÁíŒ_íŒŸíŒ_ íŒËíŒ_ íŒÇíŒ_íŒ_íï¨Í. íŒ¿ íŒËíŒ_íŒ_íŒ_íŒ_íŒÁíï_ íŒ_íŒÁíŒ_íŒµ íï¨ÍíŒ±íŒŸíïä‰åíŒÁíïäó_íïÍ íŒÇíŒ_íŒ_. íñíŒ_íï_  íŒËíŒ_íïŒíï¨ÍíŒÇíï¨Í,  íŒËíïä‰åíŒ_íïäó_íŒŸíïä‰åíŒÁíï_ íŒËíïäó_íŒéíïÍ íïŒ íŒ_íŒµíŒ±íŒµíŒéíŒŸ, íŒ_íŒ_íïä‰åíŒ_íŒéíï_ íŒÇíŒ_íŒ_íŒÁíïÊíŒ_íŒµíŒ_íŒ_ íŒËíŒŸíïäó_íŒ_íŒ_íïäóæíŒÁ . íñíŒ_íŒµíŒ_ íŒ±íŒÁíŒ±íï¨ÍíïÊíŒ_íŒµ íïŒ íŒËíŒ_íŒ_íŒ_íŒ_íŒÁíï_ íŒ_íŒ_íïäó_íŒ_íŒ_íŒŸíïäó_íïÍ íŒµíŒÇíï¨Í ( íŒŸíŒéíŒŸ íŒ_íŒ±íŒµíŒÇ)  íìíŒ_íŒ_íŒ_íŒÇíŒÁ íŒ_íïäó_ íŒ_íŒ_íïäó_íŒ_íŒ_íŒŸíŒ_ íŒ_íŒ_íï¨ÍíïŒíŒ_íïäó_íŒ_ íïäó_íŒ_íïä‰åíïäó_. íŸíŒÁíŒËíŒµ íïŒ íŒËíŒ_íŒ_íŒ_íŒ_íŒÁíï_ íŒ_íïäó_íïäó_íïÍ íŒ_íŒÁíïÊíŒŸíŒ_íï¨Í íŒŸ íŒËíŒ_íŒÇíŒ_íŒµíïäó_íŒÁíïäó_íïÍ íŒÇíŒ_íïä‰åíŒ_íŒ_íŒ_íŒŸ íŒ_ íïŒíŒÁíŒÇíï¨Í. íñíŒ_íŒµíŒ_íï¨Í íŒ_íŒÁíŒéíŒµíŒ_íïÍíŒ_íŒ_íŒ_íï¨Í íŒ±íïä‰åíŒÁíïäó_íŒŸíŒ_íï¨Í íïŒ íŒËíŒ_íŒ_íŒ_íŒ_íŒÁíï_ íïŒíïäó_íŒµíŒéíŒŸíïäó_íïÍ íŒ_íïä‰åíŒ_íŒ_íŒÁíïäó_íïÍ íŒŸ íï¨ÍíŒ±íŒŸíïä‰åíŒÁíïäó_íïÍ íŒŸíŒ_íïä‰åíï¨ÍíïÊíŒ_íŒŸ. íì íïŒ íŒéíï_íŒ±íŒéíï_ íïŒíŒµíŒ_íïŒ.<br />",6,1348,1,0,0,0,0,0.5,12,0,-8.62,19,0,0,-4.107864112,0.260703678,0.7,0.6
+32 ve24 í€Œ_n asal í€Œ_arpanlarí‹Œ±,5,31,3,0,0,0,0,5,1,0,-1.032,0,0,0,-6.119297919,0.0047216,0,0
+what is between 4.5 and 5.0,8,22,0,1,0,1,1,2.666666667,3,0,-8.321666667,2,0,0,-5.035953102,0.005170715,0,0
+300 words on a true hero in a unifying force in diverse society,13,51,0,0,0,0,0,13,1,0,3.547692308,0,0,1,-4.509860006,0.031976752,0.35,0.65
+20 questions for 4 class,5,20,0,0,0,0,0,5,1,0,-0.09,0,0,1,-3.490028595,0.03686374,0,0
+y = $2.28*75   $4.50 solve for y,9,24,0,0,0,0,1,3,3,0,-10.51,2,0,0,-3.436824559,0.057096418,0,0
+Bak salak gerizekalí‹Œ± aptal bir kí‹Œ±z í€Œ_í‹Ÿrenciler 80 80 94 99 23 kaí€Œ_ta arí‹Œ±yorum Okulu,18,85,11,0,0,0,0,18,1,0,3.531666667,0,0,0,-6.089444955,0.014660162,0,0
+apa yang terjadi ketika kita tertidur,6,32,5,0,0,0,1,6,1,0,6.69,0,0,0,-5.403677882,0.010696191,0,0
+Bir okuldaki í€Œ_í‹Ÿrencilerin 87 eksi 94 fazlasí‹Œ± 923 olduí‹Ÿuna gí€Œ_re bu okulda kaí€Œ_ í€Œ_í‹Ÿrenci var,17,98,10,0,0,0,0,17,1,0,5.355882353,0,0,0,-6.28360097,0.012558996,0,0
+1. what is your favorite class?<br /> A. art<br /> B. social Studies<br /> C. Science<br /> D. Math<br /> e. Spanish<br /> F. French,25,108,6,0,0,1,0,2.777777778,9,0,-4.592311111,20,0,0,-3.422129218,0.123950896,0.177777778,0.355555556
+given g(n) +3n+ 2 and f (n) + 2nsquare + 5;find g(f(2)),14,44,2,0,0,0,1,14,1,0,-4.000714286,9,0,0,-1.96403169,0.720434308,0,0
+Aux champs situation finale,4,24,0,0,0,0,0,4,1,0,8.83,0,0,1,-6.214608098,0.003623779,0,0
+-This is not an actual questions please do not delete-<br /><br /> If you are in HOPE FLVS please private message me. I need help fixing my wellness plans for that class. <br /><br />,34,149,5,0,0,0,0,11.33333333,3,0,2.661078431,12,0,0,-4.438596986,0.062100089,0,0.2375
+Cí€Œ_mo llegamos a cultivar cacao,6,29,2,0,0,0,0,6,1,0,1.195,0,0,0,-6.907755279,0.001962009,0,0
+Jsjsdjjdjdjdjdjdjdjdndxjzj,1,26,1,0,0,0,0,1,1,0,101.53,0,0,0,-6.907755279,0.000490502,0,0
+"the formula for the area of a trapezoid is a=1/2h(b1 b2). express b1 in term of a, h. and b2. hte area of a trapezoid is 60 square feet, its height is 6 ft adn one base is 12 ft. find the number of feet in the other base.<br />",53,178,8,0,0,0,1,8.833333333,6,0,-2.438993711,11,0,0,-3.48212758,0.227934605,-0.4625,0.6875
+Fonction politique de Paris,4,24,3,0,0,0,0,4,1,0,8.83,0,0,0,-4.630487994,0.012904401,0,0
+The Hobbit ONLY!!<br /> List 10 questions for the hobbit! No online found ones!,14,66,2,0,0,0,0,4.666666667,3,0,0.752619048,6,0,0,-4.828313737,0.022211083,0,0
+The function f(t)= -5t squared  plus 20t  plus 60 models the approximate height of an object t seconds after it is launched. How many seconds does it take the object to hit the ground?,35,149,2,0,1,1,0,17.5,2,0,6.563714286,5,0,0,-3.16389369,0.228092644,0.05,0.55
+Differences between heavily prescribed glasses and low prescription? ,8,61,0,0,0,0,0,4,2,0,15.895,1,0,1,-6.753604599,0.003364928,-0.1,0.4
+oracií€Œ_n con and y the,6,20,1,0,0,0,1,6,1,0,-5.87,0,0,0,-5.80914299,0.002544874,0,0
+A quadratic equation of the form 0 = ax2   bx   c has a discriminant value of 0. How many real number solutions does the equation have?,25,106,1,0,1,1,0,12.5,2,0,4.2252,2,0,0,-3.669076827,0.122240273,0.35,0.4
+"nevrmind , thats a silly question<br />",6,33,2,0,0,0,1,6,1,0,4.335,3,0,0,-5.349610661,0.007241221,-0.5,0.875
+"im the following sentence, identify the part of speech of the italized word",13,63,2,0,0,0,1,13,1,0,7.533076923,1,0,0,-4.166915255,0.04147196,0,0.1
+Witch one of the following sentences contains a Coordinating conjunction ,10,63,0,0,0,0,0,10,1,0,13.243,0,0,1,-4.238544911,0.032295688,0,0.1
+_____ Health insurance coverage pays for at least part of the hospital costs and fees A.PPO B.HMO C.Basic D.Major medical,23,102,1,0,0,0,0,4.6,5,0,-0.085217391,4,0,0,-5.645513567,0.02114771,-0.15,0.2
+OMG Look at your profile Page its so Bad,9,32,1,0,0,0,0,9,1,0,-0.183333333,0,0,1,-5.80914299,0.006358917,-0.7,0.666666667
+choose the most precise measurement.<br /> a-12mL<br /> b-2.56mL<br /> c-15.20mL<br /> d-25L,19,80,8,0,0,0,1,4.75,4,0,-3.933421053,15,0,0,-6.081076706,0.006708819,0.45,0.65
+How to say cytryna in polish birenik moga not jedencza,10,45,4,1,0,1,0,10,1,0,4.765,0,0,0,-5.991464547,0.006218317,0,0
+BRANIEST ANSWER HELLLLLLLLLLLLLP<br /> Can someone help me in these lessons i dont understand tehm if u can message me please,21,105,5,0,0,0,0,21,1,0,11.94714286,2,0,0,-4.330066896,0.052105332,0,0
+Type hey for points hurry people's ,6,29,0,0,0,0,0,6,1,0,4.335,0,0,1,-3.164150925,0.087696446,0,0
+Explain the Penis Material?,4,24,0,0,1,0,0,4,1,0,7.6525,1,1,1,-5.173154224,0.006525745,0,0
+Why am I doing this? ,5,16,0,1,0,1,0,2.5,2,0,-6.05,1,0,1,-9,0,0,0
+"Question 1: Mt. Everest is considered the tallest mountain in the world at 8,848 meters above sea level.  In fact, the largest mountain in the world is Mauna Loa, in Hawaií¢ä‰åä‹¢i. Mauna Loa rises 4,170 meters from sea level to the top of the summit, but its base is deep under water.  The base of the mountain is at í¢Êäó»5,000 meters. A probe is dropped 7,500 meters straight down into Mauna Loa from its summit.<br /> At what height is the probe, relative to sea level?   ___________  meters<br /><br /> How far is the probe from the base of the volcano? _____________ meters<br /><br /> Question 2: It takes 40 units of maple sap to produce one unit of maple syrup.  Jane and her family are bottling maple syrup in 20 oz. bottles.  She notices that they add about 2 oz. of air every time they fill a bottle, to avoid overfill.  <br /> How much maple sap did they need to collect to fill 15 bottles? __________ oz.<br /><br /> How much less maple sap did they need than if they would have filled each bottle ",188,818,15,0,0,4,0,11.75,16,0,2.458244681,40,0,0,-4.505620915,0.386896914,-0.101709402,0.527350427
+How much time will pass before they are aligned again? ,10,45,0,1,0,1,0,5,2,0,1.794,1,0,1,-4.342805922,0.017971983,0.2,0.2
+P=110t   25 what car position three amd a half hours ,11,41,2,0,0,1,0,11,1,0,1.197272727,0,0,0,-4.753090316,0.025395343,-0.166666667,0.166666667
+HELP WITH FOLLOWING QUESTIONS.,4,27,0,0,0,0,0,4,1,0,11.185,1,0,1,-3.324236341,0.032699891,0,0.1
+Darron uses a family ,4,17,1,0,0,0,0,4,1,0,0.5875,0,0,0,-4.96184513,0.007754512,0,0
+help jill figure out her score in some games she played with friends. her score is always in between the lowest score and the highest score shown. use only the cards below to determine her scores.          4 1/2               a.                         5 3 1/3               b.                       3 2/3 3 1/2               c.                       3 3/4 4 2/3              d.                        5 2 3/4              e.                       3 1/8 ?                     f.                          ?  Jill scores  3 4 3/4 4 5/6 3 2/3 3 1/2 4 2/3 only use these numbers once,91,263,1,0,0,0,1,7.583333333,12,0,-5.268113553,11,0,0,-3.343614815,0.54835811,0,1
+"Let f(x)=4-x^2, g(x)=2-x",10,22,0,0,0,0,0,10,1,0,-10.778,7,0,1,-1.921661094,0.33824444,0,0
+which of the following prewriting activities ca help you generate ideas for an essay written for class.,17,87,1,0,0,0,1,17,1,0,10.89705882,1,0,0,-4.240527072,0.046128984,0,0.1
+"Mr Johnson is currently four times as ols as his son, David.  If Mr. Johnson was 46 years old two years ago, how old is David now?  ",27,103,1,0,0,1,0,6.75,4,0,-0.959444444,5,0,0,-4.95393995,0.04748137,0.066666667,0.266666667
+I have none?<br /> Jxjdjdjdjdjdjdjdhdhdjdjdjdhdhdhdhdhd<br />,6,56,3,0,0,0,0,3,2,0,18.535,5,0,0,-6.214608098,0.001798946,0,0
+cuales son las rejoined naturales,5,29,2,0,0,0,1,5,1,0,8.388,0,0,0,-6.319968614,0.004071582,0,0
+is musa from winx asian,5,19,3,0,0,0,1,5,1,0,-1.032,0,0,0,-6.396929655,0.002315336,0,0
+which of the following is true about the poas volcano national park,12,56,1,0,0,0,1,12,1,0,6.55,0,0,0,-4.368781408,0.024542829,0.175,0.375
+why does the author refer to the definition of idol from ancient history,13,60,0,1,0,1,1,13,1,0,6.808461538,0,0,0,-5.866301404,0.007310609,0,0
+why did aisha/layla from winx club enchantix outfit color change after bloom earned her enchantix,16,83,5,1,0,1,1,16,1,0,10.70875,0,0,0,-5.626821434,0.014716546,0,0
+what can you infer about the author of the passage,10,41,0,1,0,1,1,10,1,0,2.881,0,0,0,-5.80914299,0.003853318,0,0
+Revolutionary war soldier 7 letters and has the word red in it?,12,52,0,0,1,0,0,12,1,0,4.5875,1,0,1,-4.982464417,0.017750099,0,0
+what do you think about muslim,6,25,1,1,0,1,1,6,1,0,1.195,0,0,0,-4.96184513,0.005323138,0,0
+what do you think about muslims,6,26,1,1,0,1,1,6,1,0,1.98,0,0,0,-5.035953102,0.004901224,0,0
+I know this website is not for this stuff.  But I'm out of options. I'm 15 and there is this guys that I've known for months now and I really like him. I think he knows that I like him and I think he might like me to but I just don't know if I should tell him how I feel or not. Should I tell him how I feel??,70,239,0,0,1,2,0,14,5,0,1.247571429,6,0,0,-3.755324554,0.191072551,0.2,0.2
+I know this website is not for this stuff.  But I'm out of options. I'm 15 and there is this guy that I've known for months now and I really like him. I think he knows that I like him and I think he might like me to but I just don't know if I should tell him how I feel or not. Should I tell him how I feel??,70,238,0,0,1,2,0,14,5,0,1.180285714,6,0,1,-3.75838266,0.19025461,0.2,0.2
+"Kristin lives in Alaska. She drives a car with a 12-gallon fuel tank. When Kristin fills her empty gas tank in Alaska, she has to pay a federal gasoline<br /> tax of $.18 (or 18 cents) per gallon, plus a state gas tax of 8 cents ($.08) per gallon. Her taxes paid for a gallon of gas equal 26 cents. <br /><br /> You can calculate the percentage of a purchase that goes to taxes by dividing the tax amount by the total sale price. If Kristin buys gas at $3.69 per gallon, which includes all taxes, what percentage of the price is the state tax? What percentage is the federal tax?",113,468,3,0,1,3,0,11.3,10,0,2.434778761,25,0,0,-3.504707758,0.545505667,-0.033333333,0.5
+"Kristin lives in Alaska. She drives a car with a 12-gallon fuel tank. When Kristin fills her empty gas tank in Alaska, she has to pay a federal gasoline<br /> tax of $.18 (or 18 cents) per gallon, plus a state gas tax of 8 cents ($.08) per gallon. Her taxes paid for a gallon of gas equal 26 cents. <br /><br /> You can calculate the percentage of a purchase that goes to taxes by dividing the tax amount by the total sale price. If Kristin buys gas at $3.69 per gallon, which includes all taxes, what percentage of the price is the state tax? What percentage is the federal tax?",113,468,3,0,1,3,0,11.3,10,0,2.434778761,25,0,0,-3.504707758,0.545505667,-0.033333333,0.5
+please explain show work,4,21,0,0,0,0,1,4,1,0,5.2975,0,0,0,-3.851398384,0.02844165,0,0
+which statement best describes animals that are heterotrophs,8,53,1,0,0,0,1,8,1,0,13.77375,0,0,0,-4.546901278,0.019120519,1,0.3
+use cubes to show how to add I turtle to 5 turtles Draw the cubes,15,51,0,0,0,1,1,15,1,0,2.084,0,0,0,-4.572380363,0.032029194,0,0
+which of the following is an example of an abiotic factor?,11,48,1,0,1,0,1,11,1,0,4.194545455,1,0,0,-3.989984547,0.02384436,0,0.1
+Essay on A True Hero is a Unifying Force in a Diverse Society,13,49,0,0,0,0,0,13,1,0,2.823076923,0,0,1,-4.258545578,0.035015299,0.35,0.65
+Jordan interviewed her 30 classmates on whether or not they played video games and if they drink soda. She displayed her results in the two-way table shown. Which statement is true?<br /><br /><br /> A)  A classmate who drinks soda is more likely to play video games. <br /> Eliminate<br /><br /> B) A classmate who plays video games is not as likely to drink soda. <br /><br /> C) About the same percentage of students play video games as those who don't drink soda. <br /><br /> D) It is twice as likely that a student doesn't play video games nor drink soda as one who plays video games and drinks soda. <br />,112,498,11,0,0,4,0,14,8,0,4.620267857,34,0,0,-3.202218457,0.612220338,0.1,0.725
+Charlie has 3 sweets. He gave 1 sweet to Tom. How many sweets does Charlie have now?,17,68,0,0,1,1,0,5.666666667,3,0,-0.587843137,3,0,1,-3.729701449,0.068187533,0.425,0.575
+9-8= ? cevabí‹Œ± nedir?,4,20,2,0,1,0,0,2,2,0,-6.3,3,0,0,-6.907755279,0.001471507,0,0
+fie numerele 2ab si 1111001(2). Aflati valoarea de adevar a propozitiei 2ab mai mic sau egal 1111001(2)<br />                                                                                                                            -,20,93,14,0,0,0,1,10,2,0,3.352,8,0,0,-2.571317417,0.378653965,0,0
+Bonjour je doit ecrire un paragraphe sur le Texas (100 í€Œæ 150 mots) pouvez vous m'aidez.<br /> PS: C'est en anglais<br /><br /> Merci d'avance,24,120,16,0,0,0,0,12,2,0,4.78375,9,0,0,-3.101886755,0.290121107,0,0
+what does a shotgun shell have that a cartridge does not,11,46,0,1,0,1,1,11,1,0,3.766363636,0,0,0,-6.620073207,0.001893421,0,0
+"tea,rubber,coffee plantation in kerala",6,35,1,0,0,0,1,6,1,0,7.475,2,0,0,-6.907755279,0.001471507,0,0
+Sa se calculeze constanta elastica echivalenta a sistemului  de resorturi cunoscí€Œ¢nd K1=K2=K3=K4=20N/m,18,92,16,0,0,0,0,18,1,0,9.288333333,0,0,0,-5.298317367,0.019679582,0,0
+by means of substitution z= (2x-1)(dy/dx) how do i express the differential eqn (2x-1)(d2y/dx2) = 2(1-(dy/dx)) as a differntial eqn involving z and x,32,126,11,0,0,1,1,32,1,0,10.171875,15,0,0,-1.908148316,0.943889105,-0.75,1
+Compare and contrast sexual reproduction in plants and animals ,9,54,0,0,0,0,0,9,1,0,11.33,0,0,1,-5.403677882,0.011009025,0.5,0.833333333
+"15 Which statement describes the particles of an ideal gas, based on the kinetic molecular theory?<br /> (1) The motion of the gas particles is orderly and circular.<br /> (2) The gas particles have no attractive forces between them.<br /> (3) The gas particles are larger than the disí‰Œ_tances separating them.<br /> (4) As the gas particles collide, the total energy of the system decreases.",66,330,5,0,0,0,0,13.2,5,0,6.507727273,23,0,0,-2.516469319,0.756307189,0.125,0.8125
+a card is chosen at random from a pack of cards what is the probability to choose a diamond,19,73,0,0,0,1,1,19,1,0,6.166315789,0,0,0,-5.942674383,0.008835204,-0.5,0.5
+2. Uma bola de 200g í€Œ© chutada por um jogador e sai com uma velocidade de 10m/s. Calcule a energia ciní€Œ©tica da bola assim que í€Œ© chutada.,27,118,19,0,0,0,0,9,3,0,0.863333333,3,0,0,-4.689388265,0.074481943,0,0
+How much do 6 liters  of petrol cost at 84p per litre,12,41,2,1,0,1,0,12,1,0,0.6625,0,0,0,-4.580477573,0.028609054,0.2,0.2
+potrzebije bardzo krutko streszczenia akademia pana kleksa,7,52,7,0,0,0,1,7,1,0,17.05857143,0,0,0,-6.907755279,0.003433516,0,0
+"If 1 in of cheese is shared between 4 people,how much will they each have?",16,60,0,0,1,1,0,16,1,0,3.64375,2,0,0,-3.421400089,0.055931156,0.2,0.2
+Che tempo í€ŒÂ scomparire<br />,4,27,2,0,0,0,0,4,1,0,4.12,2,0,0,-6.907755279,0.001962009,0,0
+Hola me pueden decir en que continente se encuentra Puerto Rico,11,53,7,0,0,0,0,11,1,0,6.763636364,0,0,0,-5.449140256,0.016940274,0,0
+cual es el paí€Œ_s donde esta Mismo?,8,30,4,0,1,0,1,8,1,0,-2.71125,1,0,0,-6.020452084,0.007241135,0,0
+Trouver deux nombres dont la somme vaut 1776 et dont la division euclidienne du plus grand des deux par le plus petit í€Œæ pour quotient 6 et pour reste 19,29,126,14,0,0,0,0,29,1,0,12.88448276,0,0,0,-5.28507214,0.058413395,0.5,1
+"describe the flow of blood through the body, including through each of the four chambers of the heart.explain how the blood changes as it moves through various locations in the body.",32,152,0,0,0,1,1,16,2,0,8.5009375,3,0,0,-4.992935717,0.036773919,0,0.5
+In which of the following sentences is the underlined word a conc,12,54,1,0,0,0,0,12,1,0,5.765,0,0,0,-4.186459851,0.024707971,0,0.1
+jak uwazasz ktore zabawki sprawiaja wspolczesnym dzieciom wiecej radosci -zrobione wíƒäó_asnorí‹ä‹¢cznie przez artystow ludowych czy wyprodukowane w wilkich fabrykach ? uzasadnij swoja opinie przynajmniej w trzeh zdaniach,28,195,25,0,0,0,1,14,2,0,16.35321429,2,0,0,-6.381662183,0.019462276,0,0
+In which of the following sentence is the underlined word a concrete noun,13,61,0,0,0,0,0,13,1,0,7.170769231,0,0,1,-4.12480377,0.031564406,0.075,0.2
+determine combienlui coutera l'achat de rouleau necssaires,7,52,6,0,0,0,1,7,1,0,17.05857143,0,0,0,-3.107781777,0.114590542,0,0
+1990yilinda yasi dogum tarihinin son iki basamagina esit olan biri 2010yilinda kac yasinda olur seí€Œ_enek a.75b.73.c.68.d.65,23,110,16,0,0,0,0,3.285714286,7,0,0.691118012,6,0,0,-6.589301548,0.010285048,0,0
+jessies bus ride is to school is 5 minutes more than 2/3 the time of roberts bus ride. which graph shows the possible times of jessies and roberts bus ride?,31,127,4,0,1,0,1,15.5,2,0,5.16,2,0,0,-4.848247952,0.054613054,0.25,0.75
+essay on a true hero is a unfiying force in a diverse society,13,49,1,0,0,0,1,13,1,0,2.823076923,0,0,0,-4.27895445,0.034240057,0.35,0.65
+"consideration, flexibility, tolerance, and honest communication",6,58,0,0,0,0,1,6,1,0,24.745,3,0,0,-5.952243834,0.005733352,0.6,0.9
+"consideration, flexibility,  tolerance, and honest communication ",6,58,0,0,0,0,1,6,1,0,24.745,3,0,0,-5.952243834,0.005733352,0.6,0.9
+essay on a true hero is a unfiying force in a diverse society,13,49,1,0,0,0,1,13,1,0,2.823076923,0,0,0,-4.27895445,0.034240057,0.35,0.65
+essay on welfare of my society depends on my well being,11,45,0,0,0,0,1,11,1,0,3.338181818,0,0,0,-4.546901278,0.019409768,0,0
+essay on welfare of my society depends on my well being society,12,52,0,0,0,0,1,12,1,0,4.98,0,0,0,-4.494822129,0.024448836,0,0
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br ,167,833,167,0,0,0,0,167,1,0,71.49,333,0,0,-5.298317367,0.004013383,0,0
+"para encontrar la pendiente en una grí€Œçfica con dos puntos 6,3 como es ",15,60,6,0,0,0,1,15,1,0,3.34,1,0,0,-5.298317367,0.025039048,0,0
+"describe the flow of blood through the body, including through each of the four chambers of the heart.explain how the blood changes as it moves through various locations in the body.",32,152,0,0,0,1,1,16,2,0,8.5009375,3,0,0,-4.992935717,0.036773919,0,0.5
+what does Douglass yearn for above all else?,8,37,0,1,1,1,1,8,1,0,3.765,1,0,0,-6.907755279,0.001471507,0,0.1
+What is your name ?                                    :),4,17,0,1,0,1,0,2,2,0,-3.945,2,0,0,-1.836756835,0.100811813,0.5,1
+which statement best explains why foreign invasions of ancient India succeeded,11,68,0,0,0,1,1,11,1,0,13.18636364,0,0,0,-5.035953102,0.019429024,0.4375,0.2125
+"A soccer team played 160 games and won 65 percent of them, how many games did they win break down<br />",21,83,1,0,0,1,0,21,1,0,6.788571429,3,0,0,-4.839742433,0.030539136,0.65,0.45
+Which agreement was labeled by the Nazis as unfair to Germany?,11,52,0,0,1,0,0,11,1,0,5.907272727,1,0,1,-6.571283042,0.003270452,-0.5,1
+Which number would more than 2 times 4 84 ? ( Thanks in advance !),12,52,0,0,0,0,0,4,3,0,-0.59,4,0,0,-2.296603021,0.226233875,0.375,0.35
+a. bays  or  d. wetlands,5,18,0,0,0,0,1,1.666666667,3,0,-5.524666667,2,0,0,-6.907755279,0.000981005,0,0
+Umbilical cord blood is a rich source of stem cells. Which possible advance in biology would most likely be a result of performing research with an individualí¢ä‰åä‹¢s banked cord blood? ,31,157,0,0,0,0,0,10.33333333,3,0,6.071182796,2,0,0,-5.237073741,0.038221789,0.21875,0.8125
+which description is represented by a discrete graph ,8,45,0,0,0,0,1,8,1,0,9.06375,0,0,0,-5.896154367,0.004765735,0,0
+what is the fraction 2 7 sixty-fourth minus 40 fifty-six,12,47,0,1,0,1,1,12,1,0,2.2325,2,0,0,-3.766069093,0.046462734,-0.1,0.1
+if 7 people can play a game and theres 123476 people that cant how much people cant,17,67,0,0,0,1,1,17,1,0,5.632941176,0,0,0,-4.605170186,0.039964491,-0.1,0.3
+If x is an integer such that 0,8,23,0,0,0,0,0,8,1,0,-3.88875,0,0,0,-3.552020271,0.025491086,0,0.5
+how do pioneer species help develop soil,7,34,0,1,0,1,1,7,1,0,4.947142857,0,0,0,-4.474141924,0.017724562,0,0
+"       Agrí€Œ©able colí€ŒÂre !Digne ressentiment í€Œæ ma douleur bien doux!<br /> Je reconnais mon sang í€Œæ ce noble courroux ;<br /> Ma jeunesse revit en cette ardeur si prompte.<br /> &lt;&lt;&gt;&gt;<br /> Svp c'est urgent,<br />                        Merci.",38,198,26,0,0,0,0,9.5,4,0,2.283947368,20,0,0,-4.116447508,0.206405368,0.6,0.9
+whta five things did captain olaf need,7,32,2,0,0,0,1,7,1,0,3.601428571,0,0,0,-4.915325114,0.015686954,0,0
+how do you do a graph of mean in science,10,31,0,1,0,1,1,10,1,0,-1.829,0,0,0,-4.828313737,0.009224684,-0.3125,0.6875
+when you look at a shiny surface what do you see,11,38,0,1,0,2,1,11,1,0,0.340909091,0,0,0,-5.521460918,0.006643656,0,0
+searing meat and soups,4,19,0,0,0,0,1,4,1,0,2.9425,0,0,0,-6.620073207,0.001893421,0,0
+what is 70+0  and I don't know what It is and does anybody knows,15,50,0,1,0,2,1,15,1,0,1.456,0,0,0,-2.900422094,0.113306026,0,0
+Which of the following is not TRUE of federal courts? ,10,44,0,0,0,0,0,5,2,0,1.323,1,0,1,-3.937340813,0.025060531,-0.0875,0.375
+Do you think it is wrong that donal trump is winning or it is right,15,53,1,0,0,0,0,15,1,0,2.712,0,0,0,-5.367310238,0.010982365,0.095238095,0.728571429
+"A figure has a vertex at (-1, -3). If the figure has line symmetry about the x-axis, what are the coordinates of another vertex of the figure?<br /><br /> A) (-1, 3)<br /> B) (3, 1)<br /> C) (-3, -1)<br /> D) (1, -3)<br />",46,178,6,0,0,1,0,15.33333333,3,0,-0.350072464,41,0,0,-1.805520384,1.227787871,0,0
+"Meiosis is different from the process shown because, during meiosis,",10,59,0,0,0,0,0,10,1,0,10.417,2,0,1,-5.149897361,0.011434531,0,0.6
+para que sirve la estratrificacion,5,30,3,0,0,0,1,5,1,0,9.33,0,0,0,-4.933674253,0.013192583,0,0
+which of the following is not prevent bursitis ,8,39,0,0,0,0,1,8,1,0,5.53125,0,0,0,-4.074541935,0.015580666,0,0.1
+"<strong>Hi Everyone!! I haven't been on here in sooo long, like its been almost 2 years since ive been on this site, and I decided to come back bc I need help a a couple í‰Œæw/í‰Œæassignments. I need help ASAP! If you do k12, and your in the 9th grade .. hmu :)</strong><br />",55,223,6,0,0,0,0,11,5,0,0.769090909,16,0,0,-3.39620984,0.324491758,0.15,0.466666667
+the walking dead<br /> do you like it ,8,30,1,0,0,0,1,8,1,0,-1.53375,2,0,0,-4.572380363,0.010782819,0,0
+What are the following paragraphs in French ,7,37,0,1,0,1,0,7,1,0,6.965714286,0,0,1,-3.999034382,0.017144536,0,0.05
+Aí‹Ÿí‹Œ±z í€Œ_zellikleri zamanla yazí‹Œ± diline geí€Œ_ebileceí‹Ÿi sí€Œ_ylenebilir mi?,12,80,7,0,1,0,0,12,1,0,4.5875,1,0,0,-6.907755279,0.003924018,0,0
+songs that represent the book the giver,7,33,0,0,0,0,1,7,1,0,4.274285714,0,0,0,-5.991464547,0.004356321,0,0
+I keep seeing 11:11 every day and night for quite some time now. Does anyone know what it might means?,21,83,0,0,1,1,0,10.5,2,0,1.762857143,2,0,1,-4.96184513,0.031141256,0,0
+How do u control people that are cuckoo....who help people with homework?<br />,14,67,1,1,0,2,0,4.666666667,3,0,0.752619048,7,0,0,-4.27895445,0.032291969,0,0
+The math club needs to ,5,18,0,0,0,0,0,5,1,0,-1.974,0,0,1,-5.233778845,0.006479158,0,0
+what was your score out of 10,7,23,0,1,0,1,1,7,1,0,-2.454285714,0,0,0,-3.750754858,0.014988743,0,0
+what was your score out of 10?,7,24,0,1,1,1,1,7,1,0,-2.454285714,1,0,0,-3.750754858,0.014988743,0,0
+What is the equation of the following direct variation?<br /><br /> https://towerroadnm.ignitiaschools.com/media/g_pal_2015/4/img_directvariation_graph7.gif<br /><br /> y = -2x<br /> y = - 1/2 x<br /> y = 2x<br /> y = 1/2 x<br />,42,197,17,1,0,1,0,8.4,5,1,-0.408571429,22,0,0,-3.302861481,0.191962544,0.05,0.25
+What distinguishes first class levers from both second and third class levers? <br /><br /> A.<br /> The fulcrum is between the load and effort.<br /> B.<br /> There is a fulcrum on both sides of the load.<br /> C.<br /> Greater effort is required to move the load.<br /> D.<br /> The first class lever is not found in the human body.,62,272,9,1,0,1,0,6.888888889,9,0,-0.057168459,27,0,0,-4.085494947,0.132537467,0.166666667,0.211111111
+a 9- kg bag of mangoes for $12,8,23,0,0,0,0,1,8,1,0,-5.06625,1,0,0,-4.305065594,0.026530882,0,0
+is it decreasing when -1 1.,6,22,0,0,0,1,1,6,1,0,-2.73,2,0,0,-3.371638579,0.02938029,0,0
+which multiplication sentence can be used to calculate the total shaded area shown in the model below?,17,86,0,0,1,0,1,17,1,0,10.62,1,0,0,-4.6623286,0.031250137,0,0.75
+is it decreasing when -1 1?<br />,7,27,1,0,0,1,1,3.5,2,0,-4.877142857,4,0,0,-3.371638579,0.02938029,0,0
+Who does k12 and is in 9th grade?,8,26,1,1,1,1,0,8,1,0,-2.71125,1,0,1,-5.703782475,0.004304545,0,0
+neverí‰Œæmindí‰Œædelete this......,4,33,0,0,0,0,1,4,1,0,2.9425,6,0,0,-6.907755279,0.000490502,0,0
+Rob and Mike are on a club swimming team.<br /> They are training for a statewide swimming meet that will be held in the end of summer. The table shows how many hours Rob and Mike spent at practice each week<br /> practice time (in hours). | Swimmer|weekly|Monday-Friday|<br /> Rob. | 35. | 25 Mike. | 30. | 20 Question: write a possible expression to show how many hours Rob and Mike spend at swim practice over a period of 10 weekends . include parentheses and brackets in your expression.<br /> Please help <br /> and thank you,94,433,5,0,0,2,0,9.4,10,0,3.162234043,22,0,0,-3.805597483,0.361279875,0.225,0.525
+Who does k12 and is in the 9th grade? I need help w/ a couple assignments and  was wondering if someone could help me?,24,94,1,1,1,1,0,12,2,0,2.42875,2,0,0,-4.245167452,0.055686096,0,0
+Suppose the average rainfall in april was less than the average rainfall in may ,14,66,1,0,0,0,0,14,1,0,7.774285714,0,0,0,-5.490689259,0.013448818,-0.155555556,0.288888889
+What is your favorite color,5,23,0,1,0,1,0,5,1,0,2.736,0,0,1,-5.203007187,0.004409409,0.5,1
+"Elliotts bad is 75 inches long dog during a growth spurt allegro 6 inches before his girl growth spurt he was 5'11"" tall how much shorter is always better than Elliot",31,136,2,0,0,1,0,31,1,0,14.58129032,0,0,0,-4.59612035,0.07134856,-0.0125,0.441666667
+ when making a peanut butter and jelly sandwich be sure to,11,47,0,1,0,1,0,11,1,0,4.194545455,0,0,0,-5.564020532,0.009675608,0.5,0.888888889
+ when making a peanut butter and jelly sandwich be sure to use,12,50,0,1,0,1,0,12,1,0,4.195,0,0,0,-4.941642423,0.018516458,0.5,0.888888889
+Harvey finished typing his research paper but he needed to proceed it before submitting it to the professor,18,90,0,0,0,0,0,18,1,0,11.12,0,0,1,-6.271766512,0.007640161,0,0
+willow scene has been on many subjects the Oktoberfest the Riverwalk and the cultural illiteracy,15,82,1,0,0,0,1,15,1,0,11.818,0,0,0,-5.016904907,0.017452878,0.3,0.3
+Why some days it's cold then warm<br /> This is based on science,13,52,1,1,0,1,0,13,1,0,2.823076923,2,0,0,-2.935107652,0.108291834,-0.6,1
+Why would bacteria complete binary fission?,6,38,0,1,1,1,0,6,1,0,10.615,1,0,1,-4.853631545,0.01410636,0.1,0.4
+kelly predicts that she will spend 30 minutes biking and 45 minutes running. what is the total distance of the race,21,95,1,0,0,1,1,10.5,2,0,4.902857143,1,0,0,-4.881802422,0.033912141,0,0.75
+What 9+10 in parentheses <br />,6,26,1,1,0,1,0,6,1,0,-1.16,2,0,0,-6.502290171,0.001402919,0,0
+If i drove 30 miles and that is 2/3 of the way how much more do i need,19,53,0,0,0,1,0,19,1,0,0.960526316,0,0,0,-4.171534201,0.037350821,0.5,0.5
+What is the ratio of drivers to cars in a stock car race,13,44,0,1,0,1,0,13,1,0,1.011538462,0,0,1,-5.233778845,0.012770297,0,0
+Carlos needs 2 3/4 pounds of nails.what will it cost him to the nearest cent?<br />,18,68,1,0,0,1,0,6,3,0,-2.206666667,4,0,0,-4.08770002,0.043736484,0,0
+Which pair of properties apply to both sound and electromagnetic waves?,11,61,0,0,1,0,0,11,1,0,9.760909091,1,0,1,-5.564020532,0.009342944,0.4,0.4
+Is Obama secretly a Llama??? :O<br />,7,31,2,0,0,0,0,3.5,2,0,-3.531428571,5,0,0,-3.989984547,0.021323376,-0.4,0.7
+which one of the following is an example of a distributive property,12,56,0,0,0,0,1,12,1,0,6.55,0,0,0,-3.902072675,0.031982062,0,0.1
+"Sally is given the information íÊäó»(1)= 0, íÊäó»(-2)=0 and íÊäó»(3)=0. Which are the factors of the polynomial? A) (x-2)(x 3)(x 1)  B) (x 2)(x-3)(x-1)  C) (x-2)(x-3)(x-1)  D) (x 2)(x 3)(x 1)",47,158,0,0,0,0,0,15.66666667,3,0,-3.976241135,44,0,0,-1.595477838,2.903248669,0,0
+what fraction can go into 9/12,7,25,0,1,0,1,1,7,1,0,-1.781428571,0,0,0,-4.915325114,0.008346824,0,0
+which choice shows the total distance traveled and displacement of the elevator ,12,68,0,0,0,0,1,12,1,0,11.26,0,0,0,-5.003517826,0.018091862,0,0.75
+Each of the four pit stops race car driver makes loses 10 seconds off the leader the pit crew make adjustments and at each other next to pit stop to Game seven seconds on later how much time is the driver of the leader,44,175,0,0,0,1,0,44,1,0,19.30295455,0,0,1,-4.767689115,0.079437009,-0.104166667,0.179166667
+which choice shows the total distance traveled and displacement of the elevator ,12,68,0,0,0,0,1,12,1,0,11.26,0,0,0,-5.003517826,0.018091862,0,0.75
+"Ryan and Marie had some marbles. If Ryan lost 15 marbles, he would have 4 times",16,64,0,0,0,0,0,8,2,0,0.82125,2,0,1,-4.247495742,0.045105364,0,0
+"Sally is given the information íÊäó»(1)= 0, íÊäó»(-2)=0 and íÊäó»(3)=0. Which are the factors of the polynomial? <br /><br /><br /> A) (x-2)(x 3)(x 1)  <br /> B) (x 2)(x-3)(x-1)  <br /> C) (x-2)(x-3)(x-1) <br />  D) (x 2)(x 3)(x 1)",53,188,6,0,0,0,0,17.66666667,3,0,-2.998930818,56,0,0,-1.595477838,2.903248669,0,0
+what is the unit price of a exta large bag,10,33,1,1,0,1,1,10,1,0,-0.887,0,0,0,-4.779523573,0.015684495,0.214285714,0.428571429
+An item with an original price of d,8,28,0,0,0,0,0,8,1,0,-0.945,0,0,1,-4.787491743,0.009395261,0.375,0.75
+"necesitamos calcular el volumen que tendra un ala , para lograr esto, primero calcularemos el volumen de un disco ancho en los en los bordes y delgado en el centro, formando al hacer rotar un area como mostrada en torno al eje x. Luego como el volumen del disco sera proporcionalal al del ala en relacion a los angulos <br /> de rotacion con los que se formo cada uno, tendremos que pi/6 (volumen del ala) / 2pi (volumen del disco). Es decir conociendo el volumen del disco, sabremos cuanto vale el volumen del ala despejando el ""volumen del ala"" de la ecuacion anterior. í‰ŒË encuentra dicho volumen",105,493,72,0,0,0,1,26.25,4,0,12.77785714,14,0,0,-3.879529172,0.574509714,0,0
+My Personal Assessment On the Previous Year,7,37,0,0,0,0,0,7,1,0,6.965714286,0,0,1,-5.729100283,0.005237313,-0.083333333,0.233333333
+How do you best portray a young boy on stage ,10,35,0,1,0,1,0,10,1,0,0.055,0,0,1,-5.083205987,0.011507037,0.55,0.35
+geometry in general lol,4,20,1,0,0,0,1,4,1,0,4.12,0,0,0,-6.214608098,0.002711363,0.425,0.6
+Please Help Me I Give Thanks,6,23,0,0,0,0,0,6,1,0,-0.375,0,0,1,-3.566661821,0.035696406,0.2,0.2
+"Gherkn, jhcfdesnvcfgtwjk cfbjdhuzjhuire",3,37,3,0,0,0,0,3,1,0,36.59,1,0,0,-6.907755279,0.001471507,0,0
+facts about cytoplasm<br />,4,24,1,0,0,0,1,4,1,0,5.2975,2,0,0,-5.991464547,0.00222086,0,0
+What is the answer for this I am trying to figure it out can somebody help me?,17,62,0,1,1,1,0,17,1,0,3.970588235,1,0,0,-4.006333685,0.029163571,0,0
+And what is 170 is 1/10 of 17?,9,23,0,0,1,1,0,9,1,0,-5.94,1,0,1,-5.703782475,0.00416251,0,0
+Which of the following interfere has the greatest absolute value,10,55,0,0,0,0,0,10,1,0,9.475,0,0,0,-4.213128098,0.023993487,0.4,0.666666667
+What inequality describes the situation? Let n = the number. A number exceeds  45,13,67,0,1,0,1,0,4.333333333,3,0,3.924358974,2,0,0,-3.937340813,0.061143676,0,0
+Which best describes the direct result of the nuremberg trials,10,53,1,0,0,0,0,10,1,0,8.533,0,0,0,-4.938314633,0.015928416,0.55,0.35
+"If XY=9 and VW=6,what is VX?<br /> A)3<br /> B)4<br /> C)12<br /> D)13",21,57,7,0,0,1,0,10.5,2,0,-7.881428571,14,0,0,-1.83210081,0.437606669,0,0
+"From this chapter, the Chinese believed that they could predict major political and military events by _____.<br /> mixing the five basic elements<br /> firing oracle bones<br /> visiting a psychic<br /> observing patterns in the sky",36,197,4,0,0,0,0,18,2,0,10.85833333,10,0,0,-5.794105113,0.027929246,-0.0075,0.165
+Prove that the following equation is an identity:  1 í¢ä‰åäóì 3 cos x í¢ä‰åäóì 4 cosí‰Œ_x / siní‰Œ_x  =     1 í¢ä‰åäóì 4 cos x / 1 í¢ä‰åäóì cos x      ,24,111,0,0,0,0,0,24,1,0,3.71875,0,0,0,-3.249136797,0.285955294,0,0.1
+someone help me with this please,6,27,0,0,0,0,1,6,1,0,2.765,0,0,0,-3.391247051,0.031289813,0,0
+welfare of my society depends on my society,8,36,0,0,0,0,1,8,1,0,3.765,0,0,0,-4.605170186,0.014900384,0,0
+"If , the value of m when D = 5.1 and v = 0.3 <br /> m=?  <br /> Use the equation D x V=M",23,63,2,0,0,1,0,5.75,4,0,-8.520652174,8,0,0,-3.546748778,0.094172392,0,0
+Which type of formula represents  ,5,28,0,0,0,0,0,5,1,0,7.446,0,0,0,-5.173154224,0.006811457,0,0
+Scrieti sirul numerelor naturale imparesi calculati  al catelea termen este 441 va rog rezolvarea nu decat rspunsul ofer coroana,19,109,17,0,0,0,0,19,1,0,15.09052632,0,0,0,-6.519989748,0.012953711,0,0
+who does most of the coding on minecraft or the head of coding,13,50,1,1,0,1,1,13,1,0,3.185384615,0,0,0,-6.214608098,0.003623779,0.5,0.5
+Shema narrative aux champs,4,23,1,0,0,0,0,4,1,0,7.6525,0,0,0,-6.502290171,0.002805838,0,0
+Best place to dump a dead body,7,24,0,0,0,0,0,7,1,0,-1.781428571,0,0,0,-4.733003557,0.016127756,0.4,0.35
+czy aleks jest pienkny,4,19,3,0,0,0,1,4,1,0,2.9425,0,0,0,-6.502290171,0.00277995,0,0
+cz ja kiedysbyde piosenkaszem,4,26,4,0,0,0,1,4,1,0,11.185,0,0,0,-6.684611728,0.002383924,0,0
+czy ja kiedys byde piosenkarzem<br />,6,32,6,0,0,0,1,6,1,0,4.335,2,0,0,-6.43775165,0.003692367,0,0
+íŒ_íŒÁíŒ_íŒŸíŒµ íŒËíïä‰åíŒŸíïäóÖíŒ_íŒ_íŒŸíŒ_íŒŸ íŒŸíŒéíŒŸ íŒËíŒ_íïäó_íïä‰åíŒµíŒ±íŒŸíïäó_íŒµíŒéíŒŸ íïŒíï¨ÍíïäóÁíŒµíïŒíïäó_íŒ_íï¨Ííï_íïäó_?,0,161,0,0,1,0,0,0,1,0,0,1,0,0,-6.725433722,0.002874426,0,0
+who invented the Television?,4,25,0,1,1,1,1,4,1,0,8.83,1,0,0,-5.991464547,0.00222086,0,0
+What is the value of y when x=11,9,25,0,1,0,2,0,9,1,0,-4.37,0,0,1,-4.767689115,0.006143732,0,0
+if any one is in school and bored text me plz i have nothing to do been here for an hour i need someone to talk to boy or girl i dont care,33,106,2,0,0,0,1,33,1,0,10.19909091,0,0,0,-4.64153783,0.047689652,-0.5,1
+"An essay on ""Welfare of my society depends on my well being""",12,49,0,0,0,0,0,12,1,0,3.0175,0,0,0,-3.606641356,0.056480745,0,0
+quien descrubio america,3,21,3,0,0,0,1,3,1,0,13.04,0,0,0,-6.396929655,0.002289448,0,0
+Welfare of my society depends on my well being.,9,39,0,0,0,0,0,9,1,0,2.956666667,1,0,1,-4.828313737,0.012272439,0,0
+Salut. In primul rand as vrea sa va urez un an nou fericit. As avea si eu nevoie de un text argumentativ despre importanta implicarii adolescentilor in activitati de protejare a mediului. Multumesc frumos,34,171,26,0,0,0,0,8.5,4,0,6.092941176,3,0,0,-5.364762466,0.047994449,0,0
+What are berkelium's chemical and physical properties,7,47,0,1,0,1,0,7,1,0,13.69428571,0,0,1,-2.811032594,0.106481528,0,0.142857143
+All of the following are challenges faced by Africa today EXCEPT _____.,11,60,0,0,0,0,0,11,1,0,7.191818182,1,0,0,-4.522932088,0.025303494,0,0.1
+Suppose y varies direcly with x.  y= 25 when x= 140  what does x= when y=36?<br /> A)140<br /> B)165<br /> C)201.6<br /> D)176,30,101,5,0,0,3,0,7.5,4,0,-5.434,15,0,0,-2.303585593,0.418589759,0,0
+"Question Word Bank The old building looks menacing with giant, ugly ____ adorning the drab exterior walls.   facet mandate pedigree oracles effrontery inexorable reprisal rapt incarnate genuflect restitution trident gargoyles exploits infection entrepreneur  ",32,223,0,0,0,0,0,16,2,0,18.5096875,2,0,0,-6.032286542,0.029651788,-0.4,0.8
+what is the highest mountain range in the world ,9,39,0,1,0,1,1,9,1,0,3.48,0,0,0,-5.585999439,0.006342106,0,0
+Paragraph on children for Asl ,5,25,1,0,0,0,0,5,1,0,4.62,0,0,0,-6.214608098,0.002711363,0,0
+What does Matthew say about Mrs. Blewett?,7,35,1,1,1,1,0,3.5,2,0,2.524285714,2,0,0,-5.349610661,0.007579849,0,0
+what is another word of dog<br />í‰Œæ(hint: it is my pic),12,47,2,1,0,1,1,12,1,0,-0.9075,4,0,0,-2.285236455,0.17266355,0,0
+The prime minister of the United Kingdom is both the head of government and the leader of Parliament. This means he or she,23,100,0,0,0,0,0,11.5,2,0,4.593478261,1,0,1,-5.521460918,0.014874844,0,0
+Which base is found only in DNA?<br /> adenine,9,38,1,0,0,0,0,4.5,2,0,-1.386666667,3,0,0,-4.828313737,0.012034033,-0.4,1
+"A(1,1)=? ...."".........................""...........................",3,66,0,0,0,0,0,0.75,4,0,-16.345,60,0,0,-1.86003831,0.202923069,0,0
+Iam from turkey.I m turkí‹Œ±sh,7,26,1,0,0,0,0,3.5,2,0,-5.55,1,0,0,-6.907755279,0.001471507,0,0
+Which is not determined by the type and arrangement of atoms ina mineral,13,60,1,0,0,0,0,13,1,0,6.808461538,0,0,0,-5.65499231,0.008627214,0,0
+bir í€Œ_í‹Œ±karma iíƒŸleminde fark 373 eksilenle í€Œ_í‹Œ±kaní‹Œ±n toplamí‹Œ± 867 olduí‹Ÿuna gí€Œ_re í€Œ_í‹Œ±kan kaí€Œ_tí‹Œ±r ?,19,115,10,0,1,0,1,19,1,0,3.439473684,1,0,0,-5.976197075,0.014531394,0,0
+bir í€Œ_í‹Œ±karma iíƒŸleminde fark 373 eksilenle í€Œ_í‹Œ±kaní‹Œ±n toplamí‹Œ± 867 olduí‹Ÿuna gí€Œ_re í€Œ_í‹Œ±kan kaí€Œ_tí‹Œ±r ?,19,115,10,0,1,0,1,19,1,0,3.439473684,1,0,0,-5.976197075,0.014531394,0,0
+I have an essay writing competition in my school and I need a good essay on the topic welfare of my society depends on my well being,27,106,0,0,0,0,0,27,1,0,10.56111111,0,0,1,-4.556380022,0.045360905,0.7,0.6
+boíƒŸ bí‹Œ±rakí‹Œ±lan yere ne gelmeli acil pls,9,41,8,0,0,0,1,9,1,0,-1.753333333,0,0,0,-6.907755279,0.003433516,0,0
+ Briefly describe the client/server model.,6,37,0,0,0,0,0,6,1,0,9.045,1,0,1,-5.403677882,0.007079384,0,0.333333333
+"In Anne of Green Gables why does Anne like the word ""scrumptious"" that she learned at the picnic?                   A.    She thinks it is fun to spell.                    B.    Anne believes using it makes her sound more grown up.                    C.    Mary Alice Bell uses it, and Anne wants Mary Alice to like her.                    D.    She thinks it is very expressive.  ",58,235,0,0,0,1,0,5.8,10,0,-0.420862069,10,0,0,-3.918102052,0.192842321,0.366666667,0.416666667
+<br /><br /> (3 pt)<br /><br /><br /> Use the map to choose the correct answer to the question.<br /><br /><br /><br /> Which letter identifies the city built by Tsar Peter the Great to serve as Russia's new capital?<br /><br /><br /><br /><br /><br /> A.<br />  A<br /><br /><br /> B.<br />  K<br /><br /><br /> C.<br />  L<br /><br /><br /> D.<br />  N <br /> https://static.k12.com/calms_media/media/945500_946000/945769/1/37d62da57b7b76f6fd3707cc89cbd7f37bd35688/europe1.jpg,81,405,35,0,0,0,0,8.1,10,1,-0.226296296,69,0,0,-2.918192696,0.414933095,0.468181818,0.602272727
+"Please choose the answer that describes the scientific notion of 5,098,000?",13,65,0,0,1,0,0,13,1,0,7.533076923,3,0,1,-4.376328614,0.029850155,0,0
+8 kiíƒŸilik 79 tane masa bulunan bir dí€Œ_í‹Ÿí€Œ_n salonu tamamen doludur .salondan  7 nin  18 kati kadar kiíƒŸi ayrí‹Œ±lí‹Œ±rsa geriye kaí€Œ_ kiíƒŸi kalí‹Œ±r ? TeíƒŸekkí€Œ_rler ,33,156,22,0,0,0,0,11,3,0,-0.800909091,2,0,0,-5.703782475,0.031580368,0,0
+matematyka zadanie 2 strona 33zbior zadaíƒäó_ klasa 2 gimnazjum ,9,55,7,0,0,0,1,9,1,0,9.236666667,0,0,0,-3.624340933,0.06308868,0,0
+"It said I caught a virus on my computer, when I opened a light shot picture that someone sent me. I got a warning like this before, but what is going on? Do I actually have a virus or is it a spam? That website seems to be a trusted website. <br /><br /> There was this gray screen saying: you caught a virus , and other stuff. Every time I pressed anywhere after i closed the tab, it would appear again. <br /><br /> What could be happening???!!!",86,359,5,0,0,3,0,12.28571429,7,0,2.786112957,24,0,0,-4.932213332,0.096598747,0.019921875,0.31875
+"Chaque sphí€ŒÂre de l'atomium reprí€Œ©sente un agrandissement d'un atome de fer de rayon atomique 0,25 nanometres 1) convertir ce rayon atomique en mí€ŒÂtre et donner son í€Œ©criture scientifique 2) quel est le rapport d'agrandissement ? Donner la rí€Œ©ponse sous forme d'une í€Œ©criture scientifique ",47,258,29,0,0,0,0,23.5,2,0,13.36893617,4,0,0,-3.428153192,0.363106065,0,0
+quais sao as diferení€Œ_as e semelhaní€Œ_as entre as sociedades organizadas em castas e as sociedades dirigidas por estamentos? ,20,110,12,0,0,0,1,10,2,0,7.3555,1,0,0,-6.032286542,0.015173885,0,0
+326 sayí‹Œ±ní‹Œ±n yí€Œ_zler basamaí‹Ÿí‹Œ± ní‹Œ±n basamak deí‹Ÿeri,12,61,5,0,0,0,0,12,1,0,-2.4775,0,0,0,-6.656440851,0.004277345,0,0
+when i want to backup Itools apps it failed<br /> what should i do?<br />,15,59,4,1,0,2,1,7.5,2,0,-1.352,5,0,0,-6.725433722,0.002874426,0,0
+"  An empty bucket is placed under a faucet dripping at a constant rate of 4 milliliters per minute. With the given information, which of these statements is a reasonable conclusion?",30,150,0,0,1,0,0,15,2,0,9.149,3,0,0,-4.538680445,0.056066783,0.033333333,0.477777778
+essay on discovering the hero with in myself,8,37,0,0,0,0,1,8,1,0,4.35375,0,0,0,-4.342805922,0.013793572,0,0
+Qui peut maider pour un dm de histoire ? Je suis en 6eme ,12,44,10,0,0,0,0,6,2,0,-1.5525,1,0,0,-5.075173815,0.026992096,0,0
+Hangi sayí‹Œ±ní‹Œ±n 2 katí‹Œ±ní‹Œ±n 4 fazlasí‹Œ± 84 'tí€Œ_r?,13,53,4,0,1,0,0,13,1,0,-4.785384615,1,0,0,-2.898770566,0.154881236,0,0
+" In the book Anne of Green Gables why does Anne like the word ""scrumptious"" that she learned at the picnic?                   A.    She thinks it is fun to spell.                    B.    Anne believes using it makes her sound more grown up.                    C.    Mary Alice Bell uses it, and Anne wants Mary Alice to like her.                    D.    She thinks it is very expressive.  ",60,242,0,0,0,1,0,6,10,0,-0.375,10,0,0,-3.941875969,0.194529979,0.366666667,0.416666667
+"Kí‹äó_t ABC ma miarí‹ä‹¢ 60 , kí‹äó_t DBCma miarí‹ä‹¢ 25 .jakí‹äó_ miarí‹ä‹¢ moíƒŒ_e mieí‹äóç kí‹äó_t wklensíƒäó_y DBA? Rospatrz 2 przypadki ",24,121,10,0,0,0,0,8,3,0,-3.88875,3,0,0,-4.668228322,0.051138664,0,0
+<p>How to numb your lip without using ice to pierce your lip?</p><p>Details please I am a little ditsy. </p>,23,90,0,0,0,1,0,7.666666667,3,0,-1.623623188,10,0,1,-5.087422437,0.053823897,-0.39375,0.75
+o fisa de lectura la  secerisul de Vasile Alecsandri,9,43,7,0,0,0,1,9,1,0,5.573333333,0,0,0,-4.392076971,0.032877544,0,0
+ fisa de lecturí‹¨Í la seceriíƒŸul de vasile alecsandri,9,48,8,0,0,0,0,9,1,0,4.003333333,0,0,0,-4.392076971,0.032877544,0,0
+im trying to delete my brainly account but it wont let be what to do,15,54,2,0,0,1,1,15,1,0,3.026,0,0,0,-5.298317367,0.013903585,0,0
+I need a moderater can one of the moderaters out there delete it for me,15,57,2,0,0,0,0,15,1,0,3.968,0,0,0,-4.186459851,0.024966266,0,0
+I need a moderater to delete my account can one of the moderaters out there delete it for me,19,74,2,0,0,0,0,19,1,0,6.414210526,0,0,0,-4.399318132,0.029065048,0,0
+Which is  the value of the expression when t=5,10,37,0,0,0,1,0,10,1,0,0.526,0,0,0,-4.639071738,0.010554454,0,0
+10a 2b 3a 4b simplified ,5,19,4,0,0,0,0,5,1,0,-1.032,0,0,1,-6.725433722,0.002874426,0,0
+Va rog mult de tot!Am nevoie urgent de informatii despre Resursele de sol din Rusia! ,16,70,10,0,0,0,0,5.333333333,3,0,1.254166667,2,0,0,-4.787491743,0.042199808,0,0
+streszczenie chlopcy z placu broni,5,30,4,0,0,0,1,5,1,0,9.33,0,0,0,-6.571283042,0.003270452,0,0
+Subtracting 3xy2 from 8xy2 gives the same result as the expression,11,56,2,0,0,0,0,11,1,0,8.048181818,0,0,1,-5.521460918,0.009601795,0,0.125
+when did schools start excisting????????<br /><br /><br /> HELP,9,55,4,1,0,1,1,4.5,2,0,0.706666667,14,0,0,-4.268697949,0.01723406,0,0
+a story about a time you had to overcome the force of gravity to get something done ,17,67,0,0,0,0,1,17,1,0,5.632941176,0,0,0,-4.782504201,0.024372356,0,0
+juk<br /> jlf<br /> \iff<br /> fed<br /> eee<br /> e<br /> e<br /> e,15,54,11,0,0,0,1,15,1,0,-3.882,14,0,0,-5.403677882,0.014171843,0,0
+"Coucou bonne anní€Œ©e et j'ai eu un 5,25/17 je voudrais savoir combien cela fais que 20 Merci d'avance",21,85,14,0,0,0,0,21,1,0,6.788571429,1,0,0,-3.782666984,0.128193952,0,0
+erica is 18 squares on Monday she need 7 more squares each day from Tuesday through,16,68,1,0,0,0,1,16,1,0,6.5875,0,0,0,-4.698260609,0.029031974,0.5,0.5
+hello my fellow youtube lovers,5,26,1,0,0,0,1,5,1,0,5.562,0,0,0,-6.684611728,0.002383924,0,0
+Quel est la capitale du Canada ,6,25,3,0,0,0,0,6,1,0,1.195,0,0,0,-5.332218918,0.010855584,0,0
+700 calories for 10 servings of ice cream,8,34,0,0,0,0,0,8,1,0,2.5875,0,0,1,-4.767689115,0.017071116,0,0
+Solve the equation for<br /> a.  K = 4a 9ab,9,33,3,0,0,0,0,4.5,2,0,-4.526666667,3,0,0,-3.786859862,0.041436139,0,0
+Why did the piano player bang her head against the keyboard?,11,50,0,1,1,1,0,11,1,0,5.050909091,1,0,1,-6.214608098,0.004510308,0,0
+Why would controlling this region have been an important goal for both sides in the war?,16,73,0,1,1,1,0,16,1,0,7.765,1,0,0,-4.883373514,0.019431176,0.4,1
+identify the type of sentence since the ,7,33,0,0,0,0,1,7,1,0,4.274285714,0,0,0,-4.48738715,0.016256778,0,0
+The sum of my dear ones digit and tens digit is 10 my tens digit is greater than my ones digit and a prime number what number am I,29,102,0,0,0,1,0,29,1,0,9.636206897,0,0,0,-4.468311003,0.058662338,0.5,0.5
+What do you do when your boyfriend barely talks to you but when he does he acts like he's so in love with you? ,24,87,0,1,0,3,0,12,2,0,1.4475,1,0,0,-3.341043459,0.092778253,0.275,0.35
+essay on the changing role of citizenship from pre independent india to present,13,67,2,0,0,0,1,13,1,0,9.344615385,0,0,0,-5.249527202,0.016052187,0,0.0625
+WHAT ARE THOSE?!(a question for points only),8,38,0,1,0,1,0,4,2,0,0.5875,4,0,1,-1.687399454,0.151457999,0,1
+barb is making the beads necklace she screams one would be debt free blue beads and one boy beating someone write the number for the first date beads that are white what is the rule for the pattern,38,160,0,0,0,1,1,38,1,0,17.40157895,0,0,0,-4.541991284,0.083799307,0.1625,0.308333333
+keidjfjckckfkdjjzjsjshxjcjgogjg,1,31,1,0,0,0,1,1,1,0,125.08,0,0,0,-6.907755279,0.000490502,0,0
+e<br /> ee<br /> eee<br /> eeee<br /> eeeeee<br /> eeeeeeeeee<br /> eeeeeeeeeeeee<br /> eeeeeeeeeeeeeeeeeee<br />,16,98,15,0,0,0,1,16,1,0,8.35375,16,0,0,-6.096825063,0.007621236,0,0
+essay on the role can play in the community to uphold childrens right,13,57,1,0,0,0,1,13,1,0,5.721538462,0,0,0,-4.883373514,0.019712877,0.285714286,0.535714286
+basic foods used every day studies weekly,7,35,0,0,0,0,1,7,1,0,5.62,0,0,0,-5.069475794,0.016726192,0,0.125
+ explain why all the graphs and just listen show the first quadrant but on the other three quadrants,18,82,0,0,0,1,0,18,1,0,9.026666667,0,0,0,-4.782504201,0.024136989,0.0625,0.354166667
+represent the model below using a multiplication equation. don't answer I can't attach a picture.,15,83,0,0,0,0,1,7.5,2,0,7.754,2,0,0,-3.234380011,0.137646647,0,0
+Yuri has a rope 12m long. he cuts it into pieces that are each 2m long. what fraction of the rope is one piece,24,87,2,0,0,1,0,8,3,0,-0.74875,2,0,0,-4.81795095,0.035273811,-0.05,0.4
+The ratio of cats to dogs in a park is 3 to 4,13,33,0,0,0,0,0,13,1,0,-2.973846154,0,0,1,-3.495508061,0.051056553,0,0
+the values in repeated subtraction,5,30,0,0,0,0,1,5,1,0,9.33,0,0,0,-6.396929655,0.002289448,0,0
+what did everyone say after the bumpy airplane landing/,9,47,0,1,0,1,1,9,1,0,7.143333333,0,0,0,-5.744604469,0.006545756,0,0
+how many square miles greater is the area of South Dakota the area if south Dakota?,16,68,0,1,1,1,1,16,1,0,6.293125,1,0,0,-4.585367559,0.035858716,0.5,0.5
+ id appreciate it if you showed your work.,8,34,0,0,0,0,0,8,1,0,1.99875,1,0,0,-5.075173815,0.00903075,0,0
+Divide draw a quick picture 26%3,7,27,0,0,0,0,0,7,1,0,-0.435714286,0,0,1,-3.986130978,0.039033445,0.333333333,0.5
+Determine the meter of this poem. Which sentence describes the metrical pattern?,12,69,0,0,1,0,0,6,2,0,7.8675,2,0,1,-4.921839795,0.018856351,0,0
+sum of one -sixth 2.8,6,17,0,0,0,0,1,3,2,0,-8.155,2,0,0,-4.402229342,0.016270644,0,0
+I NEEEEEED HELP WITH 2 QUESTIONS ;P<br /><br /> 1# Complete the equation of the graphed linear function. Write the slope in decimal form.<br /> y = ____ x + ____  <br /> https://static.k12.com/calms_media/media/1522000_1522500/1522149/1/04dbe2757ad7cd03c5d5690457065f810152c1f8/MS_IMC-140829-100651.jpg<br /><br /><br /> 2# Complete the equation of the graphed linear function in point-slope form.<br /> y - 6 = _____ ( x - ____ )<br /> https://static.k12.com/calms_media/media/1522000_1522500/1522152/2/ea5680084526ed31fb64b49393e78f6738cc10e9/MS_IMC-140829-100654.jpg,83,507,20,0,0,0,0,8.3,10,1,6.156506024,37,0,0,-3.184159388,0.495935682,0.1,0.4
+How is exercise 5 different from exercise 6,8,36,0,1,0,1,0,8,1,0,3.765,0,0,1,-4.358310108,0.021999681,0,0.6
+What is 21/100 reduced,5,19,0,1,0,1,0,5,1,0,-1.974,0,0,1,-6.214608098,0.001798946,0,0
+whats 1 plus 1? I need help please,8,27,0,0,0,0,1,4,2,0,-4.1225,1,0,0,-3.097923214,0.091583458,0,0
+help please  nygga joooo,4,20,2,0,0,0,1,4,1,0,4.12,0,0,0,-3.783190134,0.027860096,0,0
+How to write a numeral,5,18,0,1,0,1,0,5,1,0,-1.974,0,0,1,-4.509860006,0.007627831,0,0
+what is 2 +2  = i want the girl who likes Ronaldo answer this!,13,48,1,1,0,2,1,13,1,0,1.373846154,1,0,0,-3.566661821,0.063059775,0,0
+62 is decreased to 52,5,17,0,0,0,0,0,5,1,0,-2.916,0,0,1,-5.926926026,0.003486604,-0.4,0.7
+what is 3+3= ?????????????????? no this one is very tricky this one is out to Pegah,16,68,1,1,0,1,1,8,2,0,-3.3,18,0,0,-4.122744037,0.025592656,0.2,0.3
+If you had two thing to bring over your friend house what would it be<br />,16,60,1,0,0,1,0,16,1,0,3.349375,2,0,0,-4.465408244,0.02367494,0,0
+why would the task force recmmend that turbines have on yhe animal that make this region their home,18,82,2,1,0,1,1,18,1,0,9.026666667,0,0,0,-4.767689115,0.030208498,0,0
+which uses less electricity,4,24,0,0,0,0,1,4,1,0,8.83,0,0,0,-4.540631665,0.011802831,-0.166666667,0.066666667
+"Si una botella de agua con capacidad de 1.5 litros contiene agua en sus .75 partes, que cantidad de agua contiene?",22,94,16,0,1,0,0,7.333333333,3,0,1.504848485,4,0,0,-4.764891911,0.062635631,0,0
+which uses less electricity in an hour,7,32,0,0,0,0,1,7,1,0,3.601428571,0,0,0,-4.509860006,0.016213552,-0.166666667,0.066666667
+Calends receipt for lunch is shown below if Caleb pays with a $10 bill how much change will he receive,20,83,1,0,0,1,0,20,1,0,7.881,0,0,0,-4.362224007,0.050582508,0.2,0.2
+which if the following is a need of most plants,10,38,0,0,0,0,1,10,1,0,1.468,0,0,0,-3.540459449,0.027429001,0.25,0.3
+how does learning to fly in the city more difficult for the fledging?,13,57,0,1,1,1,1,13,1,0,5.359230769,1,0,0,-6.319968614,0.004088394,0.266666667,0.8
+describe a pattern for the table .then complete the table,10,48,0,0,0,0,1,5,2,0,3.207,1,0,0,-4.990832667,0.013331751,0.1,0.4
+what is the earthquake rule in relative dating<br />,9,44,1,1,0,1,1,9,1,0,4.526666667,2,0,0,-5.991464547,0.004369708,0,0
+im bored asf somebody down to message?,7,32,2,0,1,0,1,7,1,0,2.928571429,1,0,0,-5.426150738,0.008662847,-0.327777778,0.644444444
+Thx u! I asked my teacher and I got it:),10,31,1,0,0,0,0,5,2,0,-5.742,2,0,0,-2.661302939,0.105512384,0.5,1
+what did the scout say after fixing the little old lady's bicycle horn?,13,59,0,1,1,1,1,13,1,0,6.083846154,1,0,0,-3.237224964,0.111320361,-0.04375,0.35
+the median number of points scored by 9 players in a basketball game<br />,14,61,1,0,0,0,1,14,1,0,5.082857143,2,0,0,-4.69673738,0.025466447,0,0
+how many seeds does an orange have,7,28,0,1,0,1,1,7,1,0,0.91,0,0,0,-4.156219966,0.014578452,0.5,0.5
+56000 divided by 80 ...kgggyyghggtgtttttgttttt,5,42,1,0,0,0,0,2.5,2,0,16.558,3,0,0,-5.729100283,0.005428254,0,0
+"Name some 2016 trends, like outfits and websites.",8,42,0,0,0,0,0,8,1,0,6.12,2,0,1,-4.938314633,0.01548693,0,0
+Does anyone on here use peeranswer.?<br />,7,36,2,0,0,0,0,3.5,2,0,1.178571429,4,0,0,-4.540631665,0.011019011,0,0
+how are the ideas in the passage mostly organized,9,41,0,1,0,1,1,9,1,0,4.526666667,0,0,0,-5.65499231,0.005868415,0.5,0.5
+"how do you write 527,519 in expanded   from using exponents ",11,48,0,1,0,1,1,11,1,0,4.194545455,1,0,0,-4.803621125,0.014997406,0,0
+fill in the blank.7+35____+7,7,25,0,0,0,0,1,3.5,2,0,-7.568571429,1,0,0,-5.991464547,0.002178161,0,0
+"In order to say that something doesn't happen in Spanish,<br />",11,53,1,0,0,0,0,11,1,0,5.050909091,3,0,0,-3.038871766,0.110803971,0,0
+all the bats living in a cave form a ___,9,31,0,0,0,0,1,9,1,0,-2.276666667,0,0,0,-5.381698975,0.008855095,0,0
+apa itu tangga yakub?,4,18,4,0,1,0,1,4,1,0,0.5875,1,0,0,-5.80914299,0.005049039,0,0
+How do you poop and fart ,6,19,0,1,0,1,0,6,1,0,-3.515,0,1,1,-6.907755279,0.000981005,0,0
+what makes arachne through the designs she weaves into her cloth,11,54,1,1,0,1,1,11,1,0,7.191818182,0,0,0,-5.521460918,0.008227763,0,0
+What makes arachne through the designs she weaves into her cloth,11,54,1,1,0,1,0,11,1,0,7.191818182,0,0,0,-5.521460918,0.008227763,0,0
+A markup that is more than 200%,7,25,0,0,0,0,0,7,1,0,-1.781428571,0,0,1,-4.787491743,0.009156617,0.5,0.5
+what do you call a government in which voters can choose representatives to govern them? ,15,74,0,1,0,1,1,7.5,2,0,5.242,1,0,0,-5.703782475,0.008259302,0,0
+como se saca una ecuasion,5,21,5,0,0,0,1,5,1,0,0.852,0,0,0,-5.426150738,0.008864394,0,0
+Andrew keeps track of the distance he has travled<br />,10,46,2,0,0,0,0,10,1,0,3.823,2,0,0,-5.381698975,0.008928879,0,0
+como nasen los gatos de rasa,6,23,6,0,0,0,1,6,1,0,-0.375,0,0,0,-4.767689115,0.017653202,0,0
+how are numbers similar,4,20,0,1,0,1,1,4,1,0,4.12,0,0,0,-5.035953102,0.005170715,0,0.4
+"what are all the common factors for 2464 ,88",9,36,0,1,0,1,1,9,1,0,1.386666667,1,0,0,-5.249527202,0.008184091,-0.3,0.5
+Benefits for voting for Donald Trump... I mean we came to America for freedom!! HE IS DOING THE TOTAL OPPOSITE!!,20,93,0,0,0,0,0,6.666666667,3,0,2.156333333,7,0,1,-5.572754212,0.015466491,-0.162760417,0.479166667
+Which of the structures serve as the cells boundary from its environment,12,61,0,0,0,0,0,12,1,0,8.5125,0,0,0,-5.184988681,0.010571471,0,0
+Why do you think the framers made the constitution difficult to amend,12,58,0,1,0,1,0,12,1,0,7.335,0,0,1,-5.44141821,0.010291637,-0.5,1
+"what multiplies to -14 and adds up to-5,<br /> what multiplies to 21 and adds up to 10,<br /> what multiplies to -9 and adds up to 0,<br /> what multiplies to  -6 and adds up to -1,<br /> what multiplies to 5 and adds up to-6,<br /> what multiplies to 3 and adds up to 4,<br /> what multiplies to 64 and adds up to-16,<br /> what multiplies to 16 and adds up to 8,<br /> what multiplies to 9 and adds up to -6,<br /> what multiplies to -6 and adds up to-5,<br /> what multiplies to -12 and adds up to-1,",109,399,10,1,0,11,1,109,1,0,48.02100917,43,0,0,-4.339315517,0.193026643,0,0
+<br /> Which story problems could be solved using the given equation?<br /><br /> 1/5 divided by 10= ?<br /><br /><br /><br /><br /><br /><br /> Choose exactly two answers that are correct.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />   A. <br /><br /> A gear spins 1 full turn every 1/5  of a second. How many full turns will the gear spin in 10 seconds?  <br /><br /><br /><br /><br /><br /><br /><br /><br />   B. <br /><br /> Brandy bought 10 tickets for rides at the carnival with 1/5  of the money she earned. Each ticket costs the same amount. What fraction of the money she earned did she spend on each ticket?<br /><br /><br /><br /><br /><br /><br /><br /><br />   C. <br /><br /> Jeff is mixing flour and water to make paste. Each container can hold 1/5  of a bag of flour. How many containers will be needed for 10 bags of flour?<br /><br /><br /><br /><br /><br /><br /><br /><br />   D. <br /><br /> Effie used 1/5  of a watering can to water 10 small plants. Effie water,186,800,55,0,0,3,0,10.94117647,17,0,-0.436669829,126,0,0,-4.267758541,0.335022091,0.2125,0.359375
+the melting point of mercury is -36,7,29,0,0,0,0,1,7,1,0,0.91,1,0,0,-5.521460918,0.006198306,0,0
+Help! Sentence fragments  Answer B please http://imgur.com/meuwrPg,10,59,3,0,0,0,0,3.333333333,3,1,5.199666667,2,0,0,-3.133718017,0.106622585,0,0
+mr. done estimat used for gallons of gas over the course of a 2,14,50,2,0,0,0,1,7,2,0,-1.445,1,0,0,-3.918292618,0.045863829,0,0
+What's the verbal expression for c   2d,7,31,1,0,0,0,0,7,1,0,2.928571429,0,0,0,-2.69748125,0.137600853,0,0
+what are all the common factors of 1545 and 90,10,37,0,1,0,1,1,10,1,0,0.997,0,0,0,-5.075173815,0.009747961,-0.3,0.5
+ what are all the common factor of 1545 and 90,10,36,0,1,0,1,0,10,1,0,0.526,0,0,0,-4.710530702,0.013346819,-0.3,0.5
+Santiago collects 435 cents in nickels.<br /> How many nickels does he collect?,13,67,1,0,1,1,0,6.5,2,0,4.283076923,4,0,0,-4.860062436,0.020907171,0.5,0.5
+How to explain the universe,5,23,0,1,0,1,0,5,1,0,2.736,0,0,1,-4.892852258,0.005639216,0,0
+hi my is sumaya my brainly is does working when i log in i try to talk wait friend and i can writing any because i try to fix my brainly but i can not fix  my brainly  i need help .thank you by by b by ,47,153,4,0,0,1,1,23.5,2,0,5.552340426,1,0,0,-4.125346511,0.0867683,0,0
+what is 1 + 1 equal to ,6,16,0,1,0,1,1,6,1,0,-6.655,0,0,0,-2.882403588,0.06293542,0,0.25
+como se desglosa la montaí€Œ±a?,6,27,4,0,1,0,1,6,1,0,-1.16,1,0,0,-4.803621125,0.015157894,0,0
+como se desglosa la montaí€Œ±a,6,26,4,0,0,0,1,6,1,0,-1.16,0,0,0,-4.803621125,0.015157894,0,0
+.Which mechanical part or feature listed in the section on Critical Vehicle Systems do you think is most important?,19,97,0,0,1,0,0,19,1,0,11.62,2,0,0,-5.339139361,0.018842094,0.3,0.766666667
+Why is the idea of climate change controversial?,8,41,0,1,1,1,0,8,1,0,6.12,1,0,1,-5.403677882,0.007122084,0.55,0.95
+how many cups of greens do u have if u bought it at veggie salad bar,16,53,0,1,0,1,1,16,1,0,2.171875,0,0,0,-4.605170186,0.031126379,0.5,0.5
+apa yang dimaksud dengan gaya coulumb,6,32,5,0,0,0,1,6,1,0,6.69,0,0,0,-5.367310238,0.011052943,0,0
+Select the four most important financial ratios and the four most important operating ratios Explain the importance of these ratios how they calculated ,23,129,0,0,0,1,0,23,1,0,16.48695652,0,0,1,-5.128899215,0.030044072,0.36,0.6
+Jack bought 2 medium sodas and 2 hot dogs. He paid with $20. What was his change,17,64,0,0,0,1,0,5.666666667,3,0,-1.696078431,2,0,1,-3.537590007,0.098604652,0.25,0.85
+using ratios and rates to solve problems.have 20 cups of veggies how many cups of greens do u have if u bought ,23,89,0,0,0,1,1,11.5,2,0,2.340869565,1,0,0,-4.484217576,0.054991027,0.5,0.5
+suppose that a cubic function,5,25,0,0,0,0,1,5,1,0,4.62,0,0,0,-5.010635294,0.00752596,0,0
+A yeast cell feeding on glucose suddenly switches from producing carbon dioxide and many ATP molecules to producing ethyl alcohol and few ATP molecules. Which of the following would force the yeast to make this change?,36,183,0,0,1,0,0,18,2,0,11.25083333,2,0,1,-4.570978821,0.080352692,0.075,0.3
+jumlah bilangan kelipatan 3 antara 200 dan 400 adalah ,9,45,6,0,0,0,1,9,1,0,6.62,0,0,0,-4.360047728,0.034253386,0,0
+"which date should I use for this letter, 2016 or future date  (- .- .2049) ?",13,60,0,0,1,0,1,4.333333333,3,0,-0.423333333,8,0,0,-2.604919442,0.176212517,0,0.125
+mabfaat kerjasama bidang sosial antar negara,6,39,6,0,0,0,1,6,1,0,12.185,0,0,0,-6.907755279,0.002943014,0,0
+buktikan identitas trigonometri : tan 1/2 = sin/cos +1,9,46,3,0,0,0,1,9,1,0,4.526666667,0,0,0,-3.999034382,0.048394428,0,0
+"amati larutan diatas dan jawab soal di bawah ini ??<br /> 1.apakah kamu masih melihat wujud gula ? apa yang terjadi dengan gula ? jelaskan.<br /> 2. apakah kamu masih melihat wujud garam ? apa yang terjadi dengan garam jelaskan <br /> 3.apa kesimpulan dari dua pertanyaan hasil percobaan tersebut ? <br /> 4.tulis laporan berdasarkan perconbaan yang telah kamu lakukan . laporan harus membuat informasi bahan bahan ,peralatan,cara membuat,manfaat,dan kesimpulan",69,391,62,0,0,0,1,5.75,12,0,6.223695652,24,0,0,-5.156347105,0.122573051,0,0
+"amati larutan pada gambar diatas dan jawablah soal diatas<br /> 1.apakah kamu masih melihat wujud gula ? apa yang terjadi dengan gula ? jelaskan <br /> 2.apa kamu masih melihat wujud garam ? apa yang terjadi dengan garam? jelaskan <br /> 3.apa kesimpulan mu dari dua pertanyaan hasil percobaan tersebut ? <br /> 4.tulis laporan berdasarkan percobaan yang telah kamu lakukan. laporan harus membuat informasi bahan-bahan, peralatan, cara membuat, manfaat, dan kesimpulan.",70,398,62,0,0,0,1,6.363636364,11,0,6.647532468,24,0,0,-5.563308028,0.09710787,0,0
+ íæŒ_Œ_íæŒ_Œ_íæŒ_Œ_íæŒ_Œ_ íæŒ_ŒíæŒ_äó¢ íæŒ_ŒåíæŒ_Œ_íæŒ_ŒÈ íæŒ_ŒíæŒ_äó¢ íæŒ_ŒÈíæŒ«äó_íæŒ_Œ_íæŒ_Œ_  íæŒ_Œ_íæŒ«ä‰åíæŒ_ŒÂíæŒ«äó_ íæŒ_äó¢íæŒ«ä‰å íæŒ_äó¢íæŒ«ŒíæŒ_Œ_ íæŒ_äóÁíæŒ_Œ¬íæŒ«ŒíæŒ_ŒÁ 140 Years íæŒ_Œ_íæŒ«ÊíæŒ«Œ_  íæŒ_ŒÈíæŒ«äó_íæŒ_Œ_íæŒ_Œ_ íæŒ_ñíæŒ_ŒËíæŒ_Œ_íæŒ_ŒÂíæŒ_Œ_ íæŒ_Œ¬íæŒ_Œ_íæŒ«ä‰åíæŒ_ŒÂíæŒ_Œ_ íæŒ_äó¢íæŒ_Œ_  íæŒ_Œ_íæŒ_Œ_íæŒ_Œ_íæŒ_Œ_ íæŒ_äóÁíæŒ_Œ_íæŒ_ŒÂíæŒ_Œ_ íæŒ_ŒŸíæŒ_Œ_íæŒ_Œ_ íæŒ_äó¢íæŒ_Œ_  íæŒ_ŒÈíæŒ«äó_íæŒ_Œ_íæŒ_Œ_ íæŒ_ñíæŒ_ŒËíæŒ_Œ_íæŒ_ŒÂíæŒ_Œ_ íæŒ_Œ_íæŒ_ŒËíæŒ_ŒÂ íæŒ_äó¢íæŒ_Œ_ íæŒ_ŒåíæŒ_Œ_íæŒ_ŒÈ íæŒ_äóÁíæŒ_Œ_íæŒ_ŒÂíæŒ_Œ_ íæŒ_ŒŸíæŒ_ŒÈíæŒ«ŒíæŒ_Œ_íæŒ_Œ_íæŒ_Œ_ íæŒ_äó¢íæŒ_Œ_  íæŒ_Œ_íæŒ«äó_ íæŒ_ŒåíæŒ_Œ_íæŒ_Œ_íæŒ_äóì íæŒ_äó¢íæŒ«ÍíæŒ_ŒÂ íæŒ_äó¢íæŒ_ŒËíæŒ_Œ_íæŒ_ŒÂíæŒ«äóç íæŒ_äó¢íæŒ_ŒËíæŒ_Œ_íæŒ_ŒÂíæŒ«äóç íæŒ_ŒŸíæŒ_Œ_íæŒ_Œ_ íæŒ_äó¢íæŒ_Œ_ íæŒ_Œ_íæŒ«Ê ?,2,725,0,0,1,0,0,2,1,0,-1.59,1,0,0,-5.379286429,0.067516934,0,0
+fungsi dalam pembagunan nasional ,4,29,4,0,0,0,1,4,1,0,14.7175,0,0,0,-6.907755279,0.001962009,0,0
+<br /> íæŒ_ŒíæŒ_äó¢ íæŒ_Œ_íæŒ_Œ_íæŒ_Œ_íæŒ_Œ_<br /> íæŒ_ŒíæŒ_äó¢ íæŒ_ŒåíæŒ_Œ_íæŒ_ŒÈ<br /> íæŒ_ŒíæŒ_äó¢ íæŒ_ŒÈíæŒ«äó_íæŒ_Œ_íæŒ_Œ_<br /><br /> íæŒ_Œ_íæŒ«ä‰åíæŒ_ŒÂíæŒ«äó_ íæŒ_äó¢íæŒ«ä‰å íæŒ_äó¢íæŒ«ŒíæŒ_Œ_ íæŒ_äóÁíæŒ_Œ¬íæŒ«ŒíæŒ_ŒÁ 140 Years íæŒ_Œ_íæŒ«ÊíæŒ«Œ_<br /><br /> íæŒ_ŒÈíæŒ«äó_íæŒ_Œ_íæŒ_Œ_ íæŒ_ñíæŒ_ŒËíæŒ_Œ_íæŒ_ŒÂíæŒ_Œ_ íæŒ_Œ¬íæŒ_Œ_íæŒ«ä‰åíæŒ_ŒÂíæŒ_Œ_ íæŒ_äó¢íæŒ_Œ_ <br /> íæŒ_Œ_íæŒ_Œ_íæŒ_Œ_íæŒ_Œ_ íæŒ_äóÁíæŒ_Œ_íæŒ_ŒÂíæŒ_Œ_ íæŒ_ŒŸíæŒ_Œ_íæŒ_Œ_ íæŒ_äó¢íæŒ_Œ_ <br /> íæŒ_ŒÈíæŒ«äó_íæŒ_Œ_íæŒ_Œ_ íæŒ_ñíæŒ_ŒËíæŒ_Œ_íæŒ_ŒÂíæŒ_Œ_ íæŒ_Œ_íæŒ_ŒËíæŒ_ŒÂ íæŒ_äó¢íæŒ_Œ_<br /> íæŒ_ŒåíæŒ_Œ_íæŒ_ŒÈ íæŒ_äóÁíæŒ_Œ_íæŒ_ŒÂíæŒ_Œ_ íæŒ_ŒŸíæŒ_ŒÈíæŒ«ŒíæŒ_Œ_íæŒ_Œ_íæŒ_Œ_ íæŒ_äó¢íæŒ_Œ_<br /><br /> íæŒ_Œ_íæŒ«äó_ íæŒ_ŒåíæŒ_Œ_íæŒ_Œ_íæŒ_äóì íæŒ_äó¢íæŒ«ÍíæŒ_ŒÂ íæŒ_äó¢íæŒ_ŒËíæŒ_Œ_íæŒ_ŒÂíæŒ«äóç íæŒ_äó¢íæŒ_ŒËíæŒ_Œ_íæŒ_ŒÂíæŒ«äóç íæŒ_ŒŸíæŒ_Œ_íæŒ_Œ_ íæŒ_äó¢íæŒ_Œ_ íæŒ_Œ_íæŒ«Ê ?,14,798,12,0,1,0,0,14,1,0,-3.664285714,25,0,0,-5.377009635,0.069571306,0,0
+jawablah soal berikut ini,4,22,4,0,0,0,1,4,1,0,6.475,0,0,0,-5.460836296,0.007065571,0,0
+jawablah soal berikut ini,4,22,4,0,0,0,1,4,1,0,6.475,0,0,0,-5.460836296,0.007065571,0,0
+jawablah soal yang ada di atas ini tolong jawab semuanya ya,11,49,9,0,0,0,1,11,1,0,5.050909091,0,0,0,-5.592078485,0.01687313,0,0
+jawablah soal diatas tolong jawab ya,6,31,5,0,0,0,1,6,1,0,5.905,0,0,0,-5.521460918,0.010078484,0,0
+valoarea de aadevar a propozitiei (2 la a 3-a  2 x 2 la a 4-a   2 la a 9-a):(8 2 la a 12-a : 2 la a 3-a  2 la a 5-a = 2,39,82,4,0,0,0,1,39,1,0,6.523846154,9,0,0,-2.572509111,0.591601622,0,0
+Ayní‹Œ± hacimdeki bí€Œ_tí€Œ_n sí‹Œ±ví‹Œ±larí‹Œ±n kí€Œ_tleleri eíƒŸit midir? ,14,70,4,0,0,0,0,7,2,0,-5.482142857,1,0,0,-6.774223886,0.00385543,0,0
+"Ancient Egypt's Middle Kingdom occurred between 2000 BCE and 1650 BCE. According to the map below, the Persian Empire was in existence _____ ancient Egypt's Middle Kingdom.",26,146,2,0,0,0,0,13,2,0,10.06923077,3,0,1,-3.854612098,0.125607386,0,0
+Almanca perfect olarak giyindim nasí‹Œ±l denir?,7,42,5,0,1,0,0,7,1,0,6.965714286,1,0,0,-6.502290171,0.004182869,1,1
+makatuwiran bang iugnay ang pagkakakilanlan at katangian ng isang anak sa kaniyang ama?sa poon?,15,82,13,0,1,0,1,7.5,2,0,7.44,2,0,0,-6.700115914,0.007616385,0,0
+escribe cinco ní€Œ_meros racionales fraccionarios que cumplan con la condicií€Œ_n -2,13,74,8,0,0,0,1,13,1,0,8.62,1,0,0,-5.434449541,0.018500596,0,0
+hey brainly. :).......................:0<br />,4,43,2,0,0,0,1,1.333333333,3,0,-5.455833333,27,0,0,-2.351775337,0.100503298,0.5,1
+"G={x | -3 &lt; x &lt; 12, x Elemen B},dengan B adalah himpunan bilangan bulat",16,63,8,0,0,0,0,16,1,0,1.8775,7,0,0,-3.459840273,0.198133606,0,0
+Jumlah kuadrat akar-akar persamaan x2 í¢ä‰åäóì (k   2)x   2k = 0 adalah 20. Hitunglah nilai k.,16,75,10,0,0,0,0,8,2,0,0.526875,5,0,0,-2.891846529,0.241505261,0,0
+Please answer this ASAP! Giving out 10 of my points! How is the acceleration related to the time for the data table?<br /><br /> A) The acceleration is constant<br /><br /> B) The acceleration is constantly decreasing<br /><br /> C) The acceleration is constantly increasing<br /><br /> D) The acceleration cannot be determined from this data,56,287,8,0,0,1,0,14,4,0,7.101428571,23,0,0,-2.583622623,0.462470534,0,0.355555556
+todos los ní€Œ_meros enteros menores que 5,8,36,6,0,0,0,1,8,1,0,1.41,0,0,0,-4.81061416,0.019836257,0,0
+"Over time, pollution generally leads to which of the following?",10,54,0,0,1,0,0,10,1,0,8.062,2,0,1,-4.186459851,0.024206638,0.025,0.3
+was this change reflective of a decline of the American Dream,11,51,0,0,0,0,1,11,1,0,5.907272727,0,0,0,-5.572754212,0.007569887,0,0
+oh I wished I would look after me teeth explanation ,10,42,0,0,0,0,1,10,1,0,3.352,0,0,0,-5.061928588,0.013753033,0,0
+why+is+hitler+so+great,5,22,1,1,0,1,1,5,1,0,-1.974,0,0,0,-6.907755279,0.000490502,0,0
+Hi ...... .................................................,1,57,0,0,0,0,0,0.5,2,0,-11.76,55,0,1,-5.298317367,0.002054372,0,0
+is the n word still offensive to monkeys,8,33,0,0,0,0,1,8,1,0,1.99875,0,0,0,-4.733003557,0.015902111,0,0
+Essay on discovering the hero within myself ,7,37,0,0,0,0,0,7,1,0,6.965714286,0,0,1,-4.532849524,0.01548123,0,0
+Essay on 'Small act of kindness can make a big difference',11,48,2,0,0,0,0,11,1,0,4.622727273,0,0,0,-3.07045582,0.121256078,-0.125,0.25
+Porque es tan importante la participacií€Œ_n ciudadana en la vida de una nacií€Œ_n ,15,70,8,0,0,0,0,15,1,0,5.538,0,0,0,-4.799875802,0.037555453,0,0
+Which group has the largest number of voters?,8,38,0,0,1,0,0,8,1,0,4.35375,1,0,1,-4.402229342,0.016384589,0,0
+In the 1960s mexican americans dought discrimination in,8,48,4,0,0,0,0,8,1,0,10.83,0,0,0,-6.725433722,0.002874426,0,0
+what does a television energy get,6,28,0,1,0,1,1,6,1,0,3.55,0,0,0,-4.245167452,0.014683302,0,0
+"If+your+company+uses+a+nonprice+competition+strategy,+what+should+you+focus+on?+A.+Lowering+prices+B.+Differentiation+C.+Creating+direct+competitors+D.+The+public+sector",26,169,1,0,0,1,0,4.333333333,6,0,5.735897436,6,0,0,-6.907755279,0.000490502,0,0
+Two+factors+of+72+that+add+to+positive+18,9,41,0,0,0,0,0,9,1,0,0.34,0,0,1,-6.907755279,0.000490502,0,0
+"(please disregard, i have solved this problem)",7,40,0,0,0,0,0,7,1,0,6.965714286,3,0,1,-2.060946959,0.158796937,0,0
+"If+consumers+start+to+believe+they+need+a+product,+what+is+likely+to+happen?+A.+The+demand+becomes+less+elastic.+B.+The+demand+becomes+more+elastic.+C.+The+supply+decreases.+D.+The+price+decreases.",34,197,0,0,0,1,0,3.777777778,9,0,1.792418301,10,0,0,-6.907755279,0.000490502,0,0
+"(Please disregard, I have answered this problem.)",7,43,0,0,0,0,0,3.5,2,0,6.561428571,4,0,1,-2.062256717,0.158375022,0,0
+Can you give examples on how I can solve 3.14 pi?,12,39,0,0,1,1,0,6,2,0,-3.9075,2,0,1,-4.96184513,0.013091392,0,0
+why+do+you+think+the+iroquois+may+have+preferred+to+be+neutral+in+the+conflict+between+france+and+england,19,105,2,1,0,1,1,19,1,0,9.636842105,0,0,0,-6.907755279,0.000490502,0,0
+Your body is having difficulty ,5,26,0,0,0,0,0,5,1,0,5.562,0,0,1,-5.11599581,0.004581018,0,0
+fie o prisma triunghiuri regulata l bazei Ab=6 cm,10,41,4,0,0,0,1,10,1,0,2.41,0,0,0,-6.214608098,0.007106959,0,0
+Does anybody know how to upload a video from YouTube and post  it on Instagram? Like do i need an app for that? What can i do? Plus I have a Samsung Tablet :),33,124,4,0,0,2,0,8.25,4,0,-0.320454545,4,0,0,-3.275446176,0.132343666,0.5,1
+"2064-01-03-04-00_files/i0180000.jpg+Based+on+this+diagram,+what+is+the+correct+way+to+write+this+sentence?+A.+Frank+Lloyd+Wright,+an+American,+was+an+architect.+B.+An+architect,+Frank+Lloyd+Wright,+was+American.+C.+An+American+architect+was+Frank+Lloyd+Wright.+D.+Frank+Lloyd+Wright+was+an+American+architect.",54,309,2,0,0,1,0,5.4,10,0,2.377777778,19,0,0,-6.907755279,0.000490502,0,0
+Which+correctly+lists+all+of+the+belligerents+in+the+Crimean+War?,11,65,0,0,1,0,0,11,1,0,7.191818182,1,0,1,-6.907755279,0.000490502,0,0
+There+were+several+reasons+for+the+Spanish-American+War.+One+reason+the+United+States+went+to+war+was+to+support+the+Cubans+fighting+for+independence+from+Spain.+What+was+another+reason?,31,186,0,0,1,1,0,10.33333333,3,0,6.982795699,4,0,1,-6.907755279,0.000490502,0,0
+ N designe un nombre entier relatif exprimer en fonction de n l entier qui suit n,16,65,10,0,0,0,0,16,1,0,5.704375,0,0,0,-4.789994873,0.047484002,0,0
+What is the quotient of c and 5,8,24,0,1,0,1,0,8,1,0,-3.3,0,0,1,-2.995732274,0.041165862,0,0
+Is james the best player in NBA?<br />,8,31,2,0,0,0,0,4,2,0,-3.53375,3,0,0,-4.998212774,0.009848692,1,0.3
+nachos are life !!! lol,4,19,1,0,0,0,1,2,2,0,-1.59,3,0,0,-6.060457419,0.003090577,0.8,0.7
+"Se+considera+numarul+natural+a=2004+^+n+1+++2005+^n+++n,+n&gt;1.+Aratati+ca+daca+numarul+a+este+divizibil+cu+5,+atunci+si+numarul+n^2+++2004+este+divizibil+cu+5",33,160,12,0,0,0,0,16.5,2,0,3.376363636,4,0,0,-4.474141924,0.019842652,0,0
+Tí€Œ_remiíƒŸ sí€Œ_zcí€Œ_klere í€Œ_rnek,6,37,4,0,0,0,0,6,1,0,-5.085,0,0,0,-6.214608098,0.002737251,0,0
+Tí€Œ_remiíƒŸ sí€Œ_zcí€Œ_klere í€Œ_rnek,6,37,4,0,0,0,0,6,1,0,-5.085,0,0,0,-6.214608098,0.002737251,0,0
+Which of the following is Not equal to 0.536 kilometers,11,46,0,0,0,0,0,5.5,2,0,0.588181818,1,0,0,-4.104394898,0.021188544,0,0.175
+quanto í€Œ© 18 mil dolares,4,22,2,0,0,0,1,4,1,0,1.765,0,0,0,-5.521460918,0.007819018,0,0
+i need help with a cause and effect essay about peer pressure can someone help write me an essay.i would really like it if you wrote it but its ok if you just help me write it.,38,140,1,0,0,0,1,19,2,0,5.174736842,2,0,0,-3.999034382,0.10628664,0.35,0.35
+Suppose a solution has a volume of 2.0 liters. Which amount of solute would produce the most concentrated solution?,20,97,0,0,1,0,0,6.666666667,3,0,4.040333333,3,0,1,-4.710530702,0.035575398,0.5,0.5
+Which is not considered a sex linked trait?,8,36,0,0,1,0,0,8,1,0,3.17625,1,1,1,-6.348139491,0.003159165,0,0
